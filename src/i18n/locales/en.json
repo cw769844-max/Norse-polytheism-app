@@ -1,0 +1,277 @@
+{
+  "app": {
+    "name": "Hearth & Well"
+  },
+  "tabs": {
+    "hearth": "Hearth",
+    "wheel": "Wheel",
+    "well": "Well",
+    "settings": "Settings"
+  },
+  "common": {
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "inDays_one": "In {{count}} day",
+    "inDays_other": "In {{count}} days",
+    "daysLeft_one": "{{count}} day left",
+    "daysLeft_other": "{{count}} days left",
+    "happeningNow": "Happening now",
+    "dayOf": "Day {{day}} of {{total}}",
+    "back": "Back",
+    "notFound": "Nothing found here."
+  },
+  "hearth": {
+    "greeting": "Welcome to the hearth",
+    "todayHeading": "Today",
+    "nextTide": "Next holy tide",
+    "ongoingTide": "Holy tide underway",
+    "comingUp": "Coming up",
+    "seeWheel": "See the whole Wheel"
+  },
+  "moon": {
+    "title": "The moon",
+    "illumination": "{{percent}}% lit",
+    "nextFull": "Full moon {{when}}",
+    "nextNew": "New moon {{when}}",
+    "phase": {
+      "new": "New moon",
+      "waxingCrescent": "Waxing crescent",
+      "firstQuarter": "First quarter",
+      "waxingGibbous": "Waxing gibbous",
+      "full": "Full moon",
+      "waningGibbous": "Waning gibbous",
+      "lastQuarter": "Last quarter",
+      "waningCrescent": "Waning crescent"
+    }
+  },
+  "wheel": {
+    "title": "The Wheel of the Year",
+    "subtitle": "Reckoning: {{reckoning}}",
+    "previousYear": "Previous year",
+    "nextYear": "Next year",
+    "dialLabel": "Wheel of the year {{year}}. Today is marked. Next holy tide: {{next}}.",
+    "daysUntil_one": "day until",
+    "daysUntil_other": "days until",
+    "tidesThisYear": "Holy tides in {{year}}",
+    "changeReckoning": "Change reckoning in Settings"
+  },
+  "season": {
+    "winterSolstice": "winter solstice",
+    "springEquinox": "spring equinox",
+    "summerSolstice": "summer solstice",
+    "autumnEquinox": "autumn equinox"
+  },
+  "rule": {
+    "season": "On the {{event}}",
+    "crossQuarter": "Midway between the {{event}} and the {{next}}",
+    "weekdayInWindow": "The {{weekday}} between {{from}} and {{to}}",
+    "fullMoon_1": "The first full moon on or after {{base}}",
+    "fullMoon_2": "The second full moon on or after {{base}}",
+    "base": {
+      "season": "the {{event}}",
+      "crossQuarter": "the day midway between the {{event}} and the {{next}}",
+      "weekdayInWindow": "the {{weekday}} between {{from}} and {{to}}"
+    }
+  },
+  "tide": {
+    "when": "When",
+    "thisTime": "This time",
+    "nextTime": "The time after",
+    "howDated": "How it's dated ({{reckoning}})",
+    "about": "About",
+    "observance": "Ways to keep it",
+    "prepare": "Prepare",
+    "sources": "Sources",
+    "sourcesNote": "Every claim is labelled by how well it is supported. Citations are being reviewed by scholars of Old Norse.",
+    "lasts_one": "Kept over {{count}} day",
+    "lasts_other": "Kept over {{count}} days"
+  },
+  "tier": {
+    "attested": "Attested",
+    "scholarly": "Scholarly",
+    "community": "Community",
+    "upg": "Personal gnosis",
+    "description": {
+      "attested": "Stated in a primary source, such as the Eddas, sagas or skaldic poems.",
+      "scholarly": "Academic reconstruction, archaeology, or documented later custom.",
+      "community": "Common modern Heathen practice. Not ancient, but widely shared.",
+      "upg": "Unverified personal gnosis: one person's spiritual experience, clearly marked as such."
+    }
+  },
+  "well": {
+    "title": "The Well",
+    "intro": "The lore library is being filled: the Hávamál and Völuspá first, then the rest of the Poetic and Prose Eddas and the sagas, in public-domain translations with the Old Norse alongside.",
+    "tiersTitle": "How we label what we know",
+    "tiersIntro": "Heathenry today draws on surviving sources, scholarship, shared modern custom and personal experience. All of these have a place. We never blur them together."
+  },
+  "settings": {
+    "title": "Settings",
+    "reckoning": "Reckoning",
+    "reckoningHelp": "There is no single correct calendar. Choose the one your practice or kindred follows.",
+    "reckoningOption": {
+      "solar": "Solar",
+      "lunar": "Lunar",
+      "icelandic": "Old Icelandic"
+    },
+    "reckoningDescription": {
+      "solar": "Tides fall on the solstices, equinoxes and the days midway between them. The most common modern approach.",
+      "lunar": "Each tide falls on the full moon after its seasonal marker. A modern reconstruction; some scholars argue pre-Christian feasts followed the moon, and details vary between groups.",
+      "icelandic": "Uses the weekday rules of the medieval Icelandic calendar (misseristal): the first day of summer, the first day of winter, and the months Þorri and Góa."
+    },
+    "hemisphere": "Hemisphere",
+    "hemisphereHelp": "In the southern hemisphere the Wheel turns with your seasons, so Yule falls in June.",
+    "hemisphereOption": {
+      "north": "Northern",
+      "south": "Southern"
+    },
+    "appearance": "Appearance",
+    "appearanceOption": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System"
+    },
+    "values": "Our values",
+    "valuesBody": "Hearth & Well is for everyone who is called to the gods, ancestors and wights of the North, whatever their ancestry, ethnicity, gender or sexuality. There is no place here for racism or for using the tradition to exclude people.",
+    "free": "Free at the hearth",
+    "freeBody": "The gods, the sources and the practice will never be behind a paywall. No ads, and your data is never sold.",
+    "version": "Version {{version}}"
+  },
+  "weekday": {
+    "0": "Sunday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday"
+  },
+  "tides": {
+    "yule": {
+      "name": "Yule",
+      "summary": "Midwinter: the longest nights, the return of the sun, and the holiest tide of the year.",
+      "about": "Yule (Jól) is the great midwinter feast. Heimskringla says that before King Hákon the Good moved it to coincide with Christmas, Yule began on hǫkunótt, \"midwinter night\", and was kept for three nights. Feasting, drinking toasts to the gods and swearing oaths were at its heart. Today many Heathens keep twelve nights, beginning with Mother's Night in honour of the dísir and ancestral mothers.",
+      "observance": "Light a candle or fire at nightfall on Mother's Night and name the women of your line. Hold a feast and a sumbel with toasts to the gods, the ancestors and your living kin. Make a Yule oath for the year to come, and keep it.",
+      "sources": {
+        "hokunott": "King Hákon made a law moving the start of Yule to the Christian date; before that it began on hǫkunótt (midwinter night) and lasted three nights.",
+        "hladir": "Describes a sacrificial feast at Hlaðir, with toasts to Óðinn for victory and to Njǫrðr and Freyr for good seasons and peace.",
+        "modranecht": "Bede records that the pagan English began their year on 25 December, calling that night Modranecht, \"night of the mothers\".",
+        "twelveNights": "Most modern Heathens keep twelve nights of Yule, usually starting on Mother's Night, the eve of the solstice."
+      },
+      "prep": {
+        "candles": "Gather candles or wood for a Yule fire",
+        "mothersNight": "Learn the names of the mothers in your line for Mother's Night",
+        "oath": "Think carefully about an oath you can keep for the coming year",
+        "feast": "Plan the Yule feast and who you will share it with"
+      }
+    },
+    "thorrablot": {
+      "name": "Þorrablót",
+      "summary": "A midwinter feast at the start of the old Icelandic month Þorri.",
+      "about": "Þorri is a month of the Old Icelandic calendar, beginning in late January. A legendary account says a king named Þorri held a sacrifice every midwinter that was called Þorrablót, and the month took its name from him. The feast was revived in 19th-century Iceland and is now celebrated across Iceland and by Heathens worldwide with traditional food, drink and song.",
+      "observance": "Share a hearty winter meal with friends and family. Raise a horn to Þorri and to the gods, and tell stories through the long evening.",
+      "sources": {
+        "thorri": "Tells of Þorri, who held a sacrifice every year at midwinter called Þorrablót; the month Þorri was named after him.",
+        "revival": "Þorrablót feasts were revived in Iceland in the 19th century and remain a popular midwinter tradition."
+      },
+      "prep": {
+        "food": "Plan a winter feast; traditional Icelandic dishes are optional",
+        "guests": "Invite friends, family or your kindred",
+        "toast": "Prepare a toast or a story to share"
+      }
+    },
+    "disablot": {
+      "name": "Dísablót",
+      "summary": "An offering to the dísir: protective female spirits and ancestral mothers.",
+      "about": "The dísir are female powers who watch over families and individuals, often understood as ancestral mothers. Sources show dísablót being held at different times in different places: in Sweden it was tied to the great Uppsala assembly in late winter, while Icelandic sagas place it at Winter Nights in autumn. In this app, Dísablót marks the late-winter observance; the autumn one is part of Winter Nights.",
+      "observance": "Set out an offering of food and drink for the dísir. Speak the names of the women in your family who have died, and ask the dísir to keep watch over your household.",
+      "sources": {
+        "uppsala": "The chief sacrifice of the Swedes was held at Uppsala in the month Gói, together with an assembly and market (the Dísaþing).",
+        "adils": "King Aðils dies after his horse stumbles while he rides around the hall of the dísir during a dísablót.",
+        "autumn": "A dísablót is held at Winter Nights, showing that in Iceland it could be an autumn observance.",
+        "modern": "Many modern Heathens honour the dísir in late winter; others do so at Winter Nights."
+      },
+      "prep": {
+        "names": "Write down the names of the women in your line you wish to honour",
+        "offering": "Prepare food and drink for the offering",
+        "quiet": "Set aside a quiet evening"
+      }
+    },
+    "sigrblot": {
+      "name": "Sigrblót",
+      "summary": "The summer sacrifice \"for victory\", welcoming the light half of the year.",
+      "about": "Snorri Sturluson writes that Óðinn established three great sacrifices: at the beginning of winter for a good year, at midwinter for growth, and at summer for victory (sigr). Sigrblót celebrates the arrival of summer and asks for success in the season's undertakings. The Old Icelandic calendar's first day of summer, still a public holiday in Iceland, falls in late April. Many modern Heathens call this tide Summer Finding.",
+      "observance": "Make an offering to Óðinn or the gods you honour and name what you hope to achieve this summer. Spend time outdoors and greet the returning season.",
+      "sources": {
+        "odinsLaw": "Óðinn's law: sacrifice at the beginning of winter for a good year, at midwinter for growth, and at summer for victory.",
+        "firstDayOfSummer": "The first day of summer falls on the Thursday between 19 and 25 April. It is still a public holiday in Iceland.",
+        "summerFinding": "Many modern calendars celebrate \"Summer Finding\" at the spring equinox or in mid-April."
+      },
+      "prep": {
+        "goal": "Choose a goal for the summer to dedicate",
+        "outdoors": "Find an outdoor place for the blót",
+        "offering": "Prepare an offering of mead, ale or juice"
+      }
+    },
+    "midsummer": {
+      "name": "Midsummer",
+      "summary": "The height of the sun: bonfires, flowers and the shortest night.",
+      "about": "Midsummer remains one of the most beloved festivals in the Nordic countries, with bonfires, flower garlands and dancing. Its pre-Christian roots are likely but thinly recorded in Old Norse sources, so much of what we know comes from later folk custom. Modern Heathens celebrate the sun at its height and the bounty of the season.",
+      "observance": "Light a fire, gather flowers, and stay up through the shortest night. Give thanks to Sól, the sun, and to the gods of growth and plenty.",
+      "sources": {
+        "folk": "Midsummer bonfires and celebrations are well documented in Scandinavian folk custom from later centuries.",
+        "modern": "Modern Heathens widely celebrate Midsummer at the summer solstice."
+      },
+      "prep": {
+        "fire": "Plan a safe fire or candles",
+        "flowers": "Gather flowers for a garland or the altar",
+        "sunrise": "Check the times of sunset and sunrise"
+      }
+    },
+    "freyfaxi": {
+      "name": "Freyfaxi",
+      "summary": "A modern harvest festival honouring Freyr and the first fruits.",
+      "about": "Freyfaxi takes its name from the stallion in Hrafnkels saga that the chieftain Hrafnkell dedicated to Freyr. The festival itself is modern: Heathens celebrate the first harvest, give thanks to Freyr for the fertility of the land, and often hold games and contests.",
+      "observance": "Bake bread from new grain, offer the first fruits of your garden or market, and give thanks to Freyr and the land.",
+      "sources": {
+        "horse": "Hrafnkell dedicates his horse Freyfaxi to Freyr and swears to kill anyone who rides it without his leave.",
+        "harvest": "A modern Heathen first-harvest festival, usually held in early August in the northern hemisphere."
+      },
+      "prep": {
+        "firstFruits": "Set aside the first fruits of the season",
+        "bread": "Bake or buy a loaf of fresh bread",
+        "thanks": "Think of what the land has given you this year"
+      }
+    },
+    "haustblot": {
+      "name": "Haustblót",
+      "summary": "Autumn thanksgiving at the equinox, as the days and nights become equal.",
+      "about": "Haustblót (\"autumn sacrifice\") is a modern name for a harvest thanksgiving at the autumn equinox. It is a time to give thanks for the year's harvest, share abundance, and honour the land-wights who make it possible.",
+      "observance": "Share a harvest meal, give part of it back to the land as an offering to the landvættir, and give to those in need.",
+      "sources": {
+        "harvest": "A modern Heathen harvest festival at the autumn equinox."
+      },
+      "prep": {
+        "harvest": "Gather seasonal food for a harvest meal",
+        "share": "Choose a way to share with those in need",
+        "landwights": "Find a place outdoors to leave an offering to the land-wights"
+      }
+    },
+    "winterNights": {
+      "name": "Winter Nights",
+      "summary": "The turning of the year toward winter: a time for the ancestors, the álfar and the dísir.",
+      "about": "Winter Nights (Vetrnætr) mark the start of winter in the Old Icelandic calendar. Snorri names a sacrifice \"at the beginning of winter, for a good year\", and the sagas place a dísablót at Winter Nights. The skald Sigvatr tells of being turned away from a Swedish farm during an álfablót, an offering to the elves, in autumn. Many Heathens consider Winter Nights the start of the new year.",
+      "observance": "Honour your ancestors, the álfar and the dísir with a quiet household blót. Take stock of the year's harvest and your stores for winter.",
+      "sources": {
+        "odinsLaw": "Óðinn's law: sacrifice at the beginning of winter for a good year.",
+        "disablot": "A dísablót is held at Winter Nights.",
+        "alfablot": "Sigvatr is refused hospitality at farms in Sweden because an álfablót is being held.",
+        "firstDayOfWinter": "The first day of winter falls on the Saturday between 21 and 27 October."
+      },
+      "prep": {
+        "ancestors": "Gather photos or mementos of your ancestors",
+        "alfar": "Prepare a private offering for the álfar",
+        "stores": "Take stock of what you have for the winter ahead"
+      }
+    }
+  }
+}
