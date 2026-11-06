@@ -13,6 +13,20 @@ export interface Stanza {
   lines: PoemLine[];
   /** Bellows' footnotes for this stanza (1923). */
   notes: string[];
+  /** The Old Norse text Bellows translated (Hildebrand–Gering, 1904). */
+  original?: PoemLine[];
+  /** The stanza's number in the Old Norse edition, when it differs from Bellows'. */
+  originalNumber?: number;
+}
+
+export interface OriginalEdition {
+  /** ISO 639-3 code: "non" is Old Norse. */
+  language: string;
+  editors: string;
+  title: string;
+  year: number;
+  license: string;
+  source: string;
 }
 
 export interface Poem {
@@ -28,6 +42,7 @@ export interface Poem {
   /** The translator's introductory note, as paragraphs. */
   introduction: string[];
   stanzas: Stanza[];
+  original?: OriginalEdition;
 }
 
 export type PoemId = 'havamal' | 'voluspa';
@@ -44,7 +59,11 @@ export function getStanza(poem: Poem, n: number): Stanza | undefined {
   return poem.stanzas.find((s) => s.n === n);
 }
 
-/** A stanza's lines as plain text, one line per row, for sharing or screen readers. */
+/** Lines as plain text, one per row, for sharing or screen readers. */
+export function linesText(lines: PoemLine[]): string {
+  return lines.map((l) => l.text.replace(/\u2003/g, ' ')).join('\n');
+}
+
 export function stanzaText(stanza: Stanza): string {
-  return stanza.lines.map((l) => l.text.replace(/ /g, ' ')).join('\n');
+  return linesText(stanza.lines);
 }

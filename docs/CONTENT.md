@@ -36,7 +36,25 @@ festival itself is modern, say so (see Freyfaxi).
   (his Hávamál has 165 stanzas), so always cite them as Bellows' numbers.
 - Bellows' notes are shown as 🔬 Scholarly, with a caution that some of their
   views are dated.
-- Old Norse text will be added side by side from a public-domain edition.
+- The Old Norse is the text Bellows translated: Hildebrand and Gering's 1904
+  edition (public domain), transcribed in `content-sources/hildebrand-gering-1904/`
+  and proofread against the page images. Its README explains the file format,
+  the editorial marks, and the one place Bellows reorders stanzas (Hávamál
+  88/89). Correct the transcription there, never in the generated JSON.
+- To add another poem's Old Norse, transcribe it from the same edition so the
+  stanza numbers keep matching Bellows.
+
+## Runes
+
+- Younger Futhark is the primary reference; Elder Futhark is included as its
+  historical predecessor and for modern practice.
+- Rune meanings come first from the Norwegian and Icelandic rune poems
+  (📜 Attested), in a public-domain edition such as Bruce Dickins, *Runic and
+  Heroic Poems of the Old Teutonic Peoples* (1915), with the Old Norse alongside.
+- Elder Futhark rune names (*fehu*, *ūruz*, …) are reconstructions (🔬 Scholarly).
+- Divinatory and esoteric meanings are modern (🔥 Community or 🌙 UPG) and are
+  always labelled as such.
+- Don't say the Eddas were written in runes: they survive in Latin script.
 
 ## Stanza of the day
 

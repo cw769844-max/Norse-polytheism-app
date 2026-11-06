@@ -3,6 +3,7 @@ import { getLocales } from 'expo-localization';
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 
 import { DEFAULT_REMINDER_PREFS, type ReminderPrefs } from '@/features/reminders/plan';
+import type { ReaderLanguage } from '@/features/well/StanzaView';
 import type { Hemisphere, Reckoning } from '@/features/wheel/types';
 
 import { guessHemisphere } from './hemisphere';
@@ -14,6 +15,8 @@ export interface Settings {
   hemisphere: Hemisphere;
   appearance: Appearance;
   reminders: ReminderPrefs;
+  /** Which text the Edda reader shows. */
+  readerLanguage: ReaderLanguage;
 }
 
 const STORAGE_KEY = 'hearth.settings.v1';
@@ -30,6 +33,7 @@ function defaultSettings(): Settings {
     hemisphere: guessHemisphere(region),
     appearance: 'dark',
     reminders: DEFAULT_REMINDER_PREFS,
+    readerLanguage: 'both',
   };
 }
 

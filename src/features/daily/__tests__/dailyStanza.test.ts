@@ -41,3 +41,34 @@ describe('poem content', () => {
     });
   });
 });
+
+describe('Old Norse text', () => {
+  it.each(['havamal', 'voluspa'])('%s has the original for every stanza', (id) => {
+    const poem = getPoem(id)!;
+    expect(poem.original?.year).toBe(1904);
+    for (const s of poem.stanzas) {
+      expect(s.original?.length).toBeGreaterThan(0);
+      s.original!.forEach((l) => expect(l.text.trim()).not.toBe(''));
+    }
+  });
+
+  it('pairs Bellows\' swapped Hávamál 88 and 89 with the right Old Norse', () => {
+    const poem = getPoem('havamal')!;
+    const s88 = getStanza(poem, 88)!;
+    const s89 = getStanza(poem, 89)!;
+    expect(s88.lines[0].text).toMatch(/brother's slayer/);
+    expect(s88.original![0].text).toMatch(/^bróþurbana/);
+    expect(s88.originalNumber).toBe(89);
+    expect(s89.lines[0].text).toMatch(/early harvest/);
+    expect(s89.original![0].text).toMatch(/^Akri ársǫnum/);
+    expect(s89.originalNumber).toBe(88);
+  });
+
+  it('keeps well-known lines intact', () => {
+    const havamal = getPoem('havamal')!;
+    expect(getStanza(havamal, 77)!.original!.map((l) => l.text).join(' ')).toContain('deyr aldrigi');
+    expect(getStanza(havamal, 139)!.original![0].text).toContain('vindga meiþi');
+    const voluspa = getPoem('voluspa')!;
+    expect(getStanza(voluspa, 19)!.original![0].text).toContain('Yggdrasils');
+  });
+});

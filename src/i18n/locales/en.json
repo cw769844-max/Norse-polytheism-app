@@ -145,7 +145,9 @@
     "valuesBody": "Hearth & Well is for everyone who is called to the gods, ancestors and wights of the North, whatever their ancestry, ethnicity, gender or sexuality. There is no place here for racism or for using the tradition to exclude people.",
     "free": "Free at the hearth",
     "freeBody": "The gods, the sources and the practice will never be behind a paywall. No ads, and your data is never sold.",
-    "version": "Version {{version}}"
+    "version": "Version {{version}}",
+    "readerLanguage": "Reading the Eddas",
+    "readerLanguageHelp": "Show the English translation, the Old Norse original, or both together."
   },
   "weekday": {
     "0": "Sunday",
@@ -374,6 +376,15 @@
     "note_other": "Translator's notes",
     "hideNote": "Hide note",
     "gap": "Lines lost or omitted",
-    "source": "Public-domain text from Wikisource"
+    "source": "Public-domain texts: Bellows from Wikisource; Old Norse transcribed from the 1904 edition",
+    "language": "Text",
+    "languageOption": {
+      "en": "English",
+      "non": "Old Norse",
+      "both": "Both"
+    },
+    "originalEdition": "Old Norse text: {{editors}}, {{year}} (the edition Bellows translated). Public domain.",
+    "originalNumber": "Stanza {{n}} in the Old Norse edition",
+    "editorialMarks": "In the Old Norse, [brackets] mark lines the editors thought were later additions, † marks a corrupt word, and dots mark lost lines."
   }
 }

@@ -56,7 +56,8 @@ Native **iOS and Android** from day one, built with **React Native + Expo**
 
 ### 3. The Well (lore library)
 - Poetic Edda, Prose Edda and key sagas in public-domain translations, with
-  Old Norse side by side where available.
+  the Old Norse alongside (Hávamál and Völuspá done, from the 1904 edition
+  Bellows translated).
 - Annotations, kennings explained, cultural context.
 - Deity and wight profiles where every claim is **tagged by source tier**:
   - 📜 **Attested**: from the primary sources, with citation
@@ -66,8 +67,17 @@ Native **iOS and Android** from day one, built with **React Native + Expo**
 - Old Norse pronunciation audio.
 
 ### 4. Runes
-- Elder Futhark first; Younger Futhark and Anglo-Saxon runes later.
-- Rune-poem meanings kept separate from modern esoteric interpretations.
+- **Younger Futhark is the primary reference.** It was the script of the Viking
+  Age (in use from roughly the 8th century), the period whose religion the Eddas
+  remember, and it is the only futhark with Norse rune poems: the Norwegian
+  (*Rúnakvæði*) and Icelandic (*Rúnaþulur*) rune poems both describe its 16 runes.
+- The Eddic poems themselves were never written in runes: they survive in Latin
+  script in 13th-century Icelandic manuscripts such as the Codex Regius.
+- **Elder Futhark** (24 runes, c. 2nd–8th centuries) is included as the historical
+  predecessor and because it is widely used in modern practice. Its rune names
+  are scholarly reconstructions, and that is labelled clearly.
+- Rune-poem meanings (📜 Attested) kept separate from modern esoteric and
+  divinatory interpretations (🔥 Community / 🌙 UPG).
 - Draw-and-reflect for contemplation, not prediction; a rune journal.
 
 ### 5. Kindred (community)
@@ -137,7 +147,8 @@ purchasing-power regional pricing; a no-questions-asked hardship membership.
 ## Roadmap
 
 - **MVP**: the Wheel with notifications, daily stanza, Hávamál and Völuspá
-  reader, deity profiles with source tags, Elder Futhark reference, on-device
+  reader with the Old Norse alongside, deity profiles with source tags, Younger
+  Futhark reference with the Norwegian and Icelandic rune poems, on-device
   journal, gift button, English plus two languages.
 - **v1**: Hearth Keeper membership (sync, audio, customization), ritual builder
   and lead mode, full Eddas, first paid course, regional pricing.

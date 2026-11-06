@@ -5,7 +5,8 @@ import { Pressable, StyleSheet, View } from 'react-native';
 import { AppText } from '@/components/AppText';
 import { Card } from '@/components/Card';
 import { getPoem, getStanza } from '@/content/poems';
-import { StanzaView } from '@/features/well/StanzaView';
+import { useSettings } from '@/features/settings/SettingsContext';
+import { StanzaPair } from '@/features/well/StanzaView';
 import type { CalendarDate } from '@/features/wheel/types';
 import { useTheme } from '@/theme/ThemeProvider';
 import { fonts, spacing } from '@/theme/tokens';
@@ -15,6 +16,7 @@ import { dailyStanzaFor, promptKey } from './dailyStanza';
 export function DailyStanzaCard({ today }: { today: CalendarDate }) {
   const { t } = useTranslation();
   const { colors } = useTheme();
+  const { settings } = useSettings();
   const ref = dailyStanzaFor(today);
   const poem = getPoem(ref.poem);
   const stanza = poem && getStanza(poem, ref.n);
@@ -25,7 +27,7 @@ export function DailyStanzaCard({ today }: { today: CalendarDate }) {
       <AppText variant="overline" color="textMuted">
         {t('daily.title')}
       </AppText>
-      <StanzaView stanza={stanza} size="card" />
+      <StanzaPair english={stanza.lines} original={stanza.original} mode={settings.readerLanguage} size="card" />
       <AppText variant="caption" color="textMuted">
         {poem.title} {stanza.n} · {poem.translator}
       </AppText>

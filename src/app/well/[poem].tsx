@@ -6,9 +6,11 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { AppText } from '@/components/AppText';
 import { KnotDivider } from '@/components/KnotDivider';
+import { SegmentedControl } from '@/components/SegmentedControl';
 import { TierBadge } from '@/components/TierBadge';
 import { getPoem, type Poem, type Stanza } from '@/content/poems';
-import { StanzaView } from '@/features/well/StanzaView';
+import { useSettings } from '@/features/settings/SettingsContext';
+import { StanzaPair, type ReaderLanguage } from '@/features/well/StanzaView';
 import { useTheme } from '@/theme/ThemeProvider';
 import { fonts, radii, spacing } from '@/theme/tokens';
 
@@ -20,6 +22,7 @@ export default function PoemReaderScreen() {
   const { colors } = useTheme();
   const insets = useSafeAreaInsets();
   const poem = getPoem(params.poem);
+  const { settings } = useSettings();
   const list = useRef<FlatList<Stanza>>(null);
 
   const targetIndex = useMemo(() => {
@@ -69,7 +72,10 @@ export default function PoemReaderScreen() {
             </AppText>
           </View>
         }
-        renderItem={({ item, index }) => <StanzaRow stanza={item} highlighted={index === targetIndex} />}
+        renderItem={({ item, index }) => (
+          <StanzaRow stanza={item} highlighted={index === targetIndex} mode={settings.readerLanguage} />
+        )}
+        extraData={settings.readerLanguage}
         contentContainerStyle={[styles.content, { paddingBottom: insets.bottom + spacing.xxxl }]}
       />
     </View>
@@ -79,6 +85,7 @@ export default function PoemReaderScreen() {
 function ReaderHeader({ poem }: { poem: Poem }) {
   const { t } = useTranslation();
   const { colors } = useTheme();
+  const { settings, update } = useSettings();
   const [showIntro, setShowIntro] = useState(false);
 
   return (
@@ -95,7 +102,24 @@ function ReaderHeader({ poem }: { poem: Poem }) {
         <AppText variant="caption" color="textMuted">
           {t('reader.tierNote')} {t('reader.numbering')}
         </AppText>
+        {poem.original && (
+          <AppText variant="caption" color="textMuted">
+            {t('reader.originalEdition', { editors: poem.original.editors, year: poem.original.year })}{' '}
+            {t('reader.editorialMarks')}
+          </AppText>
+        )}
       </View>
+      {poem.original && (
+        <SegmentedControl<ReaderLanguage>
+          label={t('reader.language')}
+          value={settings.readerLanguage}
+          onChange={(readerLanguage) => update({ readerLanguage })}
+          options={(['non', 'both', 'en'] as const).map((value) => ({
+            value,
+            label: t(`reader.languageOption.${value}`),
+          }))}
+        />
+      )}
       {poem.introduction.length > 0 && (
         <View style={styles.intro}>
           <Pressable
@@ -125,7 +149,7 @@ function ReaderHeader({ poem }: { poem: Poem }) {
   );
 }
 
-function StanzaRow({ stanza, highlighted }: { stanza: Stanza; highlighted: boolean }) {
+function StanzaRow({ stanza, highlighted, mode }: { stanza: Stanza; highlighted: boolean; mode: ReaderLanguage }) {
   const { t } = useTranslation();
   const { colors } = useTheme();
   const [showNotes, setShowNotes] = useState(false);
@@ -141,7 +165,17 @@ function StanzaRow({ stanza, highlighted }: { stanza: Stanza; highlighted: boole
         {stanza.n}
       </AppText>
       <View style={styles.flex}>
-        <StanzaView stanza={stanza} />
+        <StanzaPair
+          english={stanza.lines}
+          original={stanza.original}
+          mode={mode}
+          label={t('reader.stanza', { n: stanza.n })}
+        />
+        {stanza.originalNumber != null && mode !== 'en' && (
+          <AppText variant="caption" color="textMuted" style={styles.originalNumber}>
+            {t('reader.originalNumber', { n: stanza.originalNumber })}
+          </AppText>
+        )}
         {stanza.notes.length > 0 && (
           <Pressable
             onPress={() => setShowNotes((v) => !v)}
@@ -193,6 +227,7 @@ const styles = StyleSheet.create({
   },
   number: { width: 28, textAlign: 'right', paddingTop: 6, fontFamily: fonts.bodySemiBold },
   noteToggle: { alignSelf: 'flex-start', paddingTop: spacing.sm },
+  originalNumber: { paddingTop: spacing.xs },
   note: {
     marginTop: spacing.sm,
     gap: spacing.xs,

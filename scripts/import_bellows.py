@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
-"""Import poems from Henry Adams Bellows' translation of the Poetic Edda (1923).
+"""Import poems from Henry Adams Bellows' translation of the Poetic Edda (1923),
+paired with the Old Norse text he translated from.
 
 Bellows' translation was published in 1923 and is in the public domain. The
-text is taken from the proofread transcription on English Wikisource:
+English is taken from the proofread transcription on English Wikisource:
 https://en.wikisource.org/wiki/The_Poetic_Edda_(tr._Bellows)
+
+The Old Norse comes from our transcription of Hildebrand and Gering's 1904
+edition in content-sources/hildebrand-gering-1904/ (see the README there).
 
 Usage (run from the repository root):
 
@@ -29,6 +33,17 @@ from bs4 import BeautifulSoup, Tag
 
 BASE_URL = "https://en.wikisource.org/wiki/The_Poetic_Edda_(tr._Bellows)/"
 USER_AGENT = "HearthAndWell/0.1 (content import; https://github.com/cw769844-max/Norse-polytheism-app)"
+
+OLD_NORSE_DIR = Path("content-sources/hildebrand-gering-1904")
+OLD_NORSE_EDITION = {
+    "editors": "Karl Hildebrand and Hugo Gering",
+    "title": "Die Lieder der älteren Edda (Sæmundar Edda)",
+    "year": 1904,
+    "license": "Public domain",
+    "source": "https://archive.org/details/dieliederderlte00hild",
+}
+# Bellows' stanza number -> the 1904 edition's, where they differ.
+OLD_NORSE_ORDER = {"havamal": {88: 89, 89: 88}}
 
 # id -> (Wikisource page, normalized Old Norse title, Bellows' English title)
 POEMS = {
@@ -171,6 +186,43 @@ def parse(poem_id: str, html: str) -> dict:
     }
 
 
+def parse_old_norse(poem_id: str) -> dict[int, list[dict]]:
+    """Read a transcription file: stanza number, then lines; '|' marks the caesura, '>' an indented line."""
+    text = (OLD_NORSE_DIR / f"{poem_id}.txt").read_text(encoding="utf-8")
+    stanzas: dict[int, list[dict]] = {}
+    for block in re.split(r"\n\s*\n", text.strip()):
+        rows = block.strip().split("\n")
+        if not rows[0].strip().isdigit():
+            raise ValueError(f"{poem_id}: block without a stanza number: {rows[0]!r}")
+        number = int(rows[0])
+        lines = []
+        for row in rows[1:]:
+            indent = row.startswith(">")
+            body = row[1:] if indent else row
+            body = re.sub(r"^\.{6,}$", "\u2026" * 3, body.strip())
+            lines.append({"text": body.replace("|", CESURA), "indent": indent})
+        if number in stanzas or not lines:
+            raise ValueError(f"{poem_id}: duplicate or empty stanza {number}")
+        stanzas[number] = lines
+    expected = list(range(1, len(stanzas) + 1))
+    if sorted(stanzas) != expected:
+        raise ValueError(f"{poem_id}: stanza numbers are not 1..{len(stanzas)}")
+    return stanzas
+
+
+def attach_old_norse(poem: dict) -> None:
+    old = parse_old_norse(poem["id"])
+    order = OLD_NORSE_ORDER.get(poem["id"], {})
+    if len(old) != len(poem["stanzas"]):
+        raise ValueError(f"{poem['id']}: {len(old)} Old Norse stanzas but {len(poem['stanzas'])} English")
+    for stanza in poem["stanzas"]:
+        source_number = order.get(stanza["n"], stanza["n"])
+        stanza["original"] = old[source_number]
+        if source_number != stanza["n"]:
+            stanza["originalNumber"] = source_number
+    poem["original"] = {"language": "non", **OLD_NORSE_EDITION}
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--cache", type=Path, required=True, help="directory for downloaded pages")
@@ -181,6 +233,7 @@ def main() -> int:
     args.out.mkdir(parents=True, exist_ok=True)
     for poem_id, (page, _, _) in POEMS.items():
         poem = parse(poem_id, fetch(page, args.cache))
+        attach_old_norse(poem)
         out = args.out / f"{poem_id}.json"
         out.write_text(json.dumps(poem, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         print(f"{out}: {len(poem['stanzas'])} stanzas, {sum(len(s['notes']) for s in poem['stanzas'])} notes")

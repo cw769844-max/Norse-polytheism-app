@@ -35,6 +35,24 @@
    ],
    "notes": [
     "A few editors, following Bugge, in an effort to clarify the poem, place stanzas 22, 28 and 30 before stanzas 1-20, but the arrangement in both manuscripts, followed here, seems logical. In stanza 1 the Volva, or wise-woman, called upon by Othin, answers him and demands a hearing. Evidently she belongs to the race of the giants (cf. stanza 2), and thus speaks to Othin unwillingly, being compelled to do so by his magic power. Holy: omitted in Regius; the phrase \"holy races\" probably means little more than mankind in general. Heimdall: the watchman of the gods; cf. stanza 46 and note. Why mankind should be referred to as Heimdall's sons is uncertain, and the phrase has caused much perplexity. Heimdall seems to have had various attributes, and in the Rigsthula, wherein a certain Rig appears as the ancestor of the three great classes of men, a fourteenth century annotator identifies Rig with Heimdall, on what authority we do not know, for the Rig of the poem seems much more like Othin (cf. Rigsthula, introductory prose and note). Valfather (\"Father of the Slain\"): Othin, chief of the gods, so called because the slain warriors were brought to him at Valhall (\"Hall of the Slain\") by the Valkyries (\"Choosers of the Slain\")."
+   ],
+   "original": [
+    {
+     "text": "Hljóþs biþk allar helgar kindir,",
+     "indent": false
+    },
+    {
+     "text": "meiri ok minni mǫgu Heimdallar:",
+     "indent": false
+    },
+    {
+     "text": "vildu, Valfǫþr! at vel teljak",
+     "indent": false
+    },
+    {
+     "text": "forn spjǫll fira þaus fremst of mank.",
+     "indent": false
+    }
    ]
   },
   {
@@ -59,6 +77,24 @@
    ],
    "notes": [
     "Nine worlds: the worlds of the gods (Asgarth), of the Wanes (Vanaheim, cf. stanza 21 and note), of the elves (Alfheim), of men (Mithgarth), of the giants (Jotunheim), of fire (Muspellsheim, cf. stanza 47 and note), of the dark elves (Svartalfaheim), of the dead (Niflheim), and presumably of the dwarfs (perhaps Nithavellir, cf. stanza 37 and note, but the ninth world is uncertain). The tree: the world-ash Yggdrasil, symbolizing the universe; cf. Grimnismol, 29-35 and notes, wherein Yggdrasil is described at length."
+   ],
+   "original": [
+    {
+     "text": "Ek man jǫtna ár of borna",
+     "indent": false
+    },
+    {
+     "text": "þás forþum mik fødda hǫfþu,",
+     "indent": false
+    },
+    {
+     "text": "niu mank heima, niu íviþi,",
+     "indent": false
+    },
+    {
+     "text": "mjǫtviþ mǽran fyr mold neþan.",
+     "indent": false
+    }
    ]
   },
   {
@@ -83,6 +119,24 @@
    ],
    "notes": [
     "Ymir: the giant out of whose body the gods made the world; cf. Vafthruthnismol, 21. In this stanza as quoted in Snorri's Edda the first line runs: \"Of old was the age ere aught there was.\" Yawning gap: this phrase, \"Ginnunga-gap,\" is sometimes used as a proper name."
+   ],
+   "original": [
+    {
+     "text": "Ár vas alda þars Ymir bygþi,",
+     "indent": false
+    },
+    {
+     "text": "vasa sandr né sǽr né svalar unnir;",
+     "indent": false
+    },
+    {
+     "text": "jǫrþ fannsk ǽva né upphiminn,",
+     "indent": false
+    },
+    {
+     "text": "gap vas ginnunga, en gras hvergi.",
+     "indent": false
+    }
    ]
   },
   {
@@ -107,6 +161,24 @@
    ],
    "notes": [
     "Bur's sons: Othin, Vili, and Ve. Of Bur we know only that his wife was Bestla, daughter of Bolthorn; cf. Hovamol, 141. Vili and Ve are mentioned by name in the Eddic poems only in Lokasenna, 26. Mithgarth (\"Middle Dwelling\"); the world of men. Leeks: the leek was often used as the symbol of fine growth (cf. Guthrunarkvitha I, 17), and it was also supposed to have magic power (cf. Sigrdrifumol, 7)."
+   ],
+   "original": [
+    {
+     "text": "Áþr Burs synir bjǫþum of ypþu",
+     "indent": false
+    },
+    {
+     "text": "þeir es miþgarþ mǽran skópu;",
+     "indent": false
+    },
+    {
+     "text": "sól skein sunnan á salar steina,",
+     "indent": false
+    },
+    {
+     "text": "þa vas grund groïn grønum lauki.",
+     "indent": false
+    }
    ]
   },
   {
@@ -135,6 +207,28 @@
    ],
    "notes": [
     "Various editors have regarded this stanza as interpolated; Hoffory thinks it describes the northern summer night in which the sun does not set. Lines 3-5 are quoted by Snorri. In the manuscripts line 4 follows line 5. Regarding the sun and moon as daughter and son of Mundilferi, cf. Vafthruthnismol, 23 and note, and Grimnismol, 37 and note."
+   ],
+   "original": [
+    {
+     "text": "Sól varp sunnan, sinni mána,",
+     "indent": false
+    },
+    {
+     "text": "hendi høgri umb himinjǫþur;",
+     "indent": false
+    },
+    {
+     "text": "sól né vissi, hvar sali átti,",
+     "indent": false
+    },
+    {
+     "text": "máni né vissi, hvat megins átti,",
+     "indent": false
+    },
+    {
+     "text": "stjǫrnur né vissu, hvar staþi ǫ́ttu.",
+     "indent": false
+    }
    ]
   },
   {
@@ -163,6 +257,28 @@
    ],
    "notes": [
     "Possibly an interpolation, but there seems no strong reason for assuming this. Lines 1-2 are identical with lines 1-2 of stanza 9, and line 2 may have been inserted here from that later stanza."
+   ],
+   "original": [
+    {
+     "text": "Gengu regin ǫll á røkstóla,",
+     "indent": false
+    },
+    {
+     "text": "ginnheilug goþ, ok of þat gǽttusk:",
+     "indent": false
+    },
+    {
+     "text": "nǫ́tt ok niþjum nǫfn of gǫ́fu,",
+     "indent": false
+    },
+    {
+     "text": "morgin hétu ok miþjan dag,",
+     "indent": false
+    },
+    {
+     "text": "undorn ok aptan, ǫ́rum at telja.",
+     "indent": false
+    }
    ]
   },
   {
@@ -187,6 +303,24 @@
    ],
    "notes": [
     "Ithavoll (\"Field of Deeds\"?): mentioned only here and in stanza 60 as the meeting-place of the gods; it appears in no other connection."
+   ],
+   "original": [
+    {
+     "text": "Hittusk ǽsir á Iþavelli",
+     "indent": false
+    },
+    {
+     "text": "þeirs hǫrg ok hof hǫ́timbruþu;",
+     "indent": false
+    },
+    {
+     "text": "afla lǫgþu, auþ smíþuþu,",
+     "indent": false
+    },
+    {
+     "text": "tangir skópu ok tól gørþu.",
+     "indent": false
+    }
    ]
   },
   {
@@ -211,6 +345,24 @@
    ],
    "notes": [
     "Tables: the exact nature of this game, and whether it more closely resembled chess or checkers, has been made the subject of a 400-page treatise, Willard Fiske's \"Chess in Iceland.\" Giant-maids: perhaps the three great Norns, corresponding to the three fates; cf. stanza 20 and note. Possibly, however, something has been lost after this stanza, and the missing passage, replaced by the catalogue of the dwarfs (stanzas 9-16), may have explained the \"giant-maids\" otherwise than as Norns. In Vafthruthnismol, 49, the Norns (this time \"three throngs\" instead of simply \"three\") are spoken of as giant-maidens; Fafnismol, 13, indicates the existence of many lesser Norns, belonging to various races. Jotunheim: the world of the giants."
+   ],
+   "original": [
+    {
+     "text": "Tefldu í túni, teitir vǫ́ru",
+     "indent": false
+    },
+    {
+     "text": "— vas þeim vǽttergis vant ór golli —",
+     "indent": false
+    },
+    {
+     "text": "unz þriar kvǫ́mu þursa meyjar,",
+     "indent": false
+    },
+    {
+     "text": "ámǫ́tkar mjǫk, ór jǫtunheimum.",
+     "indent": false
+    }
    ]
   },
   {
@@ -235,6 +387,24 @@
    ],
    "notes": [
     "Here apparently begins the interpolated catalogue of the dwarfs, running through stanza 16; possibly, however, the interpolated section does not begin before stanza 11. Snorri quotes practically the entire section, the names appearing in a somewhat changed order. Brimir and Blain: nothing is known of these two giants, and it has been suggested that both are names for Ymir (cf. stanza 3). Brimir, however, appears in stanza 37 in connection with the home of the dwarfs. Some editors treat the words as common rather than proper nouns, Brimir meaning \"the bloody moisture\" and Blain being of uncertain significance."
+   ],
+   "original": [
+    {
+     "text": "Gengu regin ǫll á røkstóla,",
+     "indent": false
+    },
+    {
+     "text": "ginnheilug goþ, ok of þat gǽttusk:",
+     "indent": false
+    },
+    {
+     "text": "hverr skyldi dverga drótt of skepja",
+     "indent": false
+    },
+    {
+     "text": "ór Brimis blóþi ok ór Blaïns leggjum.",
+     "indent": false
+    }
    ]
   },
   {
@@ -259,6 +429,24 @@
    ],
    "notes": [
     "Very few of the dwarfs named in this and the following stanzas are mentioned elsewhere. It is not clear why Durin should have been singled out as authority for the list. The occasional repetitions suggest that not all the stanzas of the catalogue came from the same source. Most of the names presumably had some definite significance, as Northri, Suthri, Austri, and Vestri (\"North,\" \"South,\" \"East,\" and \"West\"), Althjof (\"Mighty Thief\"), Mjothvitnir (\"Mead-Wolf\"), Gandalf (\"Magic Elf\"), Vindalf (\"Wind Elf\"), Rathsvith (\"Swift in Counsel\"), Eikinskjaldi (\"Oak Shield\"), etc., but in many cases the interpretations are sheer guesswork."
+   ],
+   "original": [
+    {
+     "text": "Þar vas Mótsognir mǽztr of orþinn",
+     "indent": false
+    },
+    {
+     "text": "dverga allra, en Durinn annarr;",
+     "indent": false
+    },
+    {
+     "text": "þeir mannlíkun mǫrg of gørþu",
+     "indent": false
+    },
+    {
+     "text": "dvergar í jǫrþu, sem Durinn sagþi.",
+     "indent": false
+    }
    ]
   },
   {
@@ -285,7 +473,29 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Nyi ok Niþi, Norþri ok Suþri,",
+     "indent": false
+    },
+    {
+     "text": "Austri ok Vestri, Alþjófr, Dvalinn,",
+     "indent": false
+    },
+    {
+     "text": "Nár ok Naïnn, Nípingr, Daïnn,",
+     "indent": false
+    },
+    {
+     "text": "Bífurr, Bǫ́furr, Bǫmburr, Nóri,",
+     "indent": false
+    },
+    {
+     "text": "Ánn ok Ónarr, Aï, Mjǫþvitnir.",
+     "indent": false
+    }
+   ]
   },
   {
    "n": 12,
@@ -309,6 +519,24 @@
    ],
    "notes": [
     "The order of the lines in this and the succeeding four stanzas varies greatly in the manuscripts and editions, and the names likewise appear in many forms. Regin: probably not identical with Regin the son of Hreithmar, who plays an important part in the Reginsmol and Fafnismol, but cf. note on Reginsmol, introductory prose."
+   ],
+   "original": [
+    {
+     "text": "Viggr ok Gandalfr, Vindalfr, Þraïnn,",
+     "indent": false
+    },
+    {
+     "text": "Þekkr ok Þórinn, Þrór, Vitr ok Litr,",
+     "indent": false
+    },
+    {
+     "text": "Nýr ok Nýráþr, nú hefk dverga",
+     "indent": false
+    },
+    {
+     "text": "— Reginn ok Ráþsviþr — rétt of talþa.",
+     "indent": false
+    }
    ]
   },
   {
@@ -331,7 +559,25 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Fíli, Kíli, Fundinn, Náli,",
+     "indent": false
+    },
+    {
+     "text": "Heptifíli, Hannarr, Sviurr,",
+     "indent": false
+    },
+    {
+     "text": "Frár, Hornbori, Frǽgr ok Lóni,",
+     "indent": false
+    },
+    {
+     "text": "Aurvangr, Jari, Eikinskjaldi.",
+     "indent": false
+    }
+   ]
   },
   {
    "n": 14,
@@ -355,6 +601,24 @@
    ],
    "notes": [
     "Dvalin: in Hovamol, 144, Dvalin seems to have given magic runes to the dwarfs, probably accounting for their skill in craftsmanship, while in Fafnismol, 13, he is mentioned as the father of some of the lesser Norns. The story that some of the dwarfs left the rocks and mountains to find a new home on the sands is mentioned, but unexplained, in Snorri's Edda; of Lofar we know only that he was descended from these wanderers."
+   ],
+   "original": [
+    {
+     "text": "Mál es dverga í Dvalins liþi",
+     "indent": false
+    },
+    {
+     "text": "ljóna kindum til Lofars telja;",
+     "indent": false
+    },
+    {
+     "text": "þeir es sóttu frá salar steini",
+     "indent": false
+    },
+    {
+     "text": "aurvanga sjǫt til jǫruvalla.",
+     "indent": false
+    }
    ]
   },
   {
@@ -379,6 +643,24 @@
    ],
    "notes": [
     "Andvari: this dwarf appears prominently in the Reginsmol, which tells how the god Loki treacherously robbed him of his wealth; the curse which he laid on his treasure brought about the deaths of Sigurth, Gunnar, Atli, and many others."
+   ],
+   "original": [
+    {
+     "text": "Þar vas Draupnir ok Dolgþrasir,",
+     "indent": false
+    },
+    {
+     "text": "Hǫ́r, Haugspori, Hlévangr, Gloïnn,",
+     "indent": false
+    },
+    {
+     "text": "Dóri, Óri, Dúfr, Andvari,",
+     "indent": false
+    },
+    {
+     "text": "Skirfir, Virfir, Skáfiþr, Aï.",
+     "indent": false
+    }
    ]
   },
   {
@@ -401,7 +683,25 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Alfr ok Yngvi, Eikinskjaldi,",
+     "indent": false
+    },
+    {
+     "text": "Fjalarr ok Frosti, Fiþr ok Ginnarr;",
+     "indent": false
+    },
+    {
+     "text": "þat mun ǽ uppi, meþan ǫld lifir,",
+     "indent": false
+    },
+    {
+     "text": "langniþja tal til Lofars hafat.",
+     "indent": false
+    }
+   ]
   },
   {
    "n": 17,
@@ -425,6 +725,24 @@
    ],
    "notes": [
     "Here the poem resumes its course after the interpolated section. Probably, however, something has been lost, for there is no apparent connection between the three giant-maids of stanza 8 and the three gods, Othin, Hönir and Lothur, who in stanza 17 go forth to create man and woman. The word \"three\" in stanzas 8 and 17 very likely confused some early reciter, or perhaps the compiler himself. Ask and Embla: ash and elm; Snorri gives them simply as the names of the first man and woman, but says that the gods made this pair out of trees."
+   ],
+   "original": [
+    {
+     "text": "Unz þrír kvǫ́mu ór því liþi",
+     "indent": false
+    },
+    {
+     "text": "ǫflgir ok ǫ́stkir ǽsir at húsi;",
+     "indent": false
+    },
+    {
+     "text": "fundu á landi lítt megandi",
+     "indent": false
+    },
+    {
+     "text": "Ask ok Emblu ørlǫglausa.",
+     "indent": false
+    }
    ]
   },
   {
@@ -449,6 +767,24 @@
    ],
    "notes": [
     "Hönir: little is known of this god, save that he occasionally appears in the poems in company with Othin and Loki, and that he survives the destruction, assuming in the new age the gift of prophesy (cf. stanza 63). He was given by the gods as a hostage to the Wanes after their war, in exchange for Njorth (cf. stanza 21 and note). Lothur: apparently an older name for Loki, the treacherous but ingenious son of Laufey, whose divinity Snorri regards as somewhat doubtful. He was adopted by Othin, who subsequently had good reason to regret it. Loki probably represents the blending of two originally distinct figures, one of them an old fire-god, hence his gift of heat to the newly created pair."
+   ],
+   "original": [
+    {
+     "text": "Ǫnd né ǫ́ttu, óþ né hǫfþu,",
+     "indent": false
+    },
+    {
+     "text": "lǫ́ né lǽti né litu góþa;",
+     "indent": false
+    },
+    {
+     "text": "ǫnd gaf Óþinn, óþ gaf Hønir,",
+     "indent": false
+    },
+    {
+     "text": "lǫ́ gaf Lóþurr ok litu góþa.",
+     "indent": false
+    }
    ]
   },
   {
@@ -473,6 +809,24 @@
    ],
    "notes": [
     "Yggdrasil: cf. stanza 2 and note, and Grimnismol, 29-35 and notes. Urth (\"The Past\"): one of the three great Norns. The world-ash is kept green by being sprinkled with the marvelous healing water from her well."
+   ],
+   "original": [
+    {
+     "text": "Ask veitk standa, heitir Yggdrasils,",
+     "indent": false
+    },
+    {
+     "text": "hǫ́r baþmr ausinn hvíta auri;",
+     "indent": false
+    },
+    {
+     "text": "þaþan koma dǫggvar es í dali falla,",
+     "indent": false
+    },
+    {
+     "text": "stendr ǽ of grønn Urþar brunni.",
+     "indent": false
+    }
    ]
   },
   {
@@ -505,6 +859,32 @@
    ],
    "notes": [
     "The maidens: the three Norns; possibly this stanza should follow stanza 8. Dwelling: Regius has \"sæ\" (sea) instead of \"sal\" (hall, home), and many editors have followed this reading, although Snorri's prose paraphrase indicates \"sal.\" Urth, Verthandi and Skuld: \"Past,\" \"Present\" and \"Future.\" Wood, etc.: the magic signs (runes) controlling the destinies of men were cut on pieces of wood. Lines 3-4 are probably interpolations from some other account of the Norns."
+   ],
+   "original": [
+    {
+     "text": "Þaþan koma meyjar margs vitandi",
+     "indent": false
+    },
+    {
+     "text": "þriar ór þeim sal es und þolli stendr;",
+     "indent": false
+    },
+    {
+     "text": "[Urþ hétu eina, aþra Verþandi,",
+     "indent": false
+    },
+    {
+     "text": "— skǫ́ru á skíþi — Skuld ena þriþju;]",
+     "indent": false
+    },
+    {
+     "text": "þǽr lǫg lǫgþu, þǽr líf kuru",
+     "indent": false
+    },
+    {
+     "text": "alda bǫrnum, ørlǫg seggja.",
+     "indent": false
+    }
    ]
   },
   {
@@ -533,6 +913,28 @@
    ],
    "notes": [
     "This follows stanza 20 in Regius; in the Hauksbok version stanzas 25, 26, 27, 40 and 41 come between stanzas 20 and 21. Editors have attempted all sorts of rearrangements. The war: the first war was that between the gods and the Wanes. The cult of the Wanes (Vanir) seems to have originated among the seafaring folk of the Baltic and the southern shores of the North Sea, and to have spread thence into Norway in opposition to the worship of the older gods; hence the \"war.\" Finally the two types of divinities were worshipped in common; hence the treaty which ended the war with the exchange of hostages. Chief among the Wanes were Njorth and his children, Freyr and Freyja, all of whom became conspicuous among the gods. Beyond this we know little of the Wanes, who seem originally to have been water-deities. I remember: the manuscripts have \"she remembers,\" but the Volva is apparently still speaking of her own memories, as in stanza 2. Gollveig (\"Gold-Might\"): apparently the first of the Wanes to come among the gods, her ill-treatment being the immediate cause of the war. Müllenhoff maintains that Gollveig is another name for Freyja. Lines 5-6, one or both of them probably interpolated, seem to symbolize the refining of gold by fire. Hor (\"The High One\"): Othin."
+   ],
+   "original": [
+    {
+     "text": "Þat mank folkvíg fyrst í heimi,",
+     "indent": false
+    },
+    {
+     "text": "es Gollveigu geirum studdu",
+     "indent": false
+    },
+    {
+     "text": "ok í hǫllo Hǫ́rs hána brendu,",
+     "indent": false
+    },
+    {
+     "text": "þrysvar brendu þrysvar borna,",
+     "indent": false
+    },
+    {
+     "text": "[opt ósjaldan —: þó enn lifir.]",
+     "indent": false
+    }
    ]
   },
   {
@@ -557,6 +959,24 @@
    ],
    "notes": [
     "Heith (\"Shining One\"?): a name often applied to wise-women and prophetesses. The application of this stanza to Gollveig is far from clear, though the reference may be to the magic and destructive power of gold. It is also possible that the stanza is an interpolation. Bugge maintains that it applies to the Volva who is reciting the poem, and makes it the opening stanza, following it with stanzas 28 and 30, and then going on with stanzas 1 ff. The text of line 2 is obscure, and has been variously emended."
+   ],
+   "original": [
+    {
+     "text": "Heiþi hétu hvąrs húsa kvam",
+     "indent": false
+    },
+    {
+     "text": "vǫlu velspaa, vitti ganda;",
+     "indent": false
+    },
+    {
+     "text": "seiþ hvars kunni, seiþ hug leikinn,",
+     "indent": false
+    },
+    {
+     "text": "ǽ vas angan illrar brúþar.",
+     "indent": false
+    }
    ]
   },
   {
@@ -581,6 +1001,24 @@
    ],
    "notes": [
     "This stanza and stanza 24 have been transposed from the order in the manuscripts, for the former describes the battle and the victory of the Wanes, after which the gods took council, debating whether to pay tribute to the victors, or to admit them, as was finally done, to equal rights of worship."
+   ],
+   "original": [
+    {
+     "text": "Gengu regin ǫll á røkstóla,",
+     "indent": false
+    },
+    {
+     "text": "ginnheilug goþ, ok of þat gǽttusk:",
+     "indent": false
+    },
+    {
+     "text": "hvárt skyldu ǽsir afráþ gjalda",
+     "indent": false
+    },
+    {
+     "text": "eþa skyldu goþ ǫll gildi eiga.",
+     "indent": false
+    }
    ]
   },
   {
@@ -603,7 +1041,25 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Fleygþi Óþinn ok í folk of skaut:",
+     "indent": false
+    },
+    {
+     "text": "þat vas enn folkvíg fyrst í heimi;",
+     "indent": false
+    },
+    {
+     "text": "brotinn vas borþveggr borgar ása,",
+     "indent": false
+    },
+    {
+     "text": "knǫ́ttu vanir vígskǫ́ vǫllu sporna.",
+     "indent": false
+    }
+   ]
   },
   {
    "n": 25,
@@ -627,6 +1083,24 @@
    ],
    "notes": [
     "Possibly, as Finn Magnusen long ago suggested, there is something lost after stanza 24, but it was not the custom of the Eddic poets to supply transitions which their hearers could generally be counted on to understand. The story referred to in stanzas 25-26 (both quoted by Snorri) is that of the rebuilding of Asgarth after its destruction by the Wanes. The gods employed a giant as builder, who demanded as his reward the sun and moon, and the goddess Freyja for his wife. The gods, terrified by the rapid progress of the work, forced Loki, who had advised the bargain, to delay the giant by a trick, so that the work was not finished in the stipulated time (cf. Grimnismol, 44, note). The enraged giant then threatened the gods, whereupon Thor slew him. Oth's bride: Freyja; of Oth little is known beyond the fact that Snorri refers to him as a man who \"went away on long journeys.\""
+   ],
+   "original": [
+    {
+     "text": "Gengu regin ǫll á røkstóla,",
+     "indent": false
+    },
+    {
+     "text": "ginnheilug goþ, ok of þat gǽttusk:",
+     "indent": false
+    },
+    {
+     "text": "hverr lopt hefþi lǽvi blandit",
+     "indent": false
+    },
+    {
+     "text": "eþa ǽtt jǫtuns Óþs mey gefna.",
+     "indent": false
+    }
    ]
   },
   {
@@ -651,6 +1125,24 @@
    ],
    "notes": [
     "Thor: the thunder-god, son of Othin and Jorth (Earth); cf. particularly Harbarthsljoth and Thrymskvitha, passim. Oaths, etc.: the gods, by violating their oaths to the giant who rebuilt Asgarth, aroused the undying hatred of the giants' race, and thus the giants were among their enemies in the final battle."
+   ],
+   "original": [
+    {
+     "text": "Þórr einn þar vá þrunginn móþi",
+     "indent": false
+    },
+    {
+     "text": "— hann sjaldan sitr es slíkt of fregn —:",
+     "indent": false
+    },
+    {
+     "text": "á gengusk eiþar, orþ ok søri,",
+     "indent": false
+    },
+    {
+     "text": "mǫ́l ǫll meginlig es á meþal fóru.",
+     "indent": false
+    }
    ]
   },
   {
@@ -675,6 +1167,24 @@
    ],
    "notes": [
     "Here the Volva turns from her memories of the past to a statement of some of Othin's own secrets in his eternal search for knowledge (stanzas 27-29). Bugge puts this stanza after stanza 29. The horn of Heimdall: the Gjallarhorn (\"Shrieking Horn\"), with which Heimdall, watchman of the gods, will summon them to the last battle. Till that time the horn is buried under Yggdrasil. Valfather's pledge: Othin's eye (the sun?), which he gave to the water-spirit Mimir (or Mim) in exchange for the latter's wisdom. It appears here and in stanza 29 as a drinking-vessel, from which Mimir drinks the magic mead, and from which he pours water on the ash Yggdrasil. Othin's sacrifice of his eye in order to gain knowledge of his final doom is one of the series of disasters leading up to the destruction of the gods. There were several differing versions of the story of Othin's relations with Mimir; another one, quite incompatible with this, appears in stanza 47. In the manuscripts I know and I see appear as \"she knows\" and \"she sees\" (cf. note on 21)."
+   ],
+   "original": [
+    {
+     "text": "Veitk Heimdallar hljóþ of folgit",
+     "indent": false
+    },
+    {
+     "text": "und heiþvǫnum helgum baþmi;",
+     "indent": false
+    },
+    {
+     "text": "á sék ausask aurgum forsi",
+     "indent": false
+    },
+    {
+     "text": "af veþi Valfǫþrs: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -699,6 +1209,24 @@
    ],
    "notes": [
     "The Hauksbok version omits all of stanzas 28-34, stanza 27 being there followed by stanzas 40 and 41. Regius indicates stanzas 28 and 29 as a single stanza. Bugge puts stanza 28 after stanza 22, as the second stanza of his reconstructed poem. The Volva here addresses Othin directly, intimating that, although he has not told her, she knows why he has come to her, and what he has already suffered in his search for knowledge regarding his doom. Her reiterated \"would you know yet more?\" seems to mean: \"I have proved my wisdom by telling of the past and of your own secrets; is it your will that I tell likewise of the fate in store for you?\" The Old One: Othin."
+   ],
+   "original": [
+    {
+     "text": "Ein satk úti, es enn aldni kvam",
+     "indent": false
+    },
+    {
+     "text": "yggjungr ása ok í augu leit:",
+     "indent": false
+    },
+    {
+     "text": "‘hvers fregniþ mik, hví freistiþ mín?",
+     "indent": false
+    },
+    {
+     "text": "allt veitk, Óþinn! hvar auga falt’.",
+     "indent": false
+    }
    ]
   },
   {
@@ -723,6 +1251,24 @@
    ],
    "notes": [
     "The first line, not in either manuscript, is a conjectural emendation based on Snorri's paraphrase. Bugge puts this stanza after stanza 20."
+   ],
+   "original": [
+    {
+     "text": "Veit ek Óþins auga folgit",
+     "indent": false
+    },
+    {
+     "text": "í enom mǽra Mímis brunni;",
+     "indent": false
+    },
+    {
+     "text": "drekkr mjǫþ Mímir morgin hverjan",
+     "indent": false
+    },
+    {
+     "text": "af veþi Valfǫþrs: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -747,6 +1293,24 @@
    ],
    "notes": [
     "This is apparently the transitional stanza, in which the Volva, rewarded by Othin for her knowledge of the past (stanzas 1-29) is induced to proceed with her real prophecy (stanzas 31-66). Some editors turn the stanza into the third person, making it a narrative link. Bugge, on the other hand, puts it after stanza 28 as the third stanza of the poem. No lacuna is indicated in the manuscripts, and editors have attempted various emendations. Heerfather (\"Father of the Host\"): Othin."
+   ],
+   "original": [
+    {
+     "text": "Valþi Herfǫþr hringa ok men;",
+     "indent": false
+    },
+    {
+     "text": "fekk spjǫll spaklig ok spǫ́ ganda.",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    },
+    {
+     "text": "sák vitt ok vítt of verǫld hverja.",
+     "indent": false
+    }
    ]
   },
   {
@@ -779,6 +1343,32 @@
    ],
    "notes": [
     "Valkyries: these \"Choosers of the Slain\" (cf. stanza 1, note) bring the bravest warriors killed in battle to Valhell, in order to re-enforce the gods for their final struggle. They are also called \"Wish-Maidens,\" as the fulfillers of Othin's wishes. The conception of the supernatural warrior-maiden was presumably brought to Scandinavia in very early times from the South-Germanic races, and later it was interwoven with the likewise South-Germanic tradition of the swan-maiden. A third complication developed when the originally quite human women of the hero-legends were endowed with the qualities of both Valkyries and swan-maidens, as in the cases of Brynhild (cf. Gripisspo, introductory note), Svava (cf. Helgakvitha Hjorvarthssonar, prose after stanza 5 and note) and Sigrun (cf. Helgakvitha Hundingsbana I, 17 and note). The list of names here given may be an interpolation; a quite different list is given in Grimnismol, 36. Ranks of the gods: some editors regard the word thus translated as a specific place name. Herjan (\"Leader of Hosts\"): Othin. It is worth nothing that the name Hild (\"Warrior\") is the basis of Bryn-hild (\"Warrior in Mail-Coat\")."
+   ],
+   "original": [
+    {
+     "text": "Sák valkyrjur vítt of komnar,",
+     "indent": false
+    },
+    {
+     "text": "gǫrvar at ríþa til Gotþjóþar:",
+     "indent": false
+    },
+    {
+     "text": "Skuld helt skildi, en Skǫgul ǫnnur,",
+     "indent": false
+    },
+    {
+     "text": "Guþr, Hildr, Gǫndul ok Geirskǫgul.",
+     "indent": false
+    },
+    {
+     "text": "[Nú ’ru talþar nǫnnur Herjans,",
+     "indent": false
+    },
+    {
+     "text": "gǫrvar at ríþa grund valkyrjur.]",
+     "indent": false
+    }
    ]
   },
   {
@@ -803,6 +1393,24 @@
    ],
    "notes": [
     "Baldr: The death of Baldr, the son of Othin and Frigg, was the first of the great disasters to the gods. The story is fully told by Snorri. Frigg had demanded of all created things, saving only the mistletoe, which she thought too weak to be worth troubling about, an oath that they would not harm Baldr. Thus it came to be a sport for the gods to hurl weapons at Baldr, who, of course, was totally unharmed thereby. Loki, the trouble-maker, brought the mistletoe to Baldr's blind brother, Hoth, and guided his hand in hurling the twig. Baldr was slain, and grief came upon all the gods. Cf. Baldrs Draumar."
+   ],
+   "original": [
+    {
+     "text": "Ek sá Baldri, blóþgum tívur,",
+     "indent": false
+    },
+    {
+     "text": "Óþins barni, ørlǫg folgin:",
+     "indent": false
+    },
+    {
+     "text": "stóþ of vaxinn vǫllum hǽri",
+     "indent": false
+    },
+    {
+     "text": "mǽr ok mjǫk fagr † mistilteinn.",
+     "indent": false
+    }
    ]
   },
   {
@@ -827,6 +1435,24 @@
    ],
    "notes": [
     "The lines in this and the following stanza have been combined in various ways by editors, lacunae having been freely conjectured, but the manuscript version seems clear enough. The brother of Baldr: Vali, whom Othin begot expressly to avenge Baldr's death. The day after his birth he fought and slew Hoth."
+   ],
+   "original": [
+    {
+     "text": "Varþ af meiþi es mǽr sýndisk",
+     "indent": false
+    },
+    {
+     "text": "harmflaug hǽttlig: Hǫþr nam skjóta;",
+     "indent": false
+    },
+    {
+     "text": "Baldrs bróþir vas of borinn snimma,",
+     "indent": false
+    },
+    {
+     "text": "sa nam Óþins sunr einnǽttr vega.",
+     "indent": false
+    }
    ]
   },
   {
@@ -851,6 +1477,24 @@
    ],
    "notes": [
     "Frigg: Othin's wife. Some scholars have regarded her as a solar myth, calling her the sun-goddess, and pointing out that her home in Fensalir (\"the sea-halls\") symbolizes the daily setting of the sun beneath the ocean horizon."
+   ],
+   "original": [
+    {
+     "text": "Þó hendr ǽva né hǫfoþ kembþi,",
+     "indent": false
+    },
+    {
+     "text": "áþr bar á bál Baldrs andskota;",
+     "indent": false
+    },
+    {
+     "text": "en Frigg of grét í Fensǫlum",
+     "indent": false
+    },
+    {
+     "text": "vǫ́ Valhallar: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -875,6 +1519,24 @@
    ],
    "notes": [
     "The translation here follows the Regius version. The Hauksbok has the same final two lines, but in place of the first pair has, \"I know that Vali his brother gnawed, / With his bowels then was Loki bound.\" Many editors have followed this version of the whole stanza or have included these two lines, often marking them as doubtful, with the four from Regius. After the murder of Baldr, the gods took Loki and bound him to a rock with the bowels of his son Narfi, who had just been torn to pieces by Loki's other son, Vali. A serpent was fastened above Loki's head, and the venom fell upon his face. Loki's wife, Sigyn, sat by him with a basin to catch the venom, but whenever the basin was full, and she went away to empty it, then the venom fell on Loki again, till the earth shook with his struggles. \"And there he lies bound till the end.\" Cf. Lokasenna, concluding prose."
+   ],
+   "original": [
+    {
+     "text": "Hapt sák liggja und hvera lundi",
+     "indent": false
+    },
+    {
+     "text": "lǽgjarns líki Loka áþekkjan;",
+     "indent": false
+    },
+    {
+     "text": "þar sitr Sigyn þeygi of sínum",
+     "indent": false
+    },
+    {
+     "text": "ver vel glýjuþ: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -899,6 +1561,24 @@
    ],
    "notes": [
     "Stanzas 36-39 describe the homes of the enemies of the gods: the giants (36), the dwarfs (37), and the dead in the land of the goddess Hel (38-39). The Hauksbok version omits stanzas 36 and 37. Regius unites 36 with 37, but most editors have assumed a lacuna. Slith (\"the Fearful\"): a river in the giants' home. The \"swords and daggers\" may represent the icy cold."
+   ],
+   "original": [
+    {
+     "text": "Ǫ́ fellr austan of eitrdali",
+     "indent": false
+    },
+    {
+     "text": "sǫxum ok sverþum: Slíþr heitir sú.",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    }
    ]
   },
   {
@@ -923,6 +1603,24 @@
    ],
    "notes": [
     "Nithavellir (\"the Dark Fields\"): a home of the dwarfs. Perhaps the word should be \"Nithafjoll\" (\"the Dark Crags\"). Sindri: the great worker in gold among the dwarfs. Okolnir (\"the Not Cold\"): possibly a volcano. Brimir: the giant (possibly Ymir) out of whose blood, according to stanza 9, the dwarfs were made; the name here appears to mean simply the leader of the dwarfs."
+   ],
+   "original": [
+    {
+     "text": "Stóþ fyr norþan á Niþavǫllum",
+     "indent": false
+    },
+    {
+     "text": "salr ór golli Sindra ǽttar,",
+     "indent": false
+    },
+    {
+     "text": "en annarr stóþ á Ókólni",
+     "indent": false
+    },
+    {
+     "text": "bjórsalr jǫtuns, sá Brimir heitir.",
+     "indent": false
+    }
    ]
   },
   {
@@ -947,6 +1645,24 @@
    ],
    "notes": [
     "Stanzas 38 and 39 follow stanza 43 in the Hauksbok version. Snorri quotes stanzas 38, 39, 40 and 41, though not consecutively. Nastrond (\"Corpse-Strand\"): the land of the dead, ruled by the goddess Hel. Here the wicked undergo tortures. Smoke-vent: the phrase gives a picture of the Icelandic house, with its opening in the roof serving instead of a chimney."
+   ],
+   "original": [
+    {
+     "text": "Sal sák standa sólu fjarri",
+     "indent": false
+    },
+    {
+     "text": "Nástrǫndu á, norþr horfa dyrr;",
+     "indent": false
+    },
+    {
+     "text": "fellu eitrdropar inn of ljóra,",
+     "indent": false
+    },
+    {
+     "text": "sá ’s undinn salr orma hryggjum.",
+     "indent": false
+    }
    ]
   },
   {
@@ -975,6 +1691,28 @@
    ],
    "notes": [
     "The stanza is almost certainly in corrupt form. The third line is presumably an interpolation, and is lacking in most of the late paper manuscripts. Some editors, however, have called lines 1-3 the remains of a full stanza, with the fourth line lacking, and lines 4-5 remains of another. The stanza depicts the torments of the two worst classes of criminals known to Old Norse morality—oath-breakers and murderers. Nithhogg (\"the Dread Biter\"): the dragon that lies beneath the ash Yggdrasil and gnaws at its roots, thus symbolizing the destructive elements in the universe; cf. Grimnismol, 32, 35. The wolf: presumably the wolf Fenrir, one of the children of Loki and the giantess Angrbotha (the others being Mithgarthsorm and the goddess Hel), who was chained by the gods with the marvelous chain Gleipnir, fashioned by a dwarf \"out of six things: the noise of a cat's step, the beards of women, the roots of mountains, the nerves of bears, the breath of fishes, and the spittle of birds.\" The chaining of Fenrir cost the god Tyr is right hand; cf. stanza 44."
+   ],
+   "original": [
+    {
+     "text": "Sák þar vaþa þunga strauma",
+     "indent": false
+    },
+    {
+     "text": "menn meinsvara ok morþvarga",
+     "indent": false
+    },
+    {
+     "text": "[ok þanns annars glepr eyrarúnu];",
+     "indent": false
+    },
+    {
+     "text": "þar só Níþhǫggr naï framgengna,",
+     "indent": false
+    },
+    {
+     "text": "sleit vargr vera: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -999,6 +1737,24 @@
    ],
    "notes": [
     "The Hauksbok version inserts after stanza 39 the refrain-stanza (44), and puts stanzas 40 and 41 between 27 and 21. With this stanza begins the account of the final struggle itself. The giantess: her name is nowhere stated, and the only other reference to Ironwood is in Grimnismol, 39, in this same connection. The children of this giantess and the wolf Fenrir are the wolves Skoll and Hati, the first of whom steals the sun, the second the moon. Some scholars naturally see here an eclipse-myth."
+   ],
+   "original": [
+    {
+     "text": "Austr sat en aldna í Jarnviþi",
+     "indent": false
+    },
+    {
+     "text": "ok føddi þar Fenris kindir;",
+     "indent": false
+    },
+    {
+     "text": "verþr af ǫllum einna nekkverr",
+     "indent": false
+    },
+    {
+     "text": "tungls tjúgari í trolls hami.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1023,6 +1779,24 @@
    ],
    "notes": [
     "In the third line many editors omit the comma after \"sun,\" and put one after \"soon,\" making the two lines run: \"Dark grows the sun in summer soon, / Mighty storms —\" etc. Either phenomenon in summer would be sufficiently striking."
+   ],
+   "original": [
+    {
+     "text": "Fyllisk fjǫrvi feigra manna,",
+     "indent": false
+    },
+    {
+     "text": "rýþr ragna sjǫt rauþum dreyra;",
+     "indent": false
+    },
+    {
+     "text": "svǫrt verþa sólskin, of sumur eptir",
+     "indent": false
+    },
+    {
+     "text": "veþr ǫll válynd: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -1047,6 +1821,24 @@
    ],
    "notes": [
     "In the Hauksbok version stanzas 42 and 43 stand between stanzas 44 and 38. Eggther: this giant, who seems to be the watchman of the giants, as Heimdall is that of the gods and Surt of the dwellers in the fire-world, is not mentioned elsewhere in the poems. Fjalar, the cock whose crowing wakes the giants for the final struggle."
+   ],
+   "original": [
+    {
+     "text": "Sat þar á haugi ok sló hǫrpu",
+     "indent": false
+    },
+    {
+     "text": "gýgjar hirþir, † glaþr Eggþér;",
+     "indent": false
+    },
+    {
+     "text": "gól of hǫ́num í gaglviþi",
+     "indent": false
+    },
+    {
+     "text": "fagrrauþr hani sás Fjalarr heitir.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1071,6 +1863,24 @@
    ],
    "notes": [
     "Gollinkambi (\"Gold-Comb\"): the cock who wakes the gods and heroes, as Fjalar does the giants. The rust-red bird: the name of this bird, who wakes the people of Hel's domain, is nowhere stated."
+   ],
+   "original": [
+    {
+     "text": "Gól of ǫ́sum Gollinkambi,",
+     "indent": false
+    },
+    {
+     "text": "sá vekr hǫlþa at Herjafǫþrs;",
+     "indent": false
+    },
+    {
+     "text": "en annarr gelr fyr jǫrþ neþan",
+     "indent": false
+    },
+    {
+     "text": "sótrauþr hani at sǫlum Heljar.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1095,6 +1905,24 @@
    ],
    "notes": [
     "This is a refrain-stanza. In Regius it appears in full only at this point, but is repeated in abbreviated form before stanzas 50 and 59. In the Hauksbok version the full stanza comes first between stanzas 35 and 42, then, in abbreviated form, it occurs four times: before stanzas 45, 50, 55 and 59. In the Hauksbok line 3 runs: \"Farther I see and more can say.\" Garm: the dog who guards the gates of Hel's kingdom; cf. Baldrs Draumar, 2 ff, and Grimnismol, 44. Gniparhellir (\"the Cliff-Cave\"): the entrance to the world of the dead. The wolf: Fenrir; cf. stanza 39 and note."
+   ],
+   "original": [
+    {
+     "text": "Geyr nú Garmr mjǫk fyr Gnipahelli,",
+     "indent": false
+    },
+    {
+     "text": "festr mun slitna, en freki rinna!",
+     "indent": false
+    },
+    {
+     "text": "fjǫlþ veitk frøþa, fram sék lengra",
+     "indent": false
+    },
+    {
+     "text": "umb ragna røk, rǫmm sigtíva.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1127,6 +1955,32 @@
    ],
    "notes": [
     "From this point on through stanza 57 the poem is quoted by Snorri, stanza 49 alone being omitted. There has been much discussion as to the status of stanza 45. Lines 4 and 5 look like an interpolation. After line 5 the Hauksbok has a line running: \"The world resounds, the witch is flying.\" Editors have arranged these seven lines in various ways, with lacunae freely indicated. Sisters' sons: in all Germanic countries the relations between uncle and nephew were felt to be particularly close."
+   ],
+   "original": [
+    {
+     "text": "Brøþr munu berjask ok at bǫnum verþask,",
+     "indent": false
+    },
+    {
+     "text": "munu systrungar sifjum spilla;",
+     "indent": false
+    },
+    {
+     "text": "hart’s í heimi, hórdómr mikill;",
+     "indent": false
+    },
+    {
+     "text": "[skeggjǫld, skalmǫld, skildir ’u klofnir,",
+     "indent": false
+    },
+    {
+     "text": "vindǫld, vargǫld, áþr verǫld steypisk];",
+     "indent": false
+    },
+    {
+     "text": "mun engi maþr ǫþrum þyrma.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1151,6 +2005,24 @@
    ],
    "notes": [
     "Regius combines the first three lines of this stanza with lines 3, 2, and 1 of stanza 47 as a single stanza. Line 4, not found in Regius, is introduced from the Hauksbok version, where it follows line 2 of stanza 47. The sons of Mim: the spirits of the water. On Mim (or Mimir) cf. stanza 27 and note. Gjallarhorn: the \"Shrieking Horn\" with which Heimdall, the watchman of the gods, calls them to the last battle."
+   ],
+   "original": [
+    {
+     "text": "Míms synir leika, en mjǫtuþr kyndisk",
+     "indent": false
+    },
+    {
+     "text": "at enu gamla Gjallarhorni;",
+     "indent": false
+    },
+    {
+     "text": "hǫ́tt blǽss Heimdallr, horn’s á lopti,",
+     "indent": false
+    },
+    {
+     "text": "hrǽþask allir á helvegum.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1175,6 +2047,24 @@
    ],
    "notes": [
     "In Regius lines 3, 2, and 1, in that order, follow stanza 46 without separation. Line 4 is not found in Regius, but is introduced from the Hauksbok version. Yggdrasil: cf. stanza 19 and note, and Grimnismol, 29-35. The giant: Fenrir. The head of Mim: various myths were current about Mimir. This stanza refers to the story that he was sent by the gods with Hönir as a hostage to the Wanes after their war (cf. stanza 21 and note), and that the Wanes cut off his head and returned it to the gods. Othin embalmed the head, and by magic gave it the power of speech, thus making Mimir's noted wisdom always available. Of course this story does not fit with that underlying the references to Mimir in stanzas 27 and 29. The kinsman of Surt: the wolf Fenrir, who slays Othin in the final struggle; cf. stanza 53. Surt is the giant who rules the fire-world, Muspellsheim; cf. stanza 52."
+   ],
+   "original": [
+    {
+     "text": "Skelfr Yggdrasils askr standandi,",
+     "indent": false
+    },
+    {
+     "text": "ymr aldit tré, en jǫtunn losnar;",
+     "indent": false
+    },
+    {
+     "text": "mǽlir Óþinn viþ Míms hǫfuþ,",
+     "indent": false
+    },
+    {
+     "text": "áþr Surtar hann sefi of gleypir.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1199,6 +2089,24 @@
    ],
    "notes": [
     "This stanza in Regius follows stanza 51; in the Hauksbok it stands, as here, after 47. Jotunheim: the land of the giants."
+   ],
+   "original": [
+    {
+     "text": "Hvat’s meþ ǫ́sum? hvat’s meþ ǫlfum?",
+     "indent": false
+    },
+    {
+     "text": "gnýr allr jǫtunheimr, ǽsir’u á þingi;",
+     "indent": false
+    },
+    {
+     "text": "stynja dvergar fyr steindurum,",
+     "indent": false
+    },
+    {
+     "text": "veggbergs vísir: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -1223,6 +2131,24 @@
    ],
    "notes": [
     "Identical with stanza 44. In the manuscripts it is here abbreviated."
+   ],
+   "original": [
+    {
+     "text": "Geyr nú Garmr mjǫk fyr Gnipahelli,",
+     "indent": false
+    },
+    {
+     "text": "festr mun slitna, en freki rinna!",
+     "indent": false
+    },
+    {
+     "text": "fjǫlþ veitk frøþa, fram sék lengra",
+     "indent": false
+    },
+    {
+     "text": "umb ragna røk, rǫmm sigtíva.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1247,6 +2173,24 @@
    ],
    "notes": [
     "Hrym: the leader of the giants, who comes as the helmsman of the ship Naglfar (line 4). The serpent: Mithgarthsorm, one of the children of Loki and Angrbotha (cf. stanza 39, note). The serpent was cast into the sea, where he completely encircles the land; cf. especially Hymiskvitha, passim. The eagle: the giant Hræsvelg, who sits at the edge of heaven in the form of an eagle, and makes the winds with his wings; cf. Vafthruthnismol, 37, and Skirnismol, 27. Naglfar: the ship which was made out of dead men's nails to carry the giants to battle."
+   ],
+   "original": [
+    {
+     "text": "Hrymr ekr austan, hefsk lind fyrir;",
+     "indent": false
+    },
+    {
+     "text": "snýsk jǫrmungandr í jǫtunmóþi;",
+     "indent": false
+    },
+    {
+     "text": "ormr knýr unnir, en ari hlakkar,",
+     "indent": false
+    },
+    {
+     "text": "slítr naï niþfǫlr; Naglfar losnar.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1271,6 +2215,24 @@
    ],
    "notes": [
     "North: a guess; the manuscripts have \"east,\" but there seems to be a confusion with stanza 50, line 1. People of Hel: the manuscripts have \"people of Muspell,\" but these came over the bridge Bifrost (the rainbow), which broke beneath them, whereas the people of Hel came in a ship steered by Loki. The wolf: Fenrir. The brother of Byleist: Loki. Of Byleist (or Byleipt) no more is known."
+   ],
+   "original": [
+    {
+     "text": "Kjóll ferr norþan; koma munu Heljar",
+     "indent": false
+    },
+    {
+     "text": "of lǫg lýþir, en Loki stýrir;",
+     "indent": false
+    },
+    {
+     "text": "fara fíflmegir meþ freka allir,",
+     "indent": false
+    },
+    {
+     "text": "þeim es bróþir Býleists í fǫr.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1295,6 +2257,24 @@
    ],
    "notes": [
     "Surt: the ruler of the fire-world. The scourge of branches: fire. This is one of the relatively rare instances in the Eddic poems of the type of poetic diction which characterizes the skaldic verse."
+   ],
+   "original": [
+    {
+     "text": "Surtr ferr sunnan meþ sviga lǽvi,",
+     "indent": false
+    },
+    {
+     "text": "skínn af sverþi sól valtíva;",
+     "indent": false
+    },
+    {
+     "text": "grjótbjǫrg gnata, en gífr hrata,",
+     "indent": false
+    },
+    {
+     "text": "troþa halir helveg, en himinn klofnar.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1319,6 +2299,24 @@
    ],
    "notes": [
     "Hlin: apparently another name for Frigg, Othin's wife. After losing her son Baldr, she is fated now to see Othin slain by the wolf Fenrir. Beli's slayer: Freyr, who killed the giant Beli with his fist; cf. Skirnismol, 16 and note. On Freyr, who belonged to the race of the Wanes, and was the brother of Freyja, see especially Skirnismol, passim. The joy of Frigg: Othin."
+   ],
+   "original": [
+    {
+     "text": "Þá kømr Hlínar harmr annarr fram,",
+     "indent": false
+    },
+    {
+     "text": "es Óþinn ferr viþ ulf vega,",
+     "indent": false
+    },
+    {
+     "text": "en bani Belja bjartr at Surti:",
+     "indent": false
+    },
+    {
+     "text": "þá mun Friggjar falla angan.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1343,6 +2341,24 @@
    ],
    "notes": [
     "As quoted by Snorri the first line of this stanza runs: \"Fares Othin's son to fight with the wolf.\" Sigfather (\"Father of Victory\"): Othin. His son, Vithar, is the silent god, famed chiefly for his great shield, and his strength, which is little less than Thor's. He survives the destruction. The giant's son: Fenrir."
+   ],
+   "original": [
+    {
+     "text": "Kømr enn mikli mǫgr Sigfǫþur,",
+     "indent": false
+    },
+    {
+     "text": "Víþarr, vega at valdýri;",
+     "indent": false
+    },
+    {
+     "text": "lǽtr megi hveþrungs mund of standa",
+     "indent": false
+    },
+    {
+     "text": "hjǫr til hjarta: þá’s hefnt fǫþur.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1367,6 +2383,24 @@
    ],
    "notes": [
     "This and the following stanza are clearly in bad shape. In Regius only lines 1 and 4 are found, combined with stanza 56 as a single stanza. Line 1 does not appear in the Hauksbok version, the stanza there beginning with line 2. Snorri, in quoting these two stanzas, omits 55, 2-4, and 56, 3, making a single stanza out of 55, 1, and 56, 4, 2, 1, in that order. Moreover, the Hauksbok manuscript at this point is practically illegible. The lacuna (line 3) is, of course, purely conjectural, and all sorts of arrangements of the lines have been attempted by editors. Hlothyn: another name for Jorth (\"Earth\"), Thor's mother; his father was Othin. The snake: Mithgarthsorm; cf. stanza 50 and note. Othin's son: Thor. The fourth line in Regius reads \"against the wolf,\" but if this line refers to Thor at all, and not to Vithar, the Hauksbok reading, \"serpent,\" is correct."
+   ],
+   "original": [
+    {
+     "text": "Kømr enn mǽri mǫgr Hlóþynjar;",
+     "indent": false
+    },
+    {
+     "text": "gínn lopt yfir liþr fránn neþan",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    },
+    {
+     "text": "gengr Óþins sunr ormi móta.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1391,6 +2425,24 @@
    ],
    "notes": [
     "The warder of earth: Thor. The son of Fjorgyn: again Thor, who, after slaying the serpent, is overcome by his venomous breath, and dies. Fjorgyn appears in both a masculine and a feminine form. In the masculine it is a name for Othin; in the feminine, as here and in Harbarthsljoth, 56, it apparently refers to Jorth."
+   ],
+   "original": [
+    {
+     "text": "Drepr af móþi miþgarþs vëur;",
+     "indent": false
+    },
+    {
+     "text": "munu halir allir heimstǫþ ryþja;",
+     "indent": false
+    },
+    {
+     "text": "gengr fet niu Fjǫrgynjar burr",
+     "indent": false
+    },
+    {
+     "text": "neppr frá naþri níþs ókvíþnum.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1415,6 +2467,24 @@
    ],
    "notes": [
     "With this stanza ends the account of the destruction."
+   ],
+   "original": [
+    {
+     "text": "Sól tér sortna, sígr fold í mar,",
+     "indent": false
+    },
+    {
+     "text": "hverfa af himni heiþar stjǫrnur;",
+     "indent": false
+    },
+    {
+     "text": "geisar eimi ok aldrnari,",
+     "indent": false
+    },
+    {
+     "text": "leikr hǫ́r hiti viþ himin sjalfan.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1439,6 +2509,24 @@
    ],
    "notes": [
     "Again the refrain-stanza (cf. stanza 44 and note), abbreviated in both manuscripts, as in the case of stanza 49. It is probably misplaced here."
+   ],
+   "original": [
+    {
+     "text": "Geyr nú Garmr mjǫk fyr Gnipahelli,",
+     "indent": false
+    },
+    {
+     "text": "festr mun slitna, en freki rinna!",
+     "indent": false
+    },
+    {
+     "text": "fjǫlþ veitk frøþa, fram sék lengra",
+     "indent": false
+    },
+    {
+     "text": "umb ragna røk, rǫmm sigtíva.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1463,6 +2551,24 @@
    ],
    "notes": [
     "Here begins the description of the new world which is to rise out of the wreck of the old one. It is on this passage that a few critics have sought to base their argument that the poem is later than the introduction of Christianity (circa 1000), but this theory has never seemed convincing (cf. introductory note)."
+   ],
+   "original": [
+    {
+     "text": "Sék upp koma ǫþru sinni",
+     "indent": false
+    },
+    {
+     "text": "jǫrþ ór ǽgi iþjagrøna;",
+     "indent": false
+    },
+    {
+     "text": "falla forsar, flýgr ǫrn yfir,",
+     "indent": false
+    },
+    {
+     "text": "sás á fjalli fiska veiþir.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1487,6 +2593,24 @@
    ],
    "notes": [
     "The third line of this stanza is not found in Regius. Ithavoll: cf. stanza 7 and note. The girdler of earth: Mithgarthsorm, who, lying in the sea, surrounded the land. The Ruler of Gods: Othin. The runes were both magic signs, generally carved on wood, and sung or spoken charms."
+   ],
+   "original": [
+    {
+     "text": "Finnask ǽsir á Iþavelli",
+     "indent": false
+    },
+    {
+     "text": "ok of moldþinur mǫ́tkan døma,",
+     "indent": false
+    },
+    {
+     "text": "ok minnask þar á megindóma",
+     "indent": false
+    },
+    {
+     "text": "ok á Fimbultýs fornar rúnar.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1511,6 +2635,24 @@
    ],
    "notes": [
     "The Hauksbok version of the first two lines runs: \"The gods shall find there, wondrous fair, The golden tables amid the grass.\" No lacuna (line 4) is indicated in the manuscripts. Golden tables: cf. stanza 8 and note."
+   ],
+   "original": [
+    {
+     "text": "Þar munu eptir undrsamligar",
+     "indent": false
+    },
+    {
+     "text": "gollnar tǫflur í grasi finnask",
+     "indent": false
+    },
+    {
+     "text": "þǽrs í árdaga áttar hǫfþu.",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    }
    ]
   },
   {
@@ -1535,6 +2677,24 @@
    ],
    "notes": [
     "Baldr: cf. stanza 32 and note. Baldr and his brother, Hoth, who unwittingly slew him at Loki's instigation, return together, their union being a symbol of the new age of peace. Hropt: another name for Othin. His \"battle-hall\" is Valhall."
+   ],
+   "original": [
+    {
+     "text": "Munu ósánir akrar vaxa,",
+     "indent": false
+    },
+    {
+     "text": "bǫls mun batna, mun Baldr koma;",
+     "indent": false
+    },
+    {
+     "text": "bua Hǫþr ok Baldr Hropts sigtoptir,",
+     "indent": false
+    },
+    {
+     "text": "vé valtíva: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -1559,6 +2719,24 @@
    ],
    "notes": [
     "No lacuna (line 2) indicated by the manuscripts. Hönir: cf. stanza 18 and note. In this new age he has the gift of foretelling the future. Tveggi (\"The Twofold\"): another name for Othin. His brothers are Vili and Ve (cf. Lokasenna, 26, and note). Little is known of them, and nothing, beyond this reference, of their sons. Vindheim (\"Home of the Wind\"): heaven"
+   ],
+   "original": [
+    {
+     "text": "Þá kná Hønir hlautviþ kjósa",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    },
+    {
+     "text": "ok burir byggva brøþra Tveggja",
+     "indent": false
+    },
+    {
+     "text": "vindheim víþan: vituþ enn eþa hvat?",
+     "indent": false
+    }
    ]
   },
   {
@@ -1583,6 +2761,24 @@
    ],
    "notes": [
     "This stanza is quoted by Snorri. Gimle: Snorri makes this the name of the hall itself, while here it appears to refer to a mountain on which the hall stands. It is the home of the happy, as opposed to another hall, not here mentioned, for the dead. Snorri's description of this second hall is based on Voluspo, 38, which he quotes, and perhaps that stanza properly belongs after 64."
+   ],
+   "original": [
+    {
+     "text": "Sal sék standa sólu fegra,",
+     "indent": false
+    },
+    {
+     "text": "golli þakþan á Gimleï:",
+     "indent": false
+    },
+    {
+     "text": "þar skulu dyggvar dróttir byggva",
+     "indent": false
+    },
+    {
+     "text": "ok of aldrdaga ynþis njóta.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1607,6 +2803,24 @@
    ],
    "notes": [
     "This stanza is not found in Regius, and is probably spurious. No lacuna is indicated in the Hauksbok version, but late paper manuscripts add two lines, running: \"Rule he orders, and rights he fixes, Laws he ordains that ever shall live.\" The name of this new ruler is nowhere given, and of course the suggestion of Christianity is unavoidable. It is not certain, however, that even this stanza refers to Christianity, and if it does, it may have been interpolated long after the rest of the poem was composed."
+   ],
+   "original": [
+    {
+     "text": "Kømr enn ríki at regindómi",
+     "indent": false
+    },
+    {
+     "text": "ǫflugr ofan sás ǫllu rǽþr.",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    }
    ]
   },
   {
@@ -1631,7 +2845,33 @@
    ],
    "notes": [
     "This stanza, which fits so badly with the preceding ones, may well have been interpolated. It has been suggested that the dragon, making a last attempt to rise, is destroyed, this event marking the end of evil in the world. But in both manuscripts the final half-line does not refer to the dragon, but, as the gender shows, to the Volva herself, who sinks into the earth; a sort of conclusion to the entire prophecy. Presumably the stanza (barring the last half-line, which was probably intended as the conclusion of the poem) belongs somewhere in the description of the great struggle. Nothhogg: the dragon at the roots of Yggdrasil; cf. stanza 39 and note. Nithafjoll (\"the Dark Crags\"); nowhere else mentioned. Must I: the manuscripts have \"must she.\""
+   ],
+   "original": [
+    {
+     "text": "Kømr enn dimmi dreki fljúgandi,",
+     "indent": false
+    },
+    {
+     "text": "naþr fránn neþan frá Niþafjǫllum;",
+     "indent": false
+    },
+    {
+     "text": "bersk í fjǫþrum — flýgr vǫll yfir —",
+     "indent": false
+    },
+    {
+     "text": "Níþhǫggr naï: nú mun søkkvask.",
+     "indent": false
+    }
    ]
   }
- ]
+ ],
+ "original": {
+  "language": "non",
+  "editors": "Karl Hildebrand and Hugo Gering",
+  "title": "Die Lieder der älteren Edda (Sæmundar Edda)",
+  "year": 1904,
+  "license": "Public domain",
+  "source": "https://archive.org/details/dieliederderlte00hild"
+ }
 }

@@ -48,6 +48,17 @@ export default function SettingsScreen() {
       <ReminderSettings />
 
       <OptionGroup
+        title={t('settings.readerLanguage')}
+        help={t('settings.readerLanguageHelp')}
+        value={settings.readerLanguage}
+        onChange={(readerLanguage) => update({ readerLanguage })}
+        options={(['both', 'non', 'en'] as const).map((value) => ({
+          value,
+          label: t(`reader.languageOption.${value}`),
+        }))}
+      />
+
+      <OptionGroup
         title={t('settings.appearance')}
         value={settings.appearance}
         onChange={(appearance) => update({ appearance })}

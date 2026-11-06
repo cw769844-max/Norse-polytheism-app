@@ -41,6 +41,28 @@
    ],
    "notes": [
     "This stanza is quoted by Snorri, the second line being omitted in most of the Prose Edda manuscripts."
+   ],
+   "original": [
+    {
+     "text": "Gáttir allar, áþr gangi fram,",
+     "indent": false
+    },
+    {
+     "text": "umb skoþask skyli,",
+     "indent": true
+    },
+    {
+     "text": "umb skygnask skyli;",
+     "indent": true
+    },
+    {
+     "text": "þvít óvist es, hvar óvinir",
+     "indent": false
+    },
+    {
+     "text": "sitja á fleti fyrir.",
+     "indent": true
+    }
    ]
   },
   {
@@ -65,6 +87,24 @@
    ],
    "notes": [
     "Probably the first and second lines had originally nothing to do with the third and fourth, the last two not referring to host or guest, but to the general danger of backing one's views with the sword."
+   ],
+   "original": [
+    {
+     "text": "Gefendr heilir! gestr’s inn kominn;",
+     "indent": false
+    },
+    {
+     "text": "hvar skal sitja sjá?",
+     "indent": true
+    },
+    {
+     "text": "mjǫk es bráþr sás á brǫndum skal",
+     "indent": false
+    },
+    {
+     "text": "síns of freista frama.",
+     "indent": true
+    }
    ]
   },
   {
@@ -87,7 +127,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Elds es þǫrf þeims inn es kominn",
+     "indent": false
+    },
+    {
+     "text": "auk á kné kalinn;",
+     "indent": true
+    },
+    {
+     "text": "matar ok váþa es manni þǫrf",
+     "indent": false
+    },
+    {
+     "text": "þeims hefr of fjall farit.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 4,
@@ -109,7 +167,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Vatns es þǫrf þeims til verþar kømr,",
+     "indent": false
+    },
+    {
+     "text": "þerru ok þjóþlaþar,",
+     "indent": true
+    },
+    {
+     "text": "góþs of øþis ef sér geta mǽtti",
+     "indent": false
+    },
+    {
+     "text": "orþ, ok endrþǫgu.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 5,
@@ -131,7 +207,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Vits es þǫrf þeims víþa ratar,",
+     "indent": false
+    },
+    {
+     "text": "dǽlt es heima hvat;",
+     "indent": true
+    },
+    {
+     "text": "at augabragþi verþr sás etki kann",
+     "indent": false
+    },
+    {
+     "text": "auk meþ snotrum sitr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 6,
@@ -163,6 +257,32 @@
    ],
    "notes": [
     "Lines 5 and 6 appear to have been added to the stanza."
+   ],
+   "original": [
+    {
+     "text": "At hyggjandi sinni skylit maþr hrøsinn vesa,",
+     "indent": false
+    },
+    {
+     "text": "heldr gǽtinn at geþi;",
+     "indent": true
+    },
+    {
+     "text": "þás horskr ok þǫgull kømr heimisgarþa til,",
+     "indent": false
+    },
+    {
+     "text": "sjaldan verþr víti vǫrum.",
+     "indent": true
+    },
+    {
+     "text": "[þvít óbrigþra vin fǽr maþr aldrigi,",
+     "indent": false
+    },
+    {
+     "text": "an mannvit mikit.]",
+     "indent": true
+    }
    ]
   },
   {
@@ -185,7 +305,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Enn vari gestr, es til verþar kømr,",
+     "indent": false
+    },
+    {
+     "text": "þunnu hljóþi þegir,",
+     "indent": true
+    },
+    {
+     "text": "eyrum hlýþir, en augum skoþar:",
+     "indent": false
+    },
+    {
+     "text": "svá nýsisk fróþra hverr fyrir.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 8,
@@ -207,7 +345,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Hinn es sǽll es sér of getr",
+     "indent": false
+    },
+    {
+     "text": "lof ok líknstafi;",
+     "indent": true
+    },
+    {
+     "text": "ódǽlla’s vit es maþr eiga skal",
+     "indent": false
+    },
+    {
+     "text": "annars brjóstum í.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 9,
@@ -229,7 +385,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "[Sá es sǽll es sjalfr of á",
+     "indent": false
+    },
+    {
+     "text": "lof ok vit meþan lifir,",
+     "indent": true
+    },
+    {
+     "text": "þvít ill rǫ́þ hefr maþr opt þegit",
+     "indent": false
+    },
+    {
+     "text": "annars brjóstum ór.]",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 10,
@@ -251,7 +425,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Byrþi betri berra maþr brautu at,",
+     "indent": false
+    },
+    {
+     "text": "an sé mannvit mikit;",
+     "indent": true
+    },
+    {
+     "text": "auþi betra þykkir þat i ókunnum staþ,",
+     "indent": false
+    },
+    {
+     "text": "slíkt es válaþs vera.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 11,
@@ -273,7 +465,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Byrþi betri berra maþr brautu at,",
+     "indent": false
+    },
+    {
+     "text": "an sé manvit mikit;",
+     "indent": true
+    },
+    {
+     "text": "vegnest verra vegra hann velli at,",
+     "indent": false
+    },
+    {
+     "text": "an sé ofdrykkja ǫls.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 12,
@@ -297,6 +507,24 @@
    ],
    "notes": [
     "Some editors have combined this stanza in various ways with the last two lines of stanza 11, as in the manuscript the first two lines of the latter are abbreviated, and, if they belong there at all, are presumably identical with the first two lines of stanza 10."
+   ],
+   "original": [
+    {
+     "text": "Esa svá gott, sem gott kveþa,",
+     "indent": false
+    },
+    {
+     "text": "ǫl alda sunum,",
+     "indent": true
+    },
+    {
+     "text": "þvít fǽra veit, es fleira drekkr,",
+     "indent": false
+    },
+    {
+     "text": "síns til geþs gumi.",
+     "indent": true
+    }
    ]
   },
   {
@@ -321,6 +549,24 @@
    ],
    "notes": [
     "The heron: the bird of forgetfulness, referred to in line 1. Gunnloth: the daughter of the giant Suttung, from whom Othin won the mead of poetry. For this episode see stanzas 104-110."
+   ],
+   "original": [
+    {
+     "text": "Óminnis hegri heitir sás of ǫlþrum þrumir,",
+     "indent": false
+    },
+    {
+     "text": "hann stelr geþi guma;",
+     "indent": true
+    },
+    {
+     "text": "þess fugls fjǫþrum ek fjǫtraþr vask",
+     "indent": false
+    },
+    {
+     "text": "í garþi Gunnlaþar.",
+     "indent": true
+    }
    ]
   },
   {
@@ -345,6 +591,24 @@
    ],
    "notes": [
     "Fjalar: apparently another name for Suttung. This stanza, and probably 13, seem to have been inserted as illustrative."
+   ],
+   "original": [
+    {
+     "text": "Ǫlr ek varþ, varþ ofrǫlvi",
+     "indent": false
+    },
+    {
+     "text": "at ens fróþa Fjalars;",
+     "indent": true
+    },
+    {
+     "text": "því’s ǫlþr bazt, at aptr of heimtir",
+     "indent": false
+    },
+    {
+     "text": "hverr sitt geþ gumi.",
+     "indent": true
+    }
    ]
   },
   {
@@ -367,7 +631,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þagalt ok hugalt skyli þjóþans barn",
+     "indent": false
+    },
+    {
+     "text": "ok vígdjarft vesa;",
+     "indent": true
+    },
+    {
+     "text": "glaþr ok reifr skyli gumna hverr,",
+     "indent": false
+    },
+    {
+     "text": "unz sinn bíþr bana.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 16,
@@ -389,7 +671,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ósnjallr maþr hyggsk munu ey lifa,",
+     "indent": false
+    },
+    {
+     "text": "ef viþ víg varask,",
+     "indent": true
+    },
+    {
+     "text": "en elli gefr hǫnum engi friþ,",
+     "indent": false
+    },
+    {
+     "text": "þót hǫnum geirar gefi.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 17,
@@ -411,7 +711,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Kópir afglapi, es til kynnis kømr,",
+     "indent": false
+    },
+    {
+     "text": "þylsk hann umb eþa þrumir;",
+     "indent": true
+    },
+    {
+     "text": "alt es senn, ef hann sylg of getr,",
+     "indent": false
+    },
+    {
+     "text": "uppi’s þá geþ guma.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 18,
@@ -433,7 +751,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Sá einn veit es víþa ratar",
+     "indent": false
+    },
+    {
+     "text": "auk hefr fjǫlþ of farit,",
+     "indent": true
+    },
+    {
+     "text": "hverju geþi stýrir gumna hverr",
+     "indent": false
+    },
+    {
+     "text": "sás vitandi ’s vits.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 19,
@@ -455,7 +791,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Haldit maþr á keri, drekki þó at hófi mjǫþ,",
+     "indent": false
+    },
+    {
+     "text": "mǽli þarft eþa þegi;",
+     "indent": true
+    },
+    {
+     "text": "ókynnis þess vár þik engi maþr,",
+     "indent": false
+    },
+    {
+     "text": "at þú gangir snimma at sofa.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 20,
@@ -477,7 +831,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Grǫ́þugr halr, nema geþs viti,",
+     "indent": false
+    },
+    {
+     "text": "etr sér aldrtrega;",
+     "indent": true
+    },
+    {
+     "text": "opt fǽr hløgis, es meþ horskum kømr,",
+     "indent": false
+    },
+    {
+     "text": "manni heimskum magi.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 21,
@@ -499,7 +871,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Hjarþir þat vitu, nǽr þǽr heim skulu,",
+     "indent": false
+    },
+    {
+     "text": "ok ganga þá af grasi;",
+     "indent": true
+    },
+    {
+     "text": "en ósviþr maþr kann ǽvagi",
+     "indent": false
+    },
+    {
+     "text": "síns of mál maga.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 22,
@@ -521,7 +911,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Vesall maþr ok illa skapi",
+     "indent": false
+    },
+    {
+     "text": "hlǽr at hvívetna;",
+     "indent": true
+    },
+    {
+     "text": "hitki hann veit, es hann vita þyrfti,",
+     "indent": false
+    },
+    {
+     "text": "at hann esa vamma vanr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 23,
@@ -543,7 +951,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ósviþr maþr vakir of allar nǽtr",
+     "indent": false
+    },
+    {
+     "text": "ok hyggr at hvívetna;",
+     "indent": true
+    },
+    {
+     "text": "þá es móþr es at morni kømr,",
+     "indent": false
+    },
+    {
+     "text": "allt es víl sem vas.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 24,
@@ -565,7 +991,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ósnotr maþr hyggr sér alla vesa",
+     "indent": false
+    },
+    {
+     "text": "viþhlǽjendr vini;",
+     "indent": true
+    },
+    {
+     "text": "hitki hann fiþr, þót of hann fár lesi,",
+     "indent": false
+    },
+    {
+     "text": "ef meþ snotrum sitr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 25,
@@ -589,6 +1033,24 @@
    ],
    "notes": [
     "The first two lines are abbreviated in the manuscript, but are doubtless identical with the first two lines of the stanza 24."
+   ],
+   "original": [
+    {
+     "text": "Ósnotr maþr hyggr sér alla vesa",
+     "indent": false
+    },
+    {
+     "text": "viþhlǽjendr vini;",
+     "indent": true
+    },
+    {
+     "text": "þá þat fiþr, es at þingi kømr,",
+     "indent": false
+    },
+    {
+     "text": "at á formǽlendr faa.",
+     "indent": true
+    }
    ]
   },
   {
@@ -611,7 +1073,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ósnotr maþr þykkisk allt vita,",
+     "indent": false
+    },
+    {
+     "text": "ef á ser í vǫ́ veru;",
+     "indent": true
+    },
+    {
+     "text": "hitki hann veit, hvat hann skal viþ kveþa,",
+     "indent": false
+    },
+    {
+     "text": "ef hans freista firar.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 27,
@@ -643,6 +1123,32 @@
    ],
    "notes": [
     "The last two lines were probably added as a commentary on lines 3 and 4."
+   ],
+   "original": [
+    {
+     "text": "Ósnotr maþr, es meþ aldir kømr,",
+     "indent": false
+    },
+    {
+     "text": "þat es bazt at þegi;",
+     "indent": true
+    },
+    {
+     "text": "engi þat veit, at hann etki kann,",
+     "indent": false
+    },
+    {
+     "text": "nema hann mǽli til mart.",
+     "indent": true
+    },
+    {
+     "text": "[veita maþr hinns vǽtki veit,",
+     "indent": false
+    },
+    {
+     "text": "þót hann mǽli til mart.]",
+     "indent": true
+    }
    ]
   },
   {
@@ -665,7 +1171,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Fróþr sá þykkisk es fregna kann",
+     "indent": false
+    },
+    {
+     "text": "auk segja et sama;",
+     "indent": true
+    },
+    {
+     "text": "eyvitu leyna megu ýta synir",
+     "indent": false
+    },
+    {
+     "text": "þvís gengr of guma.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 29,
@@ -687,7 +1211,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ørna mǽlir sás ǽva þegir",
+     "indent": false
+    },
+    {
+     "text": "staþlausu stafi;",
+     "indent": true
+    },
+    {
+     "text": "hraþmǽlt tunga, nema haldendr eigi,",
+     "indent": false
+    },
+    {
+     "text": "opt sér ógott of gelr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 30,
@@ -709,7 +1251,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "At augabragþi skala maþr annan hafa,",
+     "indent": false
+    },
+    {
+     "text": "þót til kynnis komi;",
+     "indent": true
+    },
+    {
+     "text": "margr þá fróþr þykkisk, ef hann freginn esat",
+     "indent": false
+    },
+    {
+     "text": "ok naï hann þurrfjallr þruma.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 31,
@@ -731,7 +1291,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Fróþr þykkisk sás flótta tekr",
+     "indent": false
+    },
+    {
+     "text": "gestr at gest hǽþinn;",
+     "indent": true
+    },
+    {
+     "text": "veita gǫrla sás of verþi glissir,",
+     "indent": false
+    },
+    {
+     "text": "þót meþ grǫmum glami.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 32,
@@ -753,7 +1331,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Gumnar margir erusk gagnhollir,",
+     "indent": false
+    },
+    {
+     "text": "en at virþi vrekask;",
+     "indent": true
+    },
+    {
+     "text": "aldar róg þat mun ǽ vesa,",
+     "indent": false
+    },
+    {
+     "text": "órir gestr viþ gest.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 33,
@@ -775,7 +1371,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Árliga verþar skyli maþr opt faa,",
+     "indent": false
+    },
+    {
+     "text": "né ǫ́n til kynnis komi:",
+     "indent": true
+    },
+    {
+     "text": "sitr ok snópir, lǽtr sem solginn sé,",
+     "indent": false
+    },
+    {
+     "text": "ok kann fregna at fǫu.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 34,
@@ -797,7 +1411,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Afhvarf mikit es til ills vinar",
+     "indent": false
+    },
+    {
+     "text": "þót á brautu bui,",
+     "indent": true
+    },
+    {
+     "text": "en til góþs vinar liggja gagnvegir,",
+     "indent": false
+    },
+    {
+     "text": "þót sé firr farinn.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 35,
@@ -819,7 +1451,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ganga skal, skala gestr vesa",
+     "indent": false
+    },
+    {
+     "text": "ey í einum staþ;",
+     "indent": true
+    },
+    {
+     "text": "ljúfr verþr leiþr, ef lengi sitr",
+     "indent": false
+    },
+    {
+     "text": "annars fletjum á.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 36,
@@ -843,6 +1493,24 @@
    ],
    "notes": [
     "The manuscript has \"little\" in place of \"a hut\" in line 1, but this involves an error in the initial-rhymes, and the emendation has been generally accepted."
+   ],
+   "original": [
+    {
+     "text": "Bú es betra, þót búkot sé,",
+     "indent": false
+    },
+    {
+     "text": "halr es heima hverr;",
+     "indent": true
+    },
+    {
+     "text": "þót tvǽr geitr eigi ok taugreptan sal,",
+     "indent": false
+    },
+    {
+     "text": "þat’s þó betra an bøn.",
+     "indent": true
+    }
    ]
   },
   {
@@ -867,6 +1535,24 @@
    ],
    "notes": [
     "Lines 1 and 2 are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza 36."
+   ],
+   "original": [
+    {
+     "text": "Bú es betra, þót búkot sé,",
+     "indent": false
+    },
+    {
+     "text": "halr es heima hverr;",
+     "indent": true
+    },
+    {
+     "text": "blóþugt’s hjarta þeims biþja skal",
+     "indent": false
+    },
+    {
+     "text": "sér í mál hvert matar.",
+     "indent": true
+    }
    ]
   },
   {
@@ -889,7 +1575,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Vǫ́pnum sínum skala maþr velli á",
+     "indent": false
+    },
+    {
+     "text": "feti ganga framarr,",
+     "indent": true
+    },
+    {
+     "text": "þvít óvist’s at vita, nǽr verþr á vegum úti",
+     "indent": false
+    },
+    {
+     "text": "geirs of þǫrf guma.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 39,
@@ -913,6 +1617,24 @@
    ],
    "notes": [
     "In the manuscript this stanza follows stanza 40."
+   ],
+   "original": [
+    {
+     "text": "Fear síns es fengit hefr",
+     "indent": false
+    },
+    {
+     "text": "skylit maþr þǫrf þola;",
+     "indent": true
+    },
+    {
+     "text": "opt sparir leiþum þats hefr ljúfum hugat,",
+     "indent": false
+    },
+    {
+     "text": "mart gengr verr an varer.",
+     "indent": true
+    }
    ]
   },
   {
@@ -937,6 +1659,24 @@
    ],
    "notes": [
     "The key-word in line 3 is missing in the manuscript, but editors have agreed in inserting a word meaning \"generous.\""
+   ],
+   "original": [
+    {
+     "text": "Fannkak mildan mann eþa svá matargóþan,",
+     "indent": false
+    },
+    {
+     "text": "at vǽrit þiggja þegit,",
+     "indent": true
+    },
+    {
+     "text": "eþa síns fear svági gjǫflan,",
+     "indent": false
+    },
+    {
+     "text": "at leiþ sé laun ef þegi.",
+     "indent": true
+    }
    ]
   },
   {
@@ -961,6 +1701,24 @@
    ],
    "notes": [
     "In line 3 the manuscript adds \"givers again\" to \"gift-givers.\""
+   ],
+   "original": [
+    {
+     "text": "Vǫ́pnum ok vǫ́þum skulu vinir gleþjask,",
+     "indent": false
+    },
+    {
+     "text": "þat’s á sjǫlfum sýnst;",
+     "indent": true
+    },
+    {
+     "text": "viþrgefendr erusk vinir lengst,",
+     "indent": false
+    },
+    {
+     "text": "ef þat bíþr at verþa vel.",
+     "indent": true
+    }
    ]
   },
   {
@@ -983,7 +1741,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Vin sínum skal maþr vinr vesa",
+     "indent": false
+    },
+    {
+     "text": "ok gjalda gjǫf viþ gjǫf,",
+     "indent": true
+    },
+    {
+     "text": "hlátr viþ hlátri skyli hǫlþar taka,",
+     "indent": false
+    },
+    {
+     "text": "en lausung viþ lygi.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 43,
@@ -1005,7 +1781,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Vin sínum skal maþr vinr vesa,",
+     "indent": false
+    },
+    {
+     "text": "þeim ok þess vin,",
+     "indent": true
+    },
+    {
+     "text": "en óvinar síns skyli engi maþr",
+     "indent": false
+    },
+    {
+     "text": "vinar vinr vesa.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 44,
@@ -1027,7 +1821,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Veiztu, ef vin átt þanns þú vel truir,",
+     "indent": false
+    },
+    {
+     "text": "ok vill af hǫnum gott geta,",
+     "indent": true
+    },
+    {
+     "text": "geþi skalt viþ þann blanda ok gjǫfum skipta,",
+     "indent": false
+    },
+    {
+     "text": "fara at finna opt.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 45,
@@ -1049,7 +1861,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ef átt annan þanns þú illa truir,",
+     "indent": false
+    },
+    {
+     "text": "vill af hǫnum þó gott geta,",
+     "indent": true
+    },
+    {
+     "text": "fagrt skalt viþ þann mǽla, en flátt hyggja",
+     "indent": false
+    },
+    {
+     "text": "ok gjalda lausung viþ lygi.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 46,
@@ -1071,7 +1901,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat’s enn of þann es þú illa truir",
+     "indent": false
+    },
+    {
+     "text": "ok þér’s grunr at hans geþi:",
+     "indent": true
+    },
+    {
+     "text": "hlǽja skalt viþ þeim ok of hug mǽla,",
+     "indent": false
+    },
+    {
+     "text": "glík skulu gjǫld gjǫfum.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 47,
@@ -1093,7 +1941,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ungr vask forþum, fór ek einn saman,",
+     "indent": false
+    },
+    {
+     "text": "þá varþk villr vega;",
+     "indent": true
+    },
+    {
+     "text": "auþugr þóttumk es ek annan fann:",
+     "indent": false
+    },
+    {
+     "text": "maþr es manns gaman.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 48,
@@ -1115,7 +1981,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Mildir, frøknir menn bazt lifa,",
+     "indent": false
+    },
+    {
+     "text": "sjaldan sút ala,",
+     "indent": true
+    },
+    {
+     "text": "en ósnjallr maþr uggir hotvetna,",
+     "indent": false
+    },
+    {
+     "text": "sýtir ǽ gløggr viþ gjǫfum.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 49,
@@ -1137,7 +2021,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Váþir mínar gaf ek velli at",
+     "indent": false
+    },
+    {
+     "text": "tveim trémǫnnum;",
+     "indent": true
+    },
+    {
+     "text": "rekkar þat þóttusk es þeir ript hǫfþu:",
+     "indent": false
+    },
+    {
+     "text": "neiss es nøkkviþr halr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 50,
@@ -1159,7 +2061,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Hrørnar þǫll sús stendr þorpi á,",
+     "indent": false
+    },
+    {
+     "text": "hlýrat bǫrkr né barr;",
+     "indent": true
+    },
+    {
+     "text": "svá es maþr sás manngi ann,",
+     "indent": false
+    },
+    {
+     "text": "hvat skal hann lengi lifa?",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 51,
@@ -1181,7 +2101,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Eldi heitari brinnr meþ illum vinum",
+     "indent": false
+    },
+    {
+     "text": "friþr fimm daga,",
+     "indent": true
+    },
+    {
+     "text": "en þá sloknar, es enn sétti kømr,",
+     "indent": false
+    },
+    {
+     "text": "ok versnar vinskapr allr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 52,
@@ -1203,7 +2141,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Mikit eitt skala manni gefa,",
+     "indent": false
+    },
+    {
+     "text": "opt kaupir í litlu lof;",
+     "indent": true
+    },
+    {
+     "text": "meþ hǫlfum hleifi ok meþ hǫllu keri",
+     "indent": false
+    },
+    {
+     "text": "fengumk félaga.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 53,
@@ -1225,7 +2181,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Lítilla sanda lítilla sǽva:",
+     "indent": false
+    },
+    {
+     "text": "lítil eru geþ guma;",
+     "indent": true
+    },
+    {
+     "text": "þvít allir menn urþut jafnspakir,",
+     "indent": false
+    },
+    {
+     "text": "hǫlf es ǫld hvar.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 54,
@@ -1247,7 +2221,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Meþalsnotr skyli manna hverr,",
+     "indent": false
+    },
+    {
+     "text": "ǽva til snotr seï;",
+     "indent": true
+    },
+    {
+     "text": "þeim es fyrþa fegrst at lifa,",
+     "indent": false
+    },
+    {
+     "text": "es vel mart vitu.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 55,
@@ -1271,6 +2263,24 @@
    ],
    "notes": [
     "The first pairs of lines are abbreviated in the manuscript."
+   ],
+   "original": [
+    {
+     "text": "Meþalsnotr skyli manna hverr,",
+     "indent": false
+    },
+    {
+     "text": "ǽva til snotr seï;",
+     "indent": true
+    },
+    {
+     "text": "þvít snotrs manns hjarta verþr sjaldan glatt,",
+     "indent": false
+    },
+    {
+     "text": "ef sá’s alsnotr es á.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1295,6 +2305,24 @@
    ],
    "notes": [
     "The first pairs of lines are abbreviated in the manuscript."
+   ],
+   "original": [
+    {
+     "text": "Meþalsnotr skyli manna hverr,",
+     "indent": false
+    },
+    {
+     "text": "ǽva til snotr seï;",
+     "indent": true
+    },
+    {
+     "text": "ørlǫg sín viti engi fyrir,",
+     "indent": false
+    },
+    {
+     "text": "þeim’s sorgalausastr sefi.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1317,7 +2345,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Brandr af brandi brinnr unz brunninn es,",
+     "indent": false
+    },
+    {
+     "text": "funi kveykisk af funa;",
+     "indent": true
+    },
+    {
+     "text": "maþr manni verþr af máli kuþr,",
+     "indent": false
+    },
+    {
+     "text": "en til dølskr af dul.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 58,
@@ -1339,7 +2385,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ár skal rísa sás annars vill",
+     "indent": false
+    },
+    {
+     "text": "fé eþa fjǫr hafa;",
+     "indent": true
+    },
+    {
+     "text": "liggjandi ulfr sjaldan lǽr of getr",
+     "indent": false
+    },
+    {
+     "text": "né sofandi maþr sigr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 59,
@@ -1361,7 +2425,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ár skal rísa sás á yrkjendr faa",
+     "indent": false
+    },
+    {
+     "text": "ok ganga síns verka á vit;",
+     "indent": true
+    },
+    {
+     "text": "mart of dvelr þanns of morgin sefr,",
+     "indent": false
+    },
+    {
+     "text": "halfr es auþr und hvǫtum.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 60,
@@ -1383,7 +2465,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þurra skíþa ok þakinna nǽfra,",
+     "indent": false
+    },
+    {
+     "text": "þess kann maþr mjǫt,",
+     "indent": true
+    },
+    {
+     "text": "þess viþar es vinnask megi",
+     "indent": false
+    },
+    {
+     "text": "mǫ́l ok misseri.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 61,
@@ -1411,6 +2511,28 @@
    ],
    "notes": [
     "The fifth line is probably a spurious addition."
+   ],
+   "original": [
+    {
+     "text": "Þveginn ok mettr ríþi maþr þingi at,",
+     "indent": false
+    },
+    {
+     "text": "þót sét vǽddr til vel;",
+     "indent": true
+    },
+    {
+     "text": "skua ok bróka skammisk engi maþr,",
+     "indent": false
+    },
+    {
+     "text": "né hests in heldr,",
+     "indent": true
+    },
+    {
+     "text": "[þót hann hafit góþan.]",
+     "indent": true
+    }
    ]
   },
   {
@@ -1435,6 +2557,24 @@
    ],
    "notes": [
     "This stanza follows stanza 63 in the manuscript, but there are marks therein indicating the transposition."
+   ],
+   "original": [
+    {
+     "text": "Snapir ok gnapir, es til sǽvar kømr,",
+     "indent": false
+    },
+    {
+     "text": "ǫrn á aldinn mar;",
+     "indent": true
+    },
+    {
+     "text": "svá es maþr es meþ mǫrgum kømr",
+     "indent": false
+    },
+    {
+     "text": "ok á formǽlendr faa.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1457,7 +2597,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Fregna ok segja skal fróþra hverr,",
+     "indent": false
+    },
+    {
+     "text": "sás vill heitinn horskr;",
+     "indent": true
+    },
+    {
+     "text": "einn vita, né annarr skal,",
+     "indent": false
+    },
+    {
+     "text": "þjóþ veit, ef þrír ’ú.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 64,
@@ -1479,7 +2637,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ríki sitt skyli ráþsnotra hverr",
+     "indent": false
+    },
+    {
+     "text": "í hófi hafa;",
+     "indent": true
+    },
+    {
+     "text": "þá þat fiþr es meþ frøknum kømr,",
+     "indent": false
+    },
+    {
+     "text": "at engi’s einna hvatastr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 65,
@@ -1503,6 +2679,24 @@
    ],
    "notes": [
     "The manuscript indicates no lacuna (lines 1 and 2). Many editors have filled out the stanza with two lines from late paper manuscripts, the passage running: \"A man must be watchful and wary as well, And fearful of trusting a friend.\""
+   ],
+   "original": [
+    {
+     "text": "………",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": true
+    },
+    {
+     "text": "orþa þeira, es maþr ǫþrum segir,",
+     "indent": false
+    },
+    {
+     "text": "opt hann gjǫld of getr.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1525,7 +2719,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Mikilsti snimma kvamk í marga staþi,",
+     "indent": false
+    },
+    {
+     "text": "en til síþ í suma;",
+     "indent": true
+    },
+    {
+     "text": "ǫl vas drukkit, sumt vas ólagat:",
+     "indent": false
+    },
+    {
+     "text": "hittira leiþr í liþ.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 67,
@@ -1547,7 +2759,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Hér ok hvar mundi mér heim of boþit,",
+     "indent": false
+    },
+    {
+     "text": "ef þyrftak at mǫ́lungi mat",
+     "indent": true
+    },
+    {
+     "text": "eþa tvau lǽr hengi at ens tryggva vinar,",
+     "indent": false
+    },
+    {
+     "text": "þars hafþak eitt etit.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 68,
@@ -1569,7 +2799,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Eldr es baztr meþ ýta sunum",
+     "indent": false
+    },
+    {
+     "text": "auk sólar sýn,",
+     "indent": true
+    },
+    {
+     "text": "heilyndi sitt ef maþr hafa naïr,",
+     "indent": false
+    },
+    {
+     "text": "ǫ́n viþ lǫst at lifa.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 69,
@@ -1591,7 +2839,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Esat maþr alls vesall, þót sé illa heill;",
+     "indent": false
+    },
+    {
+     "text": "sumr’s af sunum sǽll,",
+     "indent": true
+    },
+    {
+     "text": "sumr af frǽndum, sumr af fé ørnu,",
+     "indent": false
+    },
+    {
+     "text": "sumr af verkum vel.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 70,
@@ -1615,6 +2881,24 @@
    ],
    "notes": [
     "The manuscript has \"and a worthy life\" in place of \"than to lie a corpse\" in line 1, but Rask suggested the emendation as early as 1818, and most editors have followed him."
+   ],
+   "original": [
+    {
+     "text": "Betra’s lifþum an sé ólifþum,",
+     "indent": false
+    },
+    {
+     "text": "ey getr kvikr kú;",
+     "indent": true
+    },
+    {
+     "text": "eld sák upp brinna auþgum manni fyrir,",
+     "indent": false
+    },
+    {
+     "text": "en úti vas dauþr fyr durum.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1637,7 +2921,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Haltr ríþr hrossi, hjǫrþ rekr handarvanr,",
+     "indent": false
+    },
+    {
+     "text": "daufr vegr ok dugir;",
+     "indent": true
+    },
+    {
+     "text": "blindr es betri an brendr seï,",
+     "indent": false
+    },
+    {
+     "text": "nýtr mangi nás.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 72,
@@ -1659,7 +2961,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Sunr es betri, þót sé síþ of alinn",
+     "indent": false
+    },
+    {
+     "text": "ept genginn guma;",
+     "indent": true
+    },
+    {
+     "text": "sjaldan bautarsteinar standa brautu nǽr,",
+     "indent": false
+    },
+    {
+     "text": "nema reisi niþr at niþ.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 73,
@@ -1675,6 +2995,16 @@
    ],
    "notes": [
     "These seven lines are obviously a jumble. The two lines of stanza 73 not only appear out of place, but the verse-form is unlike that of the surrounding stanzas. In 74, the second line is clearly interpolated, and line 1 has little enough connection with lines 3, 4 and 5. It looks as though some compiler (or copyist) had inserted here various odds and ends for which he could find no better place."
+   ],
+   "original": [
+    {
+     "text": "[Tveir’u einherjar, tunga’s hǫfuþs bani;",
+     "indent": false
+    },
+    {
+     "text": "erumk í heþin hverjan handar vǽni.]",
+     "indent": false
+    }
    ]
   },
   {
@@ -1703,6 +3033,28 @@
    ],
    "notes": [
     "These seven lines are obviously a jumble. The two lines of stanza 73 not only appear out of place, but the verse-form is unlike that of the surrounding stanzas. In 74, the second line is clearly interpolated, and line 1 has little enough connection with lines 3, 4 and 5. It looks as though some compiler (or copyist) had inserted here various odds and ends for which he could find no better place."
+   ],
+   "original": [
+    {
+     "text": "Nǫ́tt verþr feginn sás nesti truir,",
+     "indent": false
+    },
+    {
+     "text": "[skammar’u skips raar]",
+     "indent": true
+    },
+    {
+     "text": "hverf es haustgríma;",
+     "indent": true
+    },
+    {
+     "text": "fjǫlþ of viþrir á fimm dǫgum,",
+     "indent": false
+    },
+    {
+     "text": "en meira á mánaþi.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1727,6 +3079,24 @@
    ],
    "notes": [
     "The word \"gold\" in line 2 is more or less conjectural, the manuscript being obscure. The reading in line 4 is also doubtful."
+   ],
+   "original": [
+    {
+     "text": "Veita maþr hinns vǽtki veit:",
+     "indent": false
+    },
+    {
+     "text": "margr verþr af auþi of api;",
+     "indent": true
+    },
+    {
+     "text": "maþr es auþugr, annarr óauþugr,",
+     "indent": false
+    },
+    {
+     "text": "skylit þann vǽtkis vaa.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1751,6 +3121,24 @@
    ],
    "notes": [
     "In the manuscript this stanza follows 78, the order being: 77, 78, 76, 80, 79, 81. Fitjung (\"the Nourisher\"): Earth."
+   ],
+   "original": [
+    {
+     "text": "Fullar grindr sák fyr Fitjungs sunum,",
+     "indent": false
+    },
+    {
+     "text": "nú bera vánarvǫl;",
+     "indent": true
+    },
+    {
+     "text": "svá es auþr sem augabragþ,",
+     "indent": false
+    },
+    {
+     "text": "hann es valtastr vina.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1773,7 +3161,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Deyr fé, deyja frǽndr,",
+     "indent": false
+    },
+    {
+     "text": "deyr sjalfr et sama,",
+     "indent": true
+    },
+    {
+     "text": "en orþstírr deyr aldrigi",
+     "indent": false
+    },
+    {
+     "text": "hveims sér góþan getr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 78,
@@ -1795,7 +3201,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Deyr fé, deyja frǽndr,",
+     "indent": false
+    },
+    {
+     "text": "deyr sjalfr et sama;",
+     "indent": true
+    },
+    {
+     "text": "ek veit einn at aldri deyr:",
+     "indent": false
+    },
+    {
+     "text": "dómr of dauþan hvern.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 79,
@@ -1827,6 +3251,32 @@
    ],
    "notes": [
     "This stanza is certainly in bad shape, and probably out of place here. Its reference to runes as magic signs suggests that it properly belongs in some list of charms like the Ljothatal (stanzas 147-165). The stanza-form is so irregular as to show either that something has been lost or that there have been interpolations. The manuscript indicates no lacuna; Gering fills out the assumed gap as follows: \"Certain is that which is sought from runes, The runes—,\" etc."
+   ],
+   "original": [
+    {
+     "text": "Þat’s þá reynt, es at rúnum spyrr,",
+     "indent": false
+    },
+    {
+     "text": "þeims gørþu ginnregin",
+     "indent": true
+    },
+    {
+     "text": "ok fáþi fimbulþulr,",
+     "indent": true
+    },
+    {
+     "text": "Þat’s þá reynt es at rúnum spyrr,",
+     "indent": false
+    },
+    {
+     "text": "rúnum reginkunnum:",
+     "indent": true
+    },
+    {
+     "text": "þá hefr bazt ef þegir.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1853,7 +3303,25 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ósnotr maþr, ef eignask getr",
+     "indent": false
+    },
+    {
+     "text": "fé eþa fljóþs munugþ,",
+     "indent": true
+    },
+    {
+     "text": "metnaþr þroask, en manvit aldri,",
+     "indent": false
+    },
+    {
+     "text": "fram gengr hann drjúgt í dul.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 81,
@@ -1873,6 +3341,20 @@
    ],
    "notes": [
     "With this stanza the verse-form, as indicated in the translation, abruptly changes to Malahattr. What has happened seems to have been something like this. Stanza 80 introduces the idea of man's love for woman. Consequently some reciter or compiler (or possibly even a copyist) took occasion to insert at this point certain stanzas concerning the ways of women. Thus stanza 80 would account for the introduction of stanzas 81 and 82, which, in turn, apparently drew stanza 83 in with them. Stanza 84 suggests the fickleness of women, and is immediately followed—again with a change of verse-form—by a list of things equally untrustworthy (stanzas 85-90). Then, after a few more stanzas on love in the regular measure of the Hovamol (stanzas 91-95), is introduced, by way of illustration, Othin's story of his adventure with Billing's daughter (stanzas 96-102). Some such process of growth, whatever its specific stages may have been, must be assumed to account for the curious chaos of the whole passage from stanza 81 to stanza 102."
+   ],
+   "original": [
+    {
+     "text": "At kveldi skal dag leyfa, konu es brend es,",
+     "indent": false
+    },
+    {
+     "text": "mǽki es reyndr es, mey es gefin es,",
+     "indent": false
+    },
+    {
+     "text": "ís es yfir kømr, ǫl es drukkit es.",
+     "indent": false
+    }
    ]
   },
   {
@@ -1895,7 +3377,25 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Í vindi skal viþ hǫggva, veþri á sjó roa,",
+     "indent": false
+    },
+    {
+     "text": "myrkri viþ man spjalla, mǫrg ’ru dags augu;",
+     "indent": false
+    },
+    {
+     "text": "á skip skal skriþar orka, en á skjǫld til hlífar,",
+     "indent": false
+    },
+    {
+     "text": "mǽki hǫggs, en mey til kossa.",
+     "indent": false
+    }
+   ]
   },
   {
    "n": 83,
@@ -1917,7 +3417,21 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Viþ eld skal ǫl drekka, en á ísi skríþa,",
+     "indent": false
+    },
+    {
+     "text": "magran mar kaupa, en mǽki saurgan,",
+     "indent": false
+    },
+    {
+     "text": "heima hest feita, en hund á buï.",
+     "indent": false
+    }
+   ]
   },
   {
    "n": 84,
@@ -1945,6 +3459,24 @@
    ],
    "notes": [
     "Lines 3 and 4 are quoted in the Fostbrœthrasaga."
+   ],
+   "original": [
+    {
+     "text": "Meyjar orþum skyli manngi trua,",
+     "indent": false
+    },
+    {
+     "text": "né þvís kveþr kona;",
+     "indent": true
+    },
+    {
+     "text": "þvít á hverfanda hvéli vǫru þeim hjǫrtu skǫpuþ",
+     "indent": false
+    },
+    {
+     "text": "ok brigþ í brjóst of lagiþ.",
+     "indent": true
+    }
    ]
   },
   {
@@ -1969,6 +3501,24 @@
    ],
    "notes": [
     "Stanzas 85-88 and 90 are in Fornyrthislag, and clearly come from a different source from the rest of the Hovamol."
+   ],
+   "original": [
+    {
+     "text": "Brestanda boga, brinnanda loga,",
+     "indent": false
+    },
+    {
+     "text": "gínanda ulfi, galandi krǫ́ku,",
+     "indent": false
+    },
+    {
+     "text": "rýtanda svíni, rótlausum viþi,",
+     "indent": false
+    },
+    {
+     "text": "vaxanda vági, vellanda katli,",
+     "indent": false
+    }
    ]
   },
   {
@@ -1991,7 +3541,25 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "fljúganda fleini, fallandi bǫ́ru,",
+     "indent": false
+    },
+    {
+     "text": "ísi einnǽttum, ormi hringlegnum,",
+     "indent": false
+    },
+    {
+     "text": "brúþar beþmǫ́lum eþa brotnu sverþi,",
+     "indent": false
+    },
+    {
+     "text": "bjarnar leiki eþa barni konungs,",
+     "indent": false
+    }
+   ]
   },
   {
    "n": 87,
@@ -2007,6 +3575,16 @@
    ],
    "notes": [
     "The stanza is doubtless incomplete. Some editors add from a late paper manuscript two lines running: \"In a light, clear sky or a laughing throng, In the howl of a dog or a harlot's grief.\""
+   ],
+   "original": [
+    {
+     "text": "sjúkum kalfi, sjalfráþa þrǽli,",
+     "indent": false
+    },
+    {
+     "text": "vǫlu vilmǽli, val nýfeldum —",
+     "indent": false
+    }
    ]
   },
   {
@@ -2035,7 +3613,26 @@
    ],
    "notes": [
     "This stanza follows stanza 89 in the manuscript. Many editors have changed the order, for while stanza 89 is pretty clearly an interpolation wherever it stands, it seriously interferes with the sense if it breaks in between 87 and 88."
-   ]
+   ],
+   "original": [
+    {
+     "text": "bróþurbana sínum, þót á brautu møti,",
+     "indent": false
+    },
+    {
+     "text": "húsi halfbrunnu, hesti alskjótum —",
+     "indent": false
+    },
+    {
+     "text": "þá’s jór ónýtr, ef einn fótr brotnar —:",
+     "indent": false
+    },
+    {
+     "text": "verþit maþr svá tryggr, at þessu truï ǫllu.",
+     "indent": false
+    }
+   ],
+   "originalNumber": 89
   },
   {
    "n": 89,
@@ -2061,7 +3658,26 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Akri ársǫnum trui engi maþr",
+     "indent": false
+    },
+    {
+     "text": "né til snimma syni:",
+     "indent": true
+    },
+    {
+     "text": "veþr rǽþr akri, en vit syni,",
+     "indent": false
+    },
+    {
+     "text": "hǽtt es þeira hvárt.",
+     "indent": true
+    }
+   ],
+   "originalNumber": 88
   },
   {
    "n": 90,
@@ -2091,7 +3707,29 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Svá’s friþr kvenna es flátt hyggja,",
+     "indent": false
+    },
+    {
+     "text": "sem aki jó óbryddum á ísi hǫ́lum,",
+     "indent": false
+    },
+    {
+     "text": "[teitum, tvévetrum, ok sé tamr illa,]",
+     "indent": false
+    },
+    {
+     "text": "eþa í byr óþum beiti stjórnlausu,",
+     "indent": false
+    },
+    {
+     "text": "eþa skyli haltr henda hrein í þáfjalli.",
+     "indent": false
+    }
+   ]
   },
   {
    "n": 91,
@@ -2113,7 +3751,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Bert nú mǽlik, þvít ek bǽþi veit,",
+     "indent": false
+    },
+    {
+     "text": "brigþr es karla hugr konum;",
+     "indent": true
+    },
+    {
+     "text": "þá vér fegrst mǽlum, es vér flást hyggjum,",
+     "indent": false
+    },
+    {
+     "text": "þat tǽlir horska hugi.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 92,
@@ -2135,7 +3791,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Fagrt skal mǽla ok fé bjóþa",
+     "indent": false
+    },
+    {
+     "text": "sás vill fljóþs ǫ́st faa,",
+     "indent": true
+    },
+    {
+     "text": "líki leyfa ens ljósa mans:",
+     "indent": false
+    },
+    {
+     "text": "sá fǽr es friar.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 93,
@@ -2157,7 +3831,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ástar firna skyli engi maþr",
+     "indent": false
+    },
+    {
+     "text": "annan aldrigi;",
+     "indent": true
+    },
+    {
+     "text": "opt fá á horskan, es á heimskan né fá,",
+     "indent": false
+    },
+    {
+     "text": "lostfagrir litir.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 94,
@@ -2179,7 +3871,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Eyvitar firna es maþr annan skal",
+     "indent": false
+    },
+    {
+     "text": "þess’s of margan gengr guma;",
+     "indent": true
+    },
+    {
+     "text": "heimska ór horskum gørir hǫlþa sunu",
+     "indent": false
+    },
+    {
+     "text": "sá enn mǫ́tki munr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 95,
@@ -2201,7 +3911,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Hugr einn þat veit, es býr hjarta nǽr,",
+     "indent": false
+    },
+    {
+     "text": "einn’s hann sér of sefa;",
+     "indent": true
+    },
+    {
+     "text": "øng es sótt verri hveim snotrum manni",
+     "indent": false
+    },
+    {
+     "text": "an sér øngu at una.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 96,
@@ -2225,6 +3953,24 @@
    ],
    "notes": [
     "Here begins the passage (stanzas 96-102) illustrating the falseness of woman by the story of Othin's unsuccessful love-affair with Billing's daughter. Of this person we know nothing beyond what is here told, but the story needs little comment."
+   ],
+   "original": [
+    {
+     "text": "Þat þá reyndak, es í reyri satk",
+     "indent": false
+    },
+    {
+     "text": "ok vǽttak míns munar;",
+     "indent": true
+    },
+    {
+     "text": "hold ok hjarta vǫrumk en horska mǽr,",
+     "indent": false
+    },
+    {
+     "text": "þeygi at heldr hana hefik.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2247,7 +3993,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Billings mey ek fann beþjum á",
+     "indent": false
+    },
+    {
+     "text": "sólhvíta sofa;",
+     "indent": true
+    },
+    {
+     "text": "jarls ynþi þóttumk etki vesa,",
+     "indent": false
+    },
+    {
+     "text": "nema viþ þat lík at lifa.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 98,
@@ -2269,7 +4033,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "‘Auk nǽr aptni skaltu, Óþinn! koma,",
+     "indent": false
+    },
+    {
+     "text": "ef þú vill þér mǽla man;",
+     "indent": true
+    },
+    {
+     "text": "allt eru óskǫp, nema einir viti",
+     "indent": false
+    },
+    {
+     "text": "slíkan lǫst saman.’",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 99,
@@ -2291,7 +4073,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Aptr ek hvarf ok unna þóttumk,",
+     "indent": false
+    },
+    {
+     "text": "vísum vilja frá;",
+     "indent": true
+    },
+    {
+     "text": "hitt ek hugþa, at ek hafa mynda",
+     "indent": false
+    },
+    {
+     "text": "geþ hennar allt ok gaman.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 100,
@@ -2313,7 +4113,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Svá kvam ek nǽst, at en nýta vas",
+     "indent": false
+    },
+    {
+     "text": "vígdrótt ǫll of vakin;",
+     "indent": true
+    },
+    {
+     "text": "meþ brinnǫndum ljósum ok bornum viþi —",
+     "indent": false
+    },
+    {
+     "text": "svá vǫrumk vílstígr of vitaþr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 101,
@@ -2335,7 +4153,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Auk nǽr morni, es ek vas enn of kominn,",
+     "indent": false
+    },
+    {
+     "text": "þá vas saldrótt of sofin;",
+     "indent": true
+    },
+    {
+     "text": "grey eitt fannk þá ennar góþu konu",
+     "indent": false
+    },
+    {
+     "text": "bundit beþjum á.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 102,
@@ -2371,6 +4207,32 @@
    ],
    "notes": [
     "Rask adds at the beginning of this stanza two lines from a late paper manuscript, running: \"Few are so good that false they are never To cheat the mind of a man.\" He makes these two lines plus lines 1 and 2 a full stanza, and lines 3, 4, 5, and 6 a second stanza."
+   ],
+   "original": [
+    {
+     "text": "Mǫrg es góþ mǽr, ef gǫrva kannar,",
+     "indent": false
+    },
+    {
+     "text": "hugbrigþ viþ hali:",
+     "indent": true
+    },
+    {
+     "text": "þá þat reyndak, es et ráþspaka",
+     "indent": false
+    },
+    {
+     "text": "teygþak á flǽrþir fljóþ;",
+     "indent": true
+    },
+    {
+     "text": "hǫ́þungar hverrar leitaþi mer et horska man,",
+     "indent": false
+    },
+    {
+     "text": "ok hafþak þess vǽtki vífs.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2403,6 +4265,32 @@
    ],
    "notes": [
     "With this stanza the subject changes abruptly, and apparently the virtues of fair speech, mentioned in the last three lines, account for the introduction, from what source cannot be known, of the story of Othin and the mead of song (stanzas 104-110)."
+   ],
+   "original": [
+    {
+     "text": "Heima glaþr gumi ok viþ gesti reifr",
+     "indent": false
+    },
+    {
+     "text": "sviþr skal of sik vesa;",
+     "indent": true
+    },
+    {
+     "text": "minnugr ok mǫ́lugr, ef hann vill margfróþr vesa,",
+     "indent": false
+    },
+    {
+     "text": "opt skal góþs geta;",
+     "indent": true
+    },
+    {
+     "text": "fimbulfambi heitir sás fátt kann segja,",
+     "indent": false
+    },
+    {
+     "text": "þat’s ósnotrs aþal.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2427,6 +4315,24 @@
    ],
    "notes": [
     "The giant Suttung (\"the old giant\") possessed the magic mead, a draught of which conferred the gift of poetry. Othin, desiring to obtain it, changed himself into a snake, bored his way through a mountain into Suttung's home, made love to the giant's daughter, Gunnloth, and by her connivance drank up all the mead. Then he flew away in the form of an eagle, leaving Gunnloth to her fate. While with Suttung he assumed the name of Bolverk (\"the Evil-Doer\")."
+   ],
+   "original": [
+    {
+     "text": "Enn aldna jǫtun sóttak, nu emk aptr of kominn,",
+     "indent": false
+    },
+    {
+     "text": "fátt gatk þegjandi þar;",
+     "indent": true
+    },
+    {
+     "text": "mǫrgum orþum mǽltak í minn frama",
+     "indent": false
+    },
+    {
+     "text": "í Suttungs sǫlum.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2451,6 +4357,24 @@
    ],
    "notes": [
     "Rati (\"the Traveller\"): the gimlet with which Othin bored through the mountain to reach Suttung's home."
+   ],
+   "original": [
+    {
+     "text": "Rata munn létumk rúms of fá",
+     "indent": false
+    },
+    {
+     "text": "auk of grjót gnaga,",
+     "indent": true
+    },
+    {
+     "text": "yfir ok undir stóþumk jǫtna vegir,",
+     "indent": false
+    },
+    {
+     "text": "svá hǽttak hǫfþi til.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2479,6 +4403,28 @@
    ],
    "notes": [
     "Probably either the fourth or the fifth line is a spurious addition."
+   ],
+   "original": [
+    {
+     "text": "Gunnlǫþ gǫfumk gollnum stóli á",
+     "indent": false
+    },
+    {
+     "text": "drykk ens dýra mjaþar;",
+     "indent": true
+    },
+    {
+     "text": "ill iþgjǫld létk hana eptir hafa",
+     "indent": false
+    },
+    {
+     "text": "síns ens heila hugar,",
+     "indent": true
+    },
+    {
+     "text": "síns ens svára sefa.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2503,6 +4449,24 @@
    ],
    "notes": [
     "Othrörir: here the name of the magic mead itself, whereas in stanza 141 it is the name of the vessel containing it. Othin had no intention of bestowing any of the precious mead upon men, but as he was flying over the earth, hotly pursued by Suttung, he spilled some of it out of his mouth, and in this way mankind also won the gift of poetry."
+   ],
+   "original": [
+    {
+     "text": "Vel keypts litar hefk vel notit,",
+     "indent": false
+    },
+    {
+     "text": "fás es fróþum vant;",
+     "indent": true
+    },
+    {
+     "text": "þvít Óþrørir es nú upp kominn",
+     "indent": false
+    },
+    {
+     "text": "á vé alda jaþars.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2525,7 +4489,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ifi ’rumk á, at vǽrak enn kominn",
+     "indent": false
+    },
+    {
+     "text": "jǫtna gǫrþum ór,",
+     "indent": true
+    },
+    {
+     "text": "nema Gunnlaþar nytak, ennar góþu konu,",
+     "indent": false
+    },
+    {
+     "text": "þeirars lǫgþumk arm yfir.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 109,
@@ -2553,6 +4535,28 @@
    ],
    "notes": [
     "Hor: Othin (\"the High One\"). The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza 110 was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods. The giants, of course, fail to get from Othin the information they seek concerning Bolverk, but Othin is keenly conscious of having violated the most sacred of oaths, that sworn on his ring."
+   ],
+   "original": [
+    {
+     "text": "Ens hindra dags gengu hrímþursar",
+     "indent": false
+    },
+    {
+     "text": "[Hǫ́va ráþs at fregna]",
+     "indent": true
+    },
+    {
+     "text": "Hǫ́va hǫllu í;",
+     "indent": true
+    },
+    {
+     "text": "at Bǫlverki spurþu, ef vǽri meþ bǫndum kominn",
+     "indent": false
+    },
+    {
+     "text": "eþa hefþi Suttungr of soit.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2579,7 +4583,25 @@
      "indent": false
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Baugeiþ Óþinn hykk at unnit hafi,",
+     "indent": false
+    },
+    {
+     "text": "hvat skal hans trygþum trua?",
+     "indent": true
+    },
+    {
+     "text": "Suttung svikvinn hann lét sumbli frá",
+     "indent": false
+    },
+    {
+     "text": "ok grøtta Gunnlǫþu.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 111,
@@ -2619,6 +4641,40 @@
    ],
    "notes": [
     "With this stanza begins the Loddfafnismol (stanzas 111-138). Loddfafnir is apparently a wandering singer, who, from his \"chanter's stool,\" recites the verses which he claims to have received from Othin. Wells of Urth: cf. Voluspo, 19 and note. Urth (\"the Past\") is one of the three Norns. This stanza is apparently in corrupt form, and editors have tried many experiments with it, both in rejecting lines as spurious and in rearranging the words and punctuation. It looks rather as though the first four lines formed a complete stanza, and the last four had crept in later. The phrase translated \"the speech of Hor\" is \"Hova mol,\" later used as the title for the entire poem."
+   ],
+   "original": [
+    {
+     "text": "Mál’s at þylja þular stóli á:",
+     "indent": false
+    },
+    {
+     "text": "Urþar brunni at",
+     "indent": true
+    },
+    {
+     "text": "sák ok þagþak, sák ok hugþak,",
+     "indent": false
+    },
+    {
+     "text": "hlýddak á Hǫ́va mǫ́l.",
+     "indent": true
+    },
+    {
+     "text": "[of rúnar heyrþak døma, né of rǫ́þum þǫgþu",
+     "indent": false
+    },
+    {
+     "text": "Hǫ́va hǫllu at,",
+     "indent": true
+    },
+    {
+     "text": "Hǫ́va hǫllu í;",
+     "indent": true
+    },
+    {
+     "text": "heyrþak segja svá:]",
+     "indent": true
+    }
    ]
   },
   {
@@ -2647,6 +4703,28 @@
    ],
    "notes": [
     "Lines 1-3 are the formula, repeated (abbreviated in the manuscript) in most of the stanzas, with which Othin prefaces his counsels to Loddfafnir, and throughout this section, except in stanzas 111 and 138, Loddfafnir represents himself as simply quoting Othin's words. The material is closely analogous to that contained in the first eighty stanzas of the poem. In some cases (e.g., stanzas 117, 119, 121, 126 and 130) the formula precedes a full four-line stanza instead of two (or three) lines."
+   ],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "nǫ́tt þú rísat nema á njósn seïr",
+     "indent": false
+    },
+    {
+     "text": "eþa leitir þer innan út staþar.",
+     "indent": true
+    }
    ]
   },
   {
@@ -2673,7 +4751,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "fjǫlkunnigri konu skalta í faþmi sofa,",
+     "indent": false
+    },
+    {
+     "text": "svát hón lyki þik liþum.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 114,
@@ -2695,7 +4795,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Hón svá gørir, at þú gaïr eigi",
+     "indent": false
+    },
+    {
+     "text": "þings né þjóþarmáls;",
+     "indent": true
+    },
+    {
+     "text": "mat þú villat né mannskis gaman,",
+     "indent": false
+    },
+    {
+     "text": "ferr þú sorgafullr at sofa.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 115,
@@ -2721,7 +4839,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "annars konu teyg þér aldrigi",
+     "indent": false
+    },
+    {
+     "text": "eyrarúnu at.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 116,
@@ -2747,7 +4887,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "á fjalli eþa firþi ef þik fara tíþir,",
+     "indent": false
+    },
+    {
+     "text": "fásktu at virþi vel.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 117,
@@ -2781,7 +4943,37 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "illan mann láttu aldrigi",
+     "indent": false
+    },
+    {
+     "text": "óhǫpp at þér vita,",
+     "indent": true
+    },
+    {
+     "text": "þvít af illum manni fǽr þú aldrigi",
+     "indent": false
+    },
+    {
+     "text": "gjǫld ens góþa hugar.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 118,
@@ -2803,7 +4995,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Ofarla bíta ek sá einum hal",
+     "indent": false
+    },
+    {
+     "text": "orþ illrar konu:",
+     "indent": true
+    },
+    {
+     "text": "flárǫ́þ tunga varþ hǫnum at fjǫrlagi,",
+     "indent": false
+    },
+    {
+     "text": "ok þeygi of sanna sǫk.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 119,
@@ -2837,7 +5047,37 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "veiztu ef vin átt þanns þú vel truir,",
+     "indent": false
+    },
+    {
+     "text": "farþu at finna opt,",
+     "indent": true
+    },
+    {
+     "text": "þvít hrísi vex ok hǫ́vu grasi",
+     "indent": false
+    },
+    {
+     "text": "vegr es vǽtki trøþr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 120,
@@ -2863,7 +5103,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "góþan mann teyg þer at gamanrúnum",
+     "indent": false
+    },
+    {
+     "text": "ok nem líknargaldr meþan lifir.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 121,
@@ -2897,7 +5159,37 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "vin þínum ves þú aldrigi",
+     "indent": false
+    },
+    {
+     "text": "fyrri at flaumslitum;",
+     "indent": true
+    },
+    {
+     "text": "sorg etr hjarta, ef þú segja né naïr",
+     "indent": false
+    },
+    {
+     "text": "einhverjum allan hug.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 122,
@@ -2923,7 +5215,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "orþum skipta þú skalt aldrigi",
+     "indent": false
+    },
+    {
+     "text": "viþ ósvinna apa;",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 123,
@@ -2945,7 +5259,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "þvít af illum manni mundu aldrigi",
+     "indent": false
+    },
+    {
+     "text": "góþs laun of geta,",
+     "indent": true
+    },
+    {
+     "text": "en góþr maþr mun þik gørva mega",
+     "indent": false
+    },
+    {
+     "text": "líknfastan at lofi.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 124,
@@ -2967,7 +5299,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Sifjum’s þá blandat, hverrs segja rǽþr",
+     "indent": false
+    },
+    {
+     "text": "einum allan hug;",
+     "indent": true
+    },
+    {
+     "text": "allt es betra an sé brigþum at vesa,",
+     "indent": false
+    },
+    {
+     "text": "esat vinr es vilt eitt segir.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 125,
@@ -2997,7 +5347,33 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "þrimr orþum senna skalta þér viþ verra mann;",
+     "indent": false
+    },
+    {
+     "text": "opt enn betri bilar,",
+     "indent": true
+    },
+    {
+     "text": "þás enn verri vegr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 126,
@@ -3031,7 +5407,37 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "skósmiþr þú vesir né skeptismiþr,",
+     "indent": false
+    },
+    {
+     "text": "nema þér sjǫlfum sér:",
+     "indent": true
+    },
+    {
+     "text": "skór’s skapaþr illa eþa skapt sé rangt,",
+     "indent": false
+    },
+    {
+     "text": "þá’s þér bǫls beþit.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 127,
@@ -3057,7 +5463,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "hvars bǫl kannt, kveþu þer bǫlvi at",
+     "indent": false
+    },
+    {
+     "text": "ok gefat fiǫndum friþ.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 128,
@@ -3083,7 +5511,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "illu feginn ves þú aldrigi,",
+     "indent": false
+    },
+    {
+     "text": "en lát þer at góþu getit.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 129,
@@ -3115,6 +5565,32 @@
    ],
    "notes": [
     "Line 5 is apparently interpolated."
+   ],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "upp líta skalattu í orrostu —",
+     "indent": false
+    },
+    {
+     "text": "gjalti glíkir verþa gumna synir —",
+     "indent": false
+    },
+    {
+     "text": "síþr þitt of heilli halir.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3149,7 +5625,37 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "ef vill þér góþa konu kveþja at gamanrúnum",
+     "indent": false
+    },
+    {
+     "text": "ok fá fǫgnuþ af,",
+     "indent": true
+    },
+    {
+     "text": "fǫgru skalt heita ok láta fast vesa;",
+     "indent": false
+    },
+    {
+     "text": "leiþisk manngi gott, ef getr.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 131,
@@ -3181,6 +5687,32 @@
    ],
    "notes": [
     "Lines 5-6 probably were inserted from a different poem."
+   ],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "varan biþk þik vesa ok eigi ofvaran;",
+     "indent": false
+    },
+    {
+     "text": "ves viþ ǫl varastr ok viþ annars konu",
+     "indent": false
+    },
+    {
+     "text": "ok viþ þat et þriþja, at þik þjófar né leiki.",
+     "indent": false
+    }
    ]
   },
   {
@@ -3207,7 +5739,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "at háþi né hlátri hafþu aldrigi",
+     "indent": false
+    },
+    {
+     "text": "gest né ganganda;",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 133,
@@ -3231,6 +5785,24 @@
    ],
    "notes": [
     "Many editors reject the last two lines of this stanza as spurious, putting the first two lines at the end of the preceding stanza. Others, attaching lines 3 and 4 to stanza 132, insert as the first two lines of stanza 133 two lines from a late paper manuscript, running: \"Evil and good do men's sons ever Mingled bear in their breasts.\""
+   ],
+   "original": [
+    {
+     "text": "opt vitu ógǫrla þeirs sitja inni fyrir,",
+     "indent": false
+    },
+    {
+     "text": "hvers þeir’u kyns es koma.",
+     "indent": true
+    },
+    {
+     "text": "[Esat maþr svá góþr, at galli né fylgi,",
+     "indent": false
+    },
+    {
+     "text": "né svá illr, at einugi dugi.]",
+     "indent": true
+    }
    ]
   },
   {
@@ -3275,6 +5847,44 @@
    ],
    "notes": [
     "Presumably the last four lines have been added to this stanza, for the parallelism in the last three makes it probable that they belong together. The wrinkled skin of the old man is compared with the dried skins and bellies of animals kept for various purposes hanging in an Icelandic house."
+   ],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "at hǫ́rum þul hlǽþu aldrigi,",
+     "indent": false
+    },
+    {
+     "text": "opt’s gott þats gamlir kveþa;",
+     "indent": true
+    },
+    {
+     "text": "opt ór skǫrpum belg skilin orþ koma",
+     "indent": false
+    },
+    {
+     "text": "þeims hangir meþ hǫ́m",
+     "indent": true
+    },
+    {
+     "text": "ok skollir meþ skrǫ́m",
+     "indent": true
+    },
+    {
+     "text": "ok váfir meþ vilmǫgum.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3301,7 +5911,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "gest né geyja ne á grind hrøkkvir,",
+     "indent": false
+    },
+    {
+     "text": "get þú vǫ́luþum vel.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 136,
@@ -3325,6 +5957,24 @@
    ],
    "notes": [
     "This stanza suggests the dangers of too much hospitality. The beam (bolt) which is ever being raised to admit guests becomes weak thereby. It needs a ring to help it in keeping the door closed, and without the ability at times to ward off guests a man becomes the victim of his own generosity."
+   ],
+   "original": [
+    {
+     "text": "Ramt’s þat tré es ríþa skal",
+     "indent": false
+    },
+    {
+     "text": "ǫllum at upploki:",
+     "indent": true
+    },
+    {
+     "text": "baug þú gef, eþa þat biþja mun",
+     "indent": false
+    },
+    {
+     "text": "þér lǽs hvers á liþu.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3369,6 +6019,44 @@
    ],
    "notes": [
     "The list of \"household remedies\" in this stanza is doubtless interpolated. Their nature needs no comment here."
+   ],
+   "original": [
+    {
+     "text": "Rǫ́þumk þér, Loddfáfnir! en þú rǫ́þ nemir,",
+     "indent": false
+    },
+    {
+     "text": "njóta mundu, ef nemr,",
+     "indent": true
+    },
+    {
+     "text": "þér munu góþ, ef getr:",
+     "indent": true
+    },
+    {
+     "text": "hvars ǫl drekkr, kjóstu þér jarþarmegin —",
+     "indent": false
+    },
+    {
+     "text": "[þvít jǫrþ tekr viþ ǫlþri, en eldr viþ sóttum,",
+     "indent": false
+    },
+    {
+     "text": "eik viþ abbindi, ax viþ fjǫlkyngi,",
+     "indent": false
+    },
+    {
+     "text": "hǫll viþ hýrógi, heiptum skal mána kveþja,",
+     "indent": false
+    },
+    {
+     "text": "beiti viþ bitsóttum, en viþ bǫlvi rúnar —]",
+     "indent": false
+    },
+    {
+     "text": "fold skal viþ flóþi taka.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3405,6 +6093,32 @@
    ],
    "notes": [
     "In the manuscript this stanza comes at the end of the entire poem, following stanza 165. Most recent editors have followed Müllenhoff in shifting it to this position, as it appears to conclude the passage introduced by the somewhat similar stanza 111."
+   ],
+   "original": [
+    {
+     "text": "Nú ’ru Hǫ́va mǫ́l kveþin hǫllu í,",
+     "indent": false
+    },
+    {
+     "text": "allþǫrf ýta sunum,",
+     "indent": true
+    },
+    {
+     "text": "óþǫrf jǫtna sunum;",
+     "indent": true
+    },
+    {
+     "text": "heill sás kvaþ! heill sás kann!",
+     "indent": false
+    },
+    {
+     "text": "njóti sás nam!",
+     "indent": true
+    },
+    {
+     "text": "heilir þeirs hlýddu á!",
+     "indent": true
+    }
    ]
   },
   {
@@ -3437,6 +6151,32 @@
    ],
    "notes": [
     "With this stanza begins the most confusing part of the Hovamol: the group of eight stanzas leading up to the Ljothatal, or list of charms. Certain paper manuscripts have before this stanza a title: \"Othin's Tale of the Runes.\" Apparently stanzas 139, 140 and 142 are fragments of an account of how Othin obtained the runes; 141 is erroneously inserted from some version of the magic mead story (cf. stanzas 104-110); and stanzas 143, 144, 145, and 146 are from miscellaneous sources, all, however, dealing with the general subject of runes. With stanza 147 a clearly continuous passage begins once more. The windy tree: the ash Yggdrasil (literally \"the Horse of Othin,\" so called because of this story), on which Othin, in order to win the magic runes, hanged himself as an offering to himself, and wounded himself with his own spear. Lines 5 and 6 have presumably been borrowed from Svipdagsmol, 30."
+   ],
+   "original": [
+    {
+     "text": "Veitk at hekk vindga meiþi á",
+     "indent": false
+    },
+    {
+     "text": "nǽtr allar niu,",
+     "indent": true
+    },
+    {
+     "text": "geiri undaþr ok gefinn Óþni,",
+     "indent": false
+    },
+    {
+     "text": "sjalfr sjǫlfum mér,",
+     "indent": true
+    },
+    {
+     "text": "[á þeim meiþi, es manngi veit,",
+     "indent": false
+    },
+    {
+     "text": "hvers hann af rótum rinnr.]",
+     "indent": true
+    }
    ]
   },
   {
@@ -3459,7 +6199,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Viþ hleifi mik sǽldu né viþ hornigi;",
+     "indent": false
+    },
+    {
+     "text": "nýsta ek niþr:",
+     "indent": true
+    },
+    {
+     "text": "namk upp rúnar, øpandi namk;",
+     "indent": false
+    },
+    {
+     "text": "fell ek aptr þaþan.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 141,
@@ -3483,6 +6241,24 @@
    ],
    "notes": [
     "This stanza, interrupting as it does the account of Othin's winning the runes, appears to be an interpolation. The meaning of the stanza is most obscure. Bolthorn was Othin's grandfather, and Bestla his mother. We do not know the name of the uncle here mentioned, but it has been suggested that this son of Bolthorn was Mimir (cf. Voluspo, 27 and note, and 47 and note). In any case, the nine magic songs which he learned from his uncle seem to have enabled him to win the magic mead (cf. stanzas 104-110). Concerning Othrörnir, here used as the name of the vessel containing the mead, cf. stanza 107 and note."
+   ],
+   "original": [
+    {
+     "text": "Fimbulljóþ niu namk af enum frǽgja syni",
+     "indent": false
+    },
+    {
+     "text": "Bǫlþorns Bestlu fǫþur;",
+     "indent": true
+    },
+    {
+     "text": "ok drykk of gatk, ens dýra mjaþar",
+     "indent": false
+    },
+    {
+     "text": "ausenn Óþrøri.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3505,7 +6281,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þá namk frǽvask ok fróþr vesa",
+     "indent": false
+    },
+    {
+     "text": "ok vaxa ok vel hafask:",
+     "indent": true
+    },
+    {
+     "text": "orþ mér af orþi orþs leitaþi,",
+     "indent": false
+    },
+    {
+     "text": "verk mér af verki verks.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 143,
@@ -3533,6 +6327,28 @@
    ],
    "notes": [
     "This and the following stanza belong together, and in many editions appear as a single stanza. They presumably come from some lost poem on the authorship of the runes. Lines 2 and 3 follow line 4 in the manuscript; the transposition was suggested by Bugge. The king of singers: Othin. The magic signs (runes) were commonly carved in wood, then colored red."
+   ],
+   "original": [
+    {
+     "text": "Rúnar munt finna ok ráþna stafi,",
+     "indent": false
+    },
+    {
+     "text": "es fáþi fimbulþulr",
+     "indent": true
+    },
+    {
+     "text": "ok gørþu ginnregin,",
+     "indent": true
+    },
+    {
+     "text": "mjǫk stóra stafi, mjǫk stinna stafi",
+     "indent": false
+    },
+    {
+     "text": "es reist ragna hróptr:",
+     "indent": true
+    }
    ]
   },
   {
@@ -3557,6 +6373,24 @@
    ],
    "notes": [
     "Dain and Dvalin: dwarfs; cf. Voluspo, 14, and note. Dain, however, may here be one of the elves rather than the dwarf of that name. The two names also appear together in Grimnismol, 33, where they are applied to two of the four harts that nibble at the topmost twigs of Yggdrasil. Alsvith (\"the All-Wise\") appears nowhere else as a giant's name. Myself: Othin. We have no further information concerning the list of those who wrote the runes for the various races, and these four lines seem like a confusion of names in the rather hazy mind of some reciter."
+   ],
+   "original": [
+    {
+     "text": "Óþinn meþ ǫ́sum, en fyr ǫlfum Daïnn,",
+     "indent": false
+    },
+    {
+     "text": "Dvalinn dvergum fyrir,",
+     "indent": true
+    },
+    {
+     "text": "Alsviþr meþ jǫtnum, en fyr ýta sunum",
+     "indent": false
+    },
+    {
+     "text": "reistk sjalfr sumar.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3581,6 +6415,24 @@
    ],
    "notes": [
     "This Malahattr stanza appears to be a regular religious formula, concerned less with the runes which one \"writes\" and \"tints\" (cf. stanza 79) than with the prayers which one \"asks\" and the sacrifices which one \"offers\" and \"sends.\" Its origin is wholly uncertain, but it is clearly an interpolation here. In the manuscripts the phrase \"knowest?\" is abbreviated after the first line."
+   ],
+   "original": [
+    {
+     "text": "Veiztu hvé rísta skal, veiztu hvé ráþa skal?",
+     "indent": false
+    },
+    {
+     "text": "veiztu hvé fá skal, veiztu hvé freista skal?",
+     "indent": false
+    },
+    {
+     "text": "veiztu hvé biþja skal, veiztu hvé blóta skal?",
+     "indent": false
+    },
+    {
+     "text": "veiztu hvé senda skal, veiztu hvé soa skal?",
+     "indent": false
+    }
    ]
   },
   {
@@ -3617,6 +6469,32 @@
    ],
    "notes": [
     "This stanza as translated here follows the manuscript reading, except in assuming a gap between lines 3 and 5. In Vigfusson and Powell's Corpus Poeticum Boreale the first three lines have somehow been expanded into eight. The last two lines are almost certainly misplaced; Bugge suggests that they belong at the end of stanza 144. Thund: another name for Othin. When home he came: presumably after obtaining the runes as described in stanzas 139 and 140."
+   ],
+   "original": [
+    {
+     "text": "Betra’s óbeþit an sé ofblótit,",
+     "indent": false
+    },
+    {
+     "text": "ey sér til gildis gjǫf;",
+     "indent": true
+    },
+    {
+     "text": "betra’s ósent an sé ofsoït",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": true
+    },
+    {
+     "text": "Svá Þundr of reist fyr þjóþa røk,",
+     "indent": false
+    },
+    {
+     "text": "þar hann upp of reis, es hann aptr of kvam.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3641,6 +6519,24 @@
    ],
    "notes": [
     "With this stanza begins the Ljothatal, or list of charms. The magic songs themselves are not given, but in each case the peculiar application of the charm is explained. The passage, which is certainly approximately complete as far as it goes, runs to the end of the poem. In the manuscript and in most editions line 4 falls into two half-lines, running: \"In sickness and pain and every sorrow.\""
+   ],
+   "original": [
+    {
+     "text": "Þau ljóþ kannk es kannat þjóþans kona",
+     "indent": false
+    },
+    {
+     "text": "né mannskis mǫgr:",
+     "indent": true
+    },
+    {
+     "text": "hjǫlp heitir eitt, en þat þér hjalpa mun",
+     "indent": false
+    },
+    {
+     "text": "viþ sorgum ok sútum ok sǫkum.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3665,6 +6561,24 @@
    ],
    "notes": [
     "Second, etc., appear in the manuscript as Roman numerals. The manuscript indicates no gap after line 2."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk annat es þurfu ýta synir",
+     "indent": false
+    },
+    {
+     "text": "þeirs vilja lǽknar lifa",
+     "indent": true
+    },
+    {
+     "text": "………",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": true
+    }
    ]
   },
   {
@@ -3687,7 +6601,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat kannk et þriþja, ef mér verþr þǫrf mikil",
+     "indent": false
+    },
+    {
+     "text": "hapts viþ heiptmǫgu:",
+     "indent": true
+    },
+    {
+     "text": "eggjar deyfik minna andskota,",
+     "indent": false
+    },
+    {
+     "text": "bítat þeim vǫ́pn né velir.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 150,
@@ -3713,7 +6645,29 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat kannk et fjórþa, ef mér fyrþar bera",
+     "indent": false
+    },
+    {
+     "text": "bǫnd at boglimum:",
+     "indent": true
+    },
+    {
+     "text": "svá ek gel, at ek ganga má,",
+     "indent": false
+    },
+    {
+     "text": "sprettr af fǫtum fjǫturr,",
+     "indent": true
+    },
+    {
+     "text": "en af hǫndum hapt.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 151,
@@ -3735,7 +6689,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat kannk et fimta, ef sék af fári skotinn",
+     "indent": false
+    },
+    {
+     "text": "flein í folki vaþa:",
+     "indent": true
+    },
+    {
+     "text": "flýgra svá stint, at ek stǫþvigak,",
+     "indent": false
+    },
+    {
+     "text": "ef ek hann sjónum of sék.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 152,
@@ -3759,6 +6731,24 @@
    ],
    "notes": [
     "The sending of a root with runes written thereon was an excellent way of causing death. So died the Icelandic hero Grettir the Strong."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk et sétta, ef mik sǽrir þegn",
+     "indent": false
+    },
+    {
+     "text": "á rótum rás viþar:",
+     "indent": true
+    },
+    {
+     "text": "ok þann hal, es mik heipta kveþr,",
+     "indent": false
+    },
+    {
+     "text": "eta mein heldr an mik.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3781,7 +6771,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat kannk et sjaunda, ef sék sviþinn loga",
+     "indent": false
+    },
+    {
+     "text": "sal of sessmǫgum:",
+     "indent": true
+    },
+    {
+     "text": "brinnrat svá breitt, at ek bjargigak;",
+     "indent": false
+    },
+    {
+     "text": "þann kannk galdr at gala.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 154,
@@ -3803,7 +6811,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat kannk et átta, es ǫllum es",
+     "indent": false
+    },
+    {
+     "text": "nytsamlikt at nema:",
+     "indent": true
+    },
+    {
+     "text": "hvars hatr vex meþ hildings sunum,",
+     "indent": false
+    },
+    {
+     "text": "þat mák bøta brátt.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 155,
@@ -3825,7 +6851,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat kannk et niunda, ef mik nauþr of stendr",
+     "indent": false
+    },
+    {
+     "text": "at bjarga fari á floti:",
+     "indent": true
+    },
+    {
+     "text": "vind ek kyrri vági á,",
+     "indent": false
+    },
+    {
+     "text": "ok svǽfik allan sǽ.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 156,
@@ -3853,6 +6897,28 @@
    ],
    "notes": [
     "House-riders: witches, who ride by night on the roofs of houses, generally in the form of wild beasts. Possibly one of the last two lines is spurious."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk et tiunda, ef ek sé túnriþur",
+     "indent": false
+    },
+    {
+     "text": "leika lopti á:",
+     "indent": true
+    },
+    {
+     "text": "ek svá vinnk, at þǽr villar fara",
+     "indent": false
+    },
+    {
+     "text": "sinna heimhama,",
+     "indent": true
+    },
+    {
+     "text": "sinna heimhaga.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3885,6 +6951,32 @@
    ],
    "notes": [
     "The last line looks like an unwarranted addition, and line 4 may likewise be spurious."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk et ellifta, ef skalk til orrostu",
+     "indent": false
+    },
+    {
+     "text": "leiþa langvini:",
+     "indent": true
+    },
+    {
+     "text": "und randir gelk, en þeir meþ ríki fara",
+     "indent": false
+    },
+    {
+     "text": "heilir hildar til,",
+     "indent": true
+    },
+    {
+     "text": "heilir hildi frá,",
+     "indent": true
+    },
+    {
+     "text": "koma þeir heilir hvaþan.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3913,6 +7005,28 @@
    ],
    "notes": [
     "Lines 4-5 are probably expanded from a single line."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk et tolfta, ef sék á tré uppi",
+     "indent": false
+    },
+    {
+     "text": "váfa virgilná:",
+     "indent": true
+    },
+    {
+     "text": "svá ek ríst ok í rúnum fák,",
+     "indent": false
+    },
+    {
+     "text": "at sá gengr gumi",
+     "indent": true
+    },
+    {
+     "text": "ok mǽlir viþ mik.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3937,6 +7051,24 @@
    ],
    "notes": [
     "The sprinkling of a child with water was an established custom long before Christianity brought its conception of baptism."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk et þrettánda, ef skalk þegn ungan",
+     "indent": false
+    },
+    {
+     "text": "verpa vatni á:",
+     "indent": true
+    },
+    {
+     "text": "munat hann falla, þót í folk komi,",
+     "indent": false
+    },
+    {
+     "text": "hnígra sá halr fyr hjǫrum.",
+     "indent": true
+    }
    ]
   },
   {
@@ -3959,7 +7091,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat kannk et fjogrtánda, ef skalk fyrþa liþi",
+     "indent": false
+    },
+    {
+     "text": "telja tíva fyrir:",
+     "indent": true
+    },
+    {
+     "text": "ása ok alfa ek kann allra skil,",
+     "indent": false
+    },
+    {
+     "text": "fár kann ósnotr svá.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 161,
@@ -3983,6 +7133,24 @@
    ],
    "notes": [
     "This stanza, according to Müllenhoff, was the original conclusion of the poem, the phrase \"a fifteenth\" being inserted only after stanzas 162-165 had crept in. Delling: a seldom mentioned god who married Not (Night). Their son was Dag (Day). Thjothrörir: not mentioned elsewhere. Hroptatyr: Othin."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk et fimtánda, es gól Þjóþrørir",
+     "indent": false
+    },
+    {
+     "text": "dvergr fyr Dellings durum:",
+     "indent": true
+    },
+    {
+     "text": "afl gól hann ǫ́sum, en ǫlfum frama,",
+     "indent": false
+    },
+    {
+     "text": "hyggju Hróptatý.",
+     "indent": true
+    }
    ]
   },
   {
@@ -4005,7 +7173,25 @@
      "indent": true
     }
    ],
-   "notes": []
+   "notes": [],
+   "original": [
+    {
+     "text": "Þat kannk et sextánda, ef vilk ens svinna mans",
+     "indent": false
+    },
+    {
+     "text": "hafa geþ allt ok gaman:",
+     "indent": true
+    },
+    {
+     "text": "hugi ek hverfi hvítarmri konu",
+     "indent": false
+    },
+    {
+     "text": "ok snýk hennar ǫllum sefa.",
+     "indent": true
+    }
+   ]
   },
   {
    "n": 163,
@@ -4029,6 +7215,24 @@
    ],
    "notes": [
     "Some editors have combined these two lines with stanza 164. Others have assumed that the gap follows the first half-line, making \"so that—from me\" the end of the stanza."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk et sjautjánda, ef ......",
+     "indent": false
+    },
+    {
+     "text": "………",
+     "indent": false
+    },
+    {
+     "text": "svá ek ..... at mik seint mun firrask",
+     "indent": false
+    },
+    {
+     "text": "et manunga man.",
+     "indent": true
+    }
    ]
   },
   {
@@ -4057,6 +7261,28 @@
    ],
    "notes": [
     "This stanza is almost certainly an interpolation, and seems to have been introduced after the list of charms and the Loddfafnismol (stanzas 111-138) were combined in a single poem, for there is no other apparent excuse for the reference to Loddfafnir at this point. The words \"if thou mightest get them\" are a conjectural emendation."
+   ],
+   "original": [
+    {
+     "text": "Ljóþa þessa mundu, Loddfáfnir!",
+     "indent": false
+    },
+    {
+     "text": "lengi vanr vesa,",
+     "indent": true
+    },
+    {
+     "text": "þót þér góþ seï, ef geta mǽttir,",
+     "indent": false
+    },
+    {
+     "text": "nýt, ef þú nemr,",
+     "indent": true
+    },
+    {
+     "text": "þǫrf, ef þú þiggr.",
+     "indent": true
+    }
    ]
   },
   {
@@ -4089,7 +7315,41 @@
    ],
    "notes": [
     "This stanza is almost totally obscure. The third and fourth lines look like interpolations."
+   ],
+   "original": [
+    {
+     "text": "Þat kannk et áttjánda, es ek ǽva kennik",
+     "indent": false
+    },
+    {
+     "text": "mey né manns konu —",
+     "indent": true
+    },
+    {
+     "text": "allt es betra es einn of kann,",
+     "indent": false
+    },
+    {
+     "text": "þat fylgir ljóþa lokum —",
+     "indent": true
+    },
+    {
+     "text": "nema þeiri einni, es mik armi verr",
+     "indent": false
+    },
+    {
+     "text": "eþa mín systir seï.",
+     "indent": true
+    }
    ]
   }
- ]
+ ],
+ "original": {
+  "language": "non",
+  "editors": "Karl Hildebrand and Hugo Gering",
+  "title": "Die Lieder der älteren Edda (Sæmundar Edda)",
+  "year": 1904,
+  "license": "Public domain",
+  "source": "https://archive.org/details/dieliederderlte00hild"
+ }
 }
