@@ -1,0 +1,4095 @@
+{
+ "id": "havamal",
+ "title": "Hávamál",
+ "englishTitle": "The Ballad of the High One",
+ "translator": "Henry Adams Bellows",
+ "year": 1923,
+ "license": "Public domain",
+ "source": "https://en.wikisource.org/wiki/The_Poetic_Edda_(tr._Bellows)/Hovamol",
+ "introduction": [
+  "This poem follows the Voluspo in the Codex Regius, but is preserved in no other manuscript. The first stanza is quoted by Snorri, and two lines of stanza 84 appear in one of the sagas.",
+  "In its present shape it involves the critic of the text in more puzzles than any other of the Eddic poems. Without going in detail into the various theories, what happened seems to have been somewhat as follows. There existed from very early times a collection of proverbs and wise counsels, which were attributed to Othin just as the Biblical proverbs were to Solomon. This collection, which presumably was always elastic in extent, was known as \"The High One's Words,\" and forms the basis of the present poem. To it, however, were added other poems and fragments dealing with wisdom which seemed by their nature to imply that the speaker was Othin. Thus a catalogue of runes, or charms, was tacked on, and also a set of proverbs, differing essentially in form from those comprising the main collection. Here and there bits of verse more nearly narrative crept in; and of course the loose structure of the poem made it easy for any reciter to insert new stanzas almost at will. This curious miscellany is what we now have as the Hovamol.",
+  "Five separate elements are pretty clearly recognizable: (1) the Hovamol proper (stanzas 1-80), a collection of proverbs and counsels for the conduct of life; (2) the Loddfafnismol (stanzas 111-138), a collection somewhat similar to the first, but specifically addressed to a certain Loddfafnir; (3) the Ljothatal (stanzas 147-165), a collection of charms; (4) the love-story of Othin and Billing's daughter (stanzas 96-102), with an introductory dissertation on the faithlessness of women in general (stanzas 81-95), which probably crept into the poem first, and then pulled the story, as an apt illustration, after it; (5) the story of how Othin got the mead of poetry—the draught which gave him the gift of tongues—from the maiden Gunnloth (stanzas 103-110). There is also a brief passage (stanzas 139-146) telling how Othin won the runes, this passage being a natural introduction to the Ljothatal, and doubtless brought into the poem for that reason.",
+  "It is idle to discuss the authorship or date of such a series of accretions as this. Parts of it are doubtless among the oldest relics of ancient Germanic poetry; parts of it may have originated at a relatively late period. Probably, however, most of its component elements go pretty far back, although we have no way of telling how or when they first became associated.",
+  "It seems all but meaningless to talk about \"interpolations\" in a poem which has developed almost solely through the process of piecing together originally unrelated odds and ends. The notes, therefore, make only such suggestions as are needed to keep the main divisions of the poem distinct.",
+  "Few gnomic collections in the world's literary history present sounder wisdom more tersely expressed than the Hovamol. Like the Book of Proverbs it occasionally rises to lofty heights of poetry. If it presents the worldly wisdom of a violent race, it also shows noble ideals of loyalty, truth, and unfaltering courage."
+ ],
+ "stanzas": [
+  {
+   "n": 1,
+   "lines": [
+    {
+     "text": "Within the gates ere a man shall go,",
+     "indent": false
+    },
+    {
+     "text": "(Full warily let him watch,)",
+     "indent": true
+    },
+    {
+     "text": "Full long let him look about him;",
+     "indent": true
+    },
+    {
+     "text": "For little he knows where a foe may lurk,",
+     "indent": false
+    },
+    {
+     "text": "And sit in the seats within.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This stanza is quoted by Snorri, the second line being omitted in most of the Prose Edda manuscripts."
+   ]
+  },
+  {
+   "n": 2,
+   "lines": [
+    {
+     "text": "Hail to the giver! a guest has come;",
+     "indent": false
+    },
+    {
+     "text": "Where shall the stranger sit?",
+     "indent": true
+    },
+    {
+     "text": "Swift shall he be who with swords shall try",
+     "indent": false
+    },
+    {
+     "text": "The proof of his might to make.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Probably the first and second lines had originally nothing to do with the third and fourth, the last two not referring to host or guest, but to the general danger of backing one's views with the sword."
+   ]
+  },
+  {
+   "n": 3,
+   "lines": [
+    {
+     "text": "Fire he needs who with frozen knees",
+     "indent": false
+    },
+    {
+     "text": "Has come from the cold without;",
+     "indent": true
+    },
+    {
+     "text": "Food and clothes must the farer have,",
+     "indent": false
+    },
+    {
+     "text": "The man from the mountains come.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 4,
+   "lines": [
+    {
+     "text": "Water and towels and welcoming speech",
+     "indent": false
+    },
+    {
+     "text": "Should he find who comes to the feast;",
+     "indent": true
+    },
+    {
+     "text": "If renown he would get, and again be greeted,",
+     "indent": false
+    },
+    {
+     "text": "Wisely and well must he act.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 5,
+   "lines": [
+    {
+     "text": "Wits must he have who wanders wide,",
+     "indent": false
+    },
+    {
+     "text": "But all is easy at home;",
+     "indent": true
+    },
+    {
+     "text": "At the witless man the wise shall wink",
+     "indent": false
+    },
+    {
+     "text": "When among such men he sits.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 6,
+   "lines": [
+    {
+     "text": "A man shall not boast of his keenness of mind,",
+     "indent": false
+    },
+    {
+     "text": "But keep it close in his breast;",
+     "indent": true
+    },
+    {
+     "text": "To the silent and wise does ill come seldom",
+     "indent": false
+    },
+    {
+     "text": "When he goes as guest to a house;",
+     "indent": true
+    },
+    {
+     "text": "(For a faster friend one never finds",
+     "indent": false
+    },
+    {
+     "text": "Than wisdom tried and true.)",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Lines 5 and 6 appear to have been added to the stanza."
+   ]
+  },
+  {
+   "n": 7,
+   "lines": [
+    {
+     "text": "The knowing guest who goes to the feast,",
+     "indent": false
+    },
+    {
+     "text": "In silent attention sits;",
+     "indent": true
+    },
+    {
+     "text": "With his ears he hears, with his eyes he watches,",
+     "indent": false
+    },
+    {
+     "text": "Thus wary are wise men all.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 8,
+   "lines": [
+    {
+     "text": "Happy the one who wins for himself",
+     "indent": false
+    },
+    {
+     "text": "Favor and praises fair;",
+     "indent": true
+    },
+    {
+     "text": "Less safe by far is the wisdom found",
+     "indent": false
+    },
+    {
+     "text": "That is hid in another's heart.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 9,
+   "lines": [
+    {
+     "text": "Happy the man who has while he lives",
+     "indent": false
+    },
+    {
+     "text": "Wisdom and praise as well,",
+     "indent": true
+    },
+    {
+     "text": "For evil counsel a man full oft",
+     "indent": false
+    },
+    {
+     "text": "Has from another's heart.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 10,
+   "lines": [
+    {
+     "text": "A better burden may no man bear",
+     "indent": false
+    },
+    {
+     "text": "For wanderings wide than wisdom;",
+     "indent": true
+    },
+    {
+     "text": "It is better than wealth on unknown ways,",
+     "indent": false
+    },
+    {
+     "text": "And in grief a refuge it gives.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 11,
+   "lines": [
+    {
+     "text": "A better burden may no man bear",
+     "indent": false
+    },
+    {
+     "text": "For wanderings wide than wisdom;",
+     "indent": true
+    },
+    {
+     "text": "Worse food for the journey he brings not afield",
+     "indent": false
+    },
+    {
+     "text": "Than an over-drinking of ale.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 12,
+   "lines": [
+    {
+     "text": "Less good there lies than most believe",
+     "indent": false
+    },
+    {
+     "text": "In ale for mortal men;",
+     "indent": true
+    },
+    {
+     "text": "For the more he drinks the less does man",
+     "indent": false
+    },
+    {
+     "text": "Of his mind the mastery hold.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Some editors have combined this stanza in various ways with the last two lines of stanza 11, as in the manuscript the first two lines of the latter are abbreviated, and, if they belong there at all, are presumably identical with the first two lines of stanza 10."
+   ]
+  },
+  {
+   "n": 13,
+   "lines": [
+    {
+     "text": "Over beer the bird of forgetfulness broods,",
+     "indent": false
+    },
+    {
+     "text": "And steals the minds of men;",
+     "indent": true
+    },
+    {
+     "text": "With the heron's feathers fettered I lay",
+     "indent": false
+    },
+    {
+     "text": "And in Gunnloth's house was held.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The heron: the bird of forgetfulness, referred to in line 1. Gunnloth: the daughter of the giant Suttung, from whom Othin won the mead of poetry. For this episode see stanzas 104-110."
+   ]
+  },
+  {
+   "n": 14,
+   "lines": [
+    {
+     "text": "Drunk I was, I was dead-drunk,",
+     "indent": false
+    },
+    {
+     "text": "When with Fjalar wise I was;",
+     "indent": true
+    },
+    {
+     "text": "'Tis the best of drinking if back one brings",
+     "indent": false
+    },
+    {
+     "text": "His wisdom with him home.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Fjalar: apparently another name for Suttung. This stanza, and probably 13, seem to have been inserted as illustrative."
+   ]
+  },
+  {
+   "n": 15,
+   "lines": [
+    {
+     "text": "The son of a king shall be silent and wise,",
+     "indent": false
+    },
+    {
+     "text": "And bold in battle as well;",
+     "indent": true
+    },
+    {
+     "text": "Bravely and gladly a man shall go,",
+     "indent": false
+    },
+    {
+     "text": "Till the day of his death is come.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 16,
+   "lines": [
+    {
+     "text": "The sluggard believes he shall live forever,",
+     "indent": false
+    },
+    {
+     "text": "If the fight he faces not;",
+     "indent": true
+    },
+    {
+     "text": "But age shall not grant him the gift of peace,",
+     "indent": false
+    },
+    {
+     "text": "Though spears may spare his life.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 17,
+   "lines": [
+    {
+     "text": "The fool is agape when he comes to the feast,",
+     "indent": false
+    },
+    {
+     "text": "He stammers or else is still;",
+     "indent": true
+    },
+    {
+     "text": "But soon if he gets a drink is it seen",
+     "indent": false
+    },
+    {
+     "text": "What the mind of the man is like.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 18,
+   "lines": [
+    {
+     "text": "He alone is aware who has wandered wide,",
+     "indent": false
+    },
+    {
+     "text": "And far abroad has fared,",
+     "indent": true
+    },
+    {
+     "text": "How great a mind is guided by him",
+     "indent": false
+    },
+    {
+     "text": "That wealth of wisdom has.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 19,
+   "lines": [
+    {
+     "text": "Shun not the mead, but drink in measure;",
+     "indent": false
+    },
+    {
+     "text": "Speak to the point or be still;",
+     "indent": true
+    },
+    {
+     "text": "For rudeness none shall rightly blame thee",
+     "indent": false
+    },
+    {
+     "text": "If soon thy bed thou seekest.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 20,
+   "lines": [
+    {
+     "text": "The greedy man, if his mind be vague,",
+     "indent": false
+    },
+    {
+     "text": "Will eat till sick he is;",
+     "indent": true
+    },
+    {
+     "text": "The vulgar man, when among the wise,",
+     "indent": false
+    },
+    {
+     "text": "To scorn by his belly is brought.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 21,
+   "lines": [
+    {
+     "text": "The herds know well when home they shall fare,",
+     "indent": false
+    },
+    {
+     "text": "And then from the grass they go;",
+     "indent": true
+    },
+    {
+     "text": "But the foolish man his belly's measure",
+     "indent": false
+    },
+    {
+     "text": "Shall never know aright.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 22,
+   "lines": [
+    {
+     "text": "A paltry man and poor of mind",
+     "indent": false
+    },
+    {
+     "text": "At all things ever mocks;",
+     "indent": true
+    },
+    {
+     "text": "For never he knows, what he ought to know,",
+     "indent": false
+    },
+    {
+     "text": "That he is not free from faults.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 23,
+   "lines": [
+    {
+     "text": "The witless man is awake all night,",
+     "indent": false
+    },
+    {
+     "text": "Thinking of many things;",
+     "indent": true
+    },
+    {
+     "text": "Care-worn he is when the morning comes,",
+     "indent": false
+    },
+    {
+     "text": "And his woe is just as it was.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 24,
+   "lines": [
+    {
+     "text": "The foolish man for friends all those",
+     "indent": false
+    },
+    {
+     "text": "Who laugh at him will hold;",
+     "indent": true
+    },
+    {
+     "text": "When among the wise he marks it not",
+     "indent": false
+    },
+    {
+     "text": "Though hatred of him they speak.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 25,
+   "lines": [
+    {
+     "text": "The foolish man for friends all those",
+     "indent": false
+    },
+    {
+     "text": "Who laugh at him will hold;",
+     "indent": true
+    },
+    {
+     "text": "But the truth when he comes to the council he learns,",
+     "indent": false
+    },
+    {
+     "text": "That few in his favor will speak.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The first two lines are abbreviated in the manuscript, but are doubtless identical with the first two lines of the stanza 24."
+   ]
+  },
+  {
+   "n": 26,
+   "lines": [
+    {
+     "text": "An ignorant man thinks that all he knows,",
+     "indent": false
+    },
+    {
+     "text": "When he sits by himself in a corner;",
+     "indent": true
+    },
+    {
+     "text": "But never what answer to make he knows,",
+     "indent": false
+    },
+    {
+     "text": "When others with questions come.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 27,
+   "lines": [
+    {
+     "text": "A witless man, when he meets with men,",
+     "indent": false
+    },
+    {
+     "text": "Had best in silence abide;",
+     "indent": true
+    },
+    {
+     "text": "For no one shall find that nothing he knows,",
+     "indent": false
+    },
+    {
+     "text": "If his mouth is not open too much.",
+     "indent": true
+    },
+    {
+     "text": "(But a man knows not, if nothing he knows,",
+     "indent": false
+    },
+    {
+     "text": "When his mouth has been open too much.)",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The last two lines were probably added as a commentary on lines 3 and 4."
+   ]
+  },
+  {
+   "n": 28,
+   "lines": [
+    {
+     "text": "Wise shall he seem who well can question,",
+     "indent": false
+    },
+    {
+     "text": "And also answer well;",
+     "indent": true
+    },
+    {
+     "text": "Nought is concealed that men may say",
+     "indent": false
+    },
+    {
+     "text": "Among the sons of men.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 29,
+   "lines": [
+    {
+     "text": "Often he speaks who never is still",
+     "indent": false
+    },
+    {
+     "text": "With words that win no faith;",
+     "indent": true
+    },
+    {
+     "text": "The babbling tongue, if a bridle it find not,",
+     "indent": false
+    },
+    {
+     "text": "Oft for itself sings ill.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 30,
+   "lines": [
+    {
+     "text": "In mockery no one a man shall hold,",
+     "indent": false
+    },
+    {
+     "text": "Although he fare to the feast;",
+     "indent": true
+    },
+    {
+     "text": "Wise seems one oft, if nought he is asked,",
+     "indent": false
+    },
+    {
+     "text": "And safely he sits dry-skinned.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 31,
+   "lines": [
+    {
+     "text": "Wise a guest holds it to take to his heels,",
+     "indent": false
+    },
+    {
+     "text": "When mock of another he makes;",
+     "indent": true
+    },
+    {
+     "text": "But little he knows who laughs at the feast,",
+     "indent": false
+    },
+    {
+     "text": "Though he mocks in the midst of his foes.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 32,
+   "lines": [
+    {
+     "text": "Friendly of mind are many men,",
+     "indent": false
+    },
+    {
+     "text": "Till feasting they mock at their friends;",
+     "indent": true
+    },
+    {
+     "text": "To mankind a bane must it ever be",
+     "indent": false
+    },
+    {
+     "text": "When guests together strive.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 33,
+   "lines": [
+    {
+     "text": "Oft should one make an early meal,",
+     "indent": false
+    },
+    {
+     "text": "Nor fasting come to the feast;",
+     "indent": true
+    },
+    {
+     "text": "Else he sits and chews as if he would choke,",
+     "indent": false
+    },
+    {
+     "text": "And little is able to ask.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 34,
+   "lines": [
+    {
+     "text": "Crooked and far is the road to a foe,",
+     "indent": false
+    },
+    {
+     "text": "Though his house on the highway be;",
+     "indent": true
+    },
+    {
+     "text": "But wide and straight is the way to a friend,",
+     "indent": false
+    },
+    {
+     "text": "Though far away he fare.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 35,
+   "lines": [
+    {
+     "text": "Forth shall one go, nor stay as a guest",
+     "indent": false
+    },
+    {
+     "text": "In a single spot forever;",
+     "indent": true
+    },
+    {
+     "text": "Love becomes loathing if long one sits",
+     "indent": false
+    },
+    {
+     "text": "By the hearth in another's home.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 36,
+   "lines": [
+    {
+     "text": "Better a house, though a hut it be,",
+     "indent": false
+    },
+    {
+     "text": "A man is master at home;",
+     "indent": true
+    },
+    {
+     "text": "A pair of goats and a patched-up roof",
+     "indent": false
+    },
+    {
+     "text": "Are better far than begging.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The manuscript has \"little\" in place of \"a hut\" in line 1, but this involves an error in the initial-rhymes, and the emendation has been generally accepted."
+   ]
+  },
+  {
+   "n": 37,
+   "lines": [
+    {
+     "text": "Better a house, though a hut it be,",
+     "indent": false
+    },
+    {
+     "text": "A man is master at home;",
+     "indent": true
+    },
+    {
+     "text": "His heart is bleeding who needs must beg",
+     "indent": false
+    },
+    {
+     "text": "When food he fain would have.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Lines 1 and 2 are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza 36."
+   ]
+  },
+  {
+   "n": 38,
+   "lines": [
+    {
+     "text": "Away from his arms in the open field",
+     "indent": false
+    },
+    {
+     "text": "A man should fare not a foot;",
+     "indent": true
+    },
+    {
+     "text": "For never he knows when the need for a spear",
+     "indent": false
+    },
+    {
+     "text": "Shall arise on the distant road.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 39,
+   "lines": [
+    {
+     "text": "If wealth a man has won for himself,",
+     "indent": false
+    },
+    {
+     "text": "Let him never suffer in need;",
+     "indent": true
+    },
+    {
+     "text": "Oft he saves for a foe what he plans for a friend,",
+     "indent": false
+    },
+    {
+     "text": "For much goes worse than we wish.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "In the manuscript this stanza follows stanza 40."
+   ]
+  },
+  {
+   "n": 40,
+   "lines": [
+    {
+     "text": "None so free with gifts or food have I found",
+     "indent": false
+    },
+    {
+     "text": "That gladly he took not a gift,",
+     "indent": true
+    },
+    {
+     "text": "Nor one who so widely scattered his wealth",
+     "indent": false
+    },
+    {
+     "text": "That of recompense hatred he had.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The key-word in line 3 is missing in the manuscript, but editors have agreed in inserting a word meaning \"generous.\""
+   ]
+  },
+  {
+   "n": 41,
+   "lines": [
+    {
+     "text": "Friends shall gladden each other with arms and garments,",
+     "indent": false
+    },
+    {
+     "text": "As each for himself can see;",
+     "indent": true
+    },
+    {
+     "text": "Gift-givers' friendships are longest found,",
+     "indent": false
+    },
+    {
+     "text": "If fair their fates may be.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "In line 3 the manuscript adds \"givers again\" to \"gift-givers.\""
+   ]
+  },
+  {
+   "n": 42,
+   "lines": [
+    {
+     "text": "To his friend a man a friend shall prove,",
+     "indent": false
+    },
+    {
+     "text": "And gifts with gifts requite;",
+     "indent": true
+    },
+    {
+     "text": "But men shall mocking with mockery answer,",
+     "indent": false
+    },
+    {
+     "text": "And fraud with falsehood meet.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 43,
+   "lines": [
+    {
+     "text": "To his friend a man a friend shall prove,",
+     "indent": false
+    },
+    {
+     "text": "To him and the friend of his friend;",
+     "indent": true
+    },
+    {
+     "text": "But never a man shall friendship make",
+     "indent": false
+    },
+    {
+     "text": "With one of his foeman's friends.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 44,
+   "lines": [
+    {
+     "text": "If a friend thou hast whom thou fully wilt trust,",
+     "indent": false
+    },
+    {
+     "text": "And good from him wouldst get,",
+     "indent": true
+    },
+    {
+     "text": "Thy thoughts with his mingle, and gifts shalt thou make,",
+     "indent": false
+    },
+    {
+     "text": "And fare to find him oft.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 45,
+   "lines": [
+    {
+     "text": "If another thou hast whom thou hardly wilt trust,",
+     "indent": false
+    },
+    {
+     "text": "Yet good from him wouldst get,",
+     "indent": true
+    },
+    {
+     "text": "Thou shalt speak him fair, but falsely think,",
+     "indent": false
+    },
+    {
+     "text": "And fraud with falsehood requite.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 46,
+   "lines": [
+    {
+     "text": "So is it with him whom thou hardly wilt trust,",
+     "indent": false
+    },
+    {
+     "text": "And whose mind thou mayst not know;",
+     "indent": true
+    },
+    {
+     "text": "Laugh with him mayst thou, but speak not thy mind,",
+     "indent": false
+    },
+    {
+     "text": "Like gifts to his shalt thou give.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 47,
+   "lines": [
+    {
+     "text": "Young was I once, and wandered alone,",
+     "indent": false
+    },
+    {
+     "text": "And nought of the road I knew;",
+     "indent": true
+    },
+    {
+     "text": "Rich did I feel when a comrade I found,",
+     "indent": false
+    },
+    {
+     "text": "For man is man's delight.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 48,
+   "lines": [
+    {
+     "text": "The lives of the brave and noble are best,",
+     "indent": false
+    },
+    {
+     "text": "Sorrows they seldom feed;",
+     "indent": true
+    },
+    {
+     "text": "But the coward fear of all things feels,",
+     "indent": false
+    },
+    {
+     "text": "And not gladly the niggard gives.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 49,
+   "lines": [
+    {
+     "text": "My garments once in a field I gave",
+     "indent": false
+    },
+    {
+     "text": "To a pair of carven poles;",
+     "indent": true
+    },
+    {
+     "text": "Heroes they seemed when clothes they had,",
+     "indent": false
+    },
+    {
+     "text": "But the naked man is nought.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 50,
+   "lines": [
+    {
+     "text": "On the hillside drear the fir-tree dies,",
+     "indent": false
+    },
+    {
+     "text": "All bootless its needles and bark;",
+     "indent": true
+    },
+    {
+     "text": "It is like a man whom no one loves,—",
+     "indent": false
+    },
+    {
+     "text": "Why should his life be long?",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 51,
+   "lines": [
+    {
+     "text": "Hotter than fire between false friends",
+     "indent": false
+    },
+    {
+     "text": "Does friendship five days burn;",
+     "indent": true
+    },
+    {
+     "text": "When the sixth day comes the fire cools,",
+     "indent": false
+    },
+    {
+     "text": "And ended is all the love.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 52,
+   "lines": [
+    {
+     "text": "No great thing needs a man to give,",
+     "indent": false
+    },
+    {
+     "text": "Oft little will purchase praise;",
+     "indent": true
+    },
+    {
+     "text": "With half a loaf and a half-filled cup",
+     "indent": false
+    },
+    {
+     "text": "A friend full fast I made.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 53,
+   "lines": [
+    {
+     "text": "A little sand has a little sea,",
+     "indent": false
+    },
+    {
+     "text": "And small are the minds of men;",
+     "indent": true
+    },
+    {
+     "text": "Though all men are not equal in wisdom,",
+     "indent": false
+    },
+    {
+     "text": "Yet half-wise only are all.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 54,
+   "lines": [
+    {
+     "text": "A measure of wisdom each man shall have,",
+     "indent": false
+    },
+    {
+     "text": "But never too much let him know;",
+     "indent": true
+    },
+    {
+     "text": "The fairest lives do those men live",
+     "indent": false
+    },
+    {
+     "text": "Whose wisdom wide has grown.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 55,
+   "lines": [
+    {
+     "text": "A measure of wisdom each man shall have,",
+     "indent": false
+    },
+    {
+     "text": "But never too much let him know;",
+     "indent": true
+    },
+    {
+     "text": "For the wise man's heart is seldom happy,",
+     "indent": false
+    },
+    {
+     "text": "If wisdom too great he has won.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The first pairs of lines are abbreviated in the manuscript."
+   ]
+  },
+  {
+   "n": 56,
+   "lines": [
+    {
+     "text": "A measure of wisdom each man shall have,",
+     "indent": false
+    },
+    {
+     "text": "But never too much let him know;",
+     "indent": true
+    },
+    {
+     "text": "Let no man the fate before him see,",
+     "indent": false
+    },
+    {
+     "text": "For so is he freest from sorrow.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The first pairs of lines are abbreviated in the manuscript."
+   ]
+  },
+  {
+   "n": 57,
+   "lines": [
+    {
+     "text": "A brand from a brand is kindled and burned,",
+     "indent": false
+    },
+    {
+     "text": "And fire from fire begotten;",
+     "indent": true
+    },
+    {
+     "text": "And man by his speech is known to men,",
+     "indent": false
+    },
+    {
+     "text": "And the stupid by their stillness.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 58,
+   "lines": [
+    {
+     "text": "He must early go forth who fain the blood",
+     "indent": false
+    },
+    {
+     "text": "Or the goods of another would get;",
+     "indent": true
+    },
+    {
+     "text": "The wolf that lies idle shall win little meat,",
+     "indent": false
+    },
+    {
+     "text": "Or the sleeping man success.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 59,
+   "lines": [
+    {
+     "text": "He must early go forth whose workers are few,",
+     "indent": false
+    },
+    {
+     "text": "Himself his work to seek;",
+     "indent": true
+    },
+    {
+     "text": "Much remains undone for the morning-sleeper,",
+     "indent": false
+    },
+    {
+     "text": "For the swift is wealth half won.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 60,
+   "lines": [
+    {
+     "text": "Of seasoned shingles and strips of bark",
+     "indent": false
+    },
+    {
+     "text": "For the thatch let one know his need,",
+     "indent": true
+    },
+    {
+     "text": "And how much of wood he must have for a month,",
+     "indent": false
+    },
+    {
+     "text": "Or in half a year he will use.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 61,
+   "lines": [
+    {
+     "text": "Washed and fed to the council fare,",
+     "indent": false
+    },
+    {
+     "text": "But care not too much for thy clothes;",
+     "indent": true
+    },
+    {
+     "text": "Let none be ashamed of his shoes and hose,",
+     "indent": false
+    },
+    {
+     "text": "Less still of the steed he rides.",
+     "indent": true
+    },
+    {
+     "text": "(Though poor be the horse he has.)",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The fifth line is probably a spurious addition."
+   ]
+  },
+  {
+   "n": 62,
+   "lines": [
+    {
+     "text": "When the eagle comes to the ancient sea,",
+     "indent": false
+    },
+    {
+     "text": "He snaps and hangs his head;",
+     "indent": true
+    },
+    {
+     "text": "So is a man in the midst of a throng,",
+     "indent": false
+    },
+    {
+     "text": "Who few to speak for him finds.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This stanza follows stanza 63 in the manuscript, but there are marks therein indicating the transposition."
+   ]
+  },
+  {
+   "n": 63,
+   "lines": [
+    {
+     "text": "To question and answer must all be ready",
+     "indent": false
+    },
+    {
+     "text": "Who wish to be known as wise;",
+     "indent": true
+    },
+    {
+     "text": "Tell one thy thoughts, but beware of two,—",
+     "indent": false
+    },
+    {
+     "text": "All know what is known to three.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 64,
+   "lines": [
+    {
+     "text": "The man who is prudent a measured use",
+     "indent": false
+    },
+    {
+     "text": "Of the might he has will make;",
+     "indent": true
+    },
+    {
+     "text": "He finds when among the brave he fares",
+     "indent": false
+    },
+    {
+     "text": "That the boldest he may not be.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 65,
+   "lines": [
+    {
+     "text": "................",
+     "indent": false
+    },
+    {
+     "text": "...............",
+     "indent": false
+    },
+    {
+     "text": "Oft for the words that to others one speaks",
+     "indent": false
+    },
+    {
+     "text": "He will get but an evil gift.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The manuscript indicates no lacuna (lines 1 and 2). Many editors have filled out the stanza with two lines from late paper manuscripts, the passage running: \"A man must be watchful and wary as well, And fearful of trusting a friend.\""
+   ]
+  },
+  {
+   "n": 66,
+   "lines": [
+    {
+     "text": "Too early to many a meeting I came,",
+     "indent": false
+    },
+    {
+     "text": "And some too late have I sought;",
+     "indent": true
+    },
+    {
+     "text": "The beer was all drunk, or not yet brewed;",
+     "indent": false
+    },
+    {
+     "text": "Little the loathed man finds.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 67,
+   "lines": [
+    {
+     "text": "To their homes men would bid me hither and yon,",
+     "indent": false
+    },
+    {
+     "text": "If at meal-time I needed no meat,",
+     "indent": true
+    },
+    {
+     "text": "Or would hang two hams in my true friend's house,",
+     "indent": false
+    },
+    {
+     "text": "Where only one I had eaten.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 68,
+   "lines": [
+    {
+     "text": "Fire for men is the fairest gift,",
+     "indent": false
+    },
+    {
+     "text": "And power to see the sun;",
+     "indent": true
+    },
+    {
+     "text": "Health as well, if a man may have it,",
+     "indent": false
+    },
+    {
+     "text": "And a life not stained with sin.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 69,
+   "lines": [
+    {
+     "text": "All wretched is no man, though never so sick;",
+     "indent": false
+    },
+    {
+     "text": "Some from their sons have joy,",
+     "indent": true
+    },
+    {
+     "text": "Some win it from kinsmen, and some from their wealth,",
+     "indent": false
+    },
+    {
+     "text": "And some from worthy works.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 70,
+   "lines": [
+    {
+     "text": "It is better to live than to lie a corpse,",
+     "indent": false
+    },
+    {
+     "text": "The live man catches the cow;",
+     "indent": true
+    },
+    {
+     "text": "I saw flames rise for the rich man's pyre,",
+     "indent": false
+    },
+    {
+     "text": "And before his door he lay dead.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The manuscript has \"and a worthy life\" in place of \"than to lie a corpse\" in line 1, but Rask suggested the emendation as early as 1818, and most editors have followed him."
+   ]
+  },
+  {
+   "n": 71,
+   "lines": [
+    {
+     "text": "The lame rides a horse, the handless is herdsman,",
+     "indent": false
+    },
+    {
+     "text": "The deaf in battle is bold;",
+     "indent": true
+    },
+    {
+     "text": "The blind man is better than one that is burned,",
+     "indent": false
+    },
+    {
+     "text": "No good can come of a corpse.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 72,
+   "lines": [
+    {
+     "text": "A son is better, though late he be born,",
+     "indent": false
+    },
+    {
+     "text": "And his father to death have fared;",
+     "indent": true
+    },
+    {
+     "text": "Memory-stones seldom stand by the road",
+     "indent": false
+    },
+    {
+     "text": "Save when kinsman honors his kin.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 73,
+   "lines": [
+    {
+     "text": "Two make a battle, the tongue slays the head;",
+     "indent": false
+    },
+    {
+     "text": "In each furry coat a fist I look for.",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "These seven lines are obviously a jumble. The two lines of stanza 73 not only appear out of place, but the verse-form is unlike that of the surrounding stanzas. In 74, the second line is clearly interpolated, and line 1 has little enough connection with lines 3, 4 and 5. It looks as though some compiler (or copyist) had inserted here various odds and ends for which he could find no better place."
+   ]
+  },
+  {
+   "n": 74,
+   "lines": [
+    {
+     "text": "He welcomes the night whose fare is enough,",
+     "indent": false
+    },
+    {
+     "text": "(Short are the yards of a ship,)",
+     "indent": true
+    },
+    {
+     "text": "Uneasy are autumn nights;",
+     "indent": true
+    },
+    {
+     "text": "Full oft does the weather change in a week,",
+     "indent": false
+    },
+    {
+     "text": "And more in a month's time.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "These seven lines are obviously a jumble. The two lines of stanza 73 not only appear out of place, but the verse-form is unlike that of the surrounding stanzas. In 74, the second line is clearly interpolated, and line 1 has little enough connection with lines 3, 4 and 5. It looks as though some compiler (or copyist) had inserted here various odds and ends for which he could find no better place."
+   ]
+  },
+  {
+   "n": 75,
+   "lines": [
+    {
+     "text": "A man knows not, if nothing he knows,",
+     "indent": false
+    },
+    {
+     "text": "That gold oft apes begets;",
+     "indent": true
+    },
+    {
+     "text": "One man is wealthy and one is poor,",
+     "indent": false
+    },
+    {
+     "text": "Yet scorn for him none should know.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The word \"gold\" in line 2 is more or less conjectural, the manuscript being obscure. The reading in line 4 is also doubtful."
+   ]
+  },
+  {
+   "n": 76,
+   "lines": [
+    {
+     "text": "Among Fitjung's sons saw I well-stocked folds,—",
+     "indent": false
+    },
+    {
+     "text": "Now bear they the beggar's staff;",
+     "indent": true
+    },
+    {
+     "text": "Wealth is as swift as a winking eye,",
+     "indent": false
+    },
+    {
+     "text": "Of friends the falsest it is.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "In the manuscript this stanza follows 78, the order being: 77, 78, 76, 80, 79, 81. Fitjung (\"the Nourisher\"): Earth."
+   ]
+  },
+  {
+   "n": 77,
+   "lines": [
+    {
+     "text": "Cattle die, and kinsmen die,",
+     "indent": false
+    },
+    {
+     "text": "And so one dies one's self;",
+     "indent": true
+    },
+    {
+     "text": "But a noble name will never die,",
+     "indent": false
+    },
+    {
+     "text": "If good renown one gets.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 78,
+   "lines": [
+    {
+     "text": "Cattle die, and kinsmen die,",
+     "indent": false
+    },
+    {
+     "text": "And so one dies one's self;",
+     "indent": true
+    },
+    {
+     "text": "One thing I know that never dies,",
+     "indent": false
+    },
+    {
+     "text": "The fame of a dead man's deeds.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 79,
+   "lines": [
+    {
+     "text": "Certain is that which is sought from runes,",
+     "indent": false
+    },
+    {
+     "text": "That the gods so great have made,",
+     "indent": true
+    },
+    {
+     "text": "And the Master-Poet painted;",
+     "indent": true
+    },
+    {
+     "text": "................",
+     "indent": false
+    },
+    {
+     "text": ".....of the race of gods:",
+     "indent": true
+    },
+    {
+     "text": "Silence is safest and best.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This stanza is certainly in bad shape, and probably out of place here. Its reference to runes as magic signs suggests that it properly belongs in some list of charms like the Ljothatal (stanzas 147-165). The stanza-form is so irregular as to show either that something has been lost or that there have been interpolations. The manuscript indicates no lacuna; Gering fills out the assumed gap as follows: \"Certain is that which is sought from runes, The runes—,\" etc."
+   ]
+  },
+  {
+   "n": 80,
+   "lines": [
+    {
+     "text": "An unwise man, if a maiden's love",
+     "indent": false
+    },
+    {
+     "text": "Or wealth he chances to win,",
+     "indent": false
+    },
+    {
+     "text": "His pride will wax, but his wisdom never,",
+     "indent": false
+    },
+    {
+     "text": "Straight forward he fares in conceit.",
+     "indent": true
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 81,
+   "lines": [
+    {
+     "text": "Give praise to the day at evening, to a woman on her pyre,",
+     "indent": false
+    },
+    {
+     "text": "To a weapon which is tried, to a maid at wedlock,",
+     "indent": false
+    },
+    {
+     "text": "To ice when it is crossed, to ale that is drunk.",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "With this stanza the verse-form, as indicated in the translation, abruptly changes to Malahattr. What has happened seems to have been something like this. Stanza 80 introduces the idea of man's love for woman. Consequently some reciter or compiler (or possibly even a copyist) took occasion to insert at this point certain stanzas concerning the ways of women. Thus stanza 80 would account for the introduction of stanzas 81 and 82, which, in turn, apparently drew stanza 83 in with them. Stanza 84 suggests the fickleness of women, and is immediately followed—again with a change of verse-form—by a list of things equally untrustworthy (stanzas 85-90). Then, after a few more stanzas on love in the regular measure of the Hovamol (stanzas 91-95), is introduced, by way of illustration, Othin's story of his adventure with Billing's daughter (stanzas 96-102). Some such process of growth, whatever its specific stages may have been, must be assumed to account for the curious chaos of the whole passage from stanza 81 to stanza 102."
+   ]
+  },
+  {
+   "n": 82,
+   "lines": [
+    {
+     "text": "When the gale blows hew wood, in fair winds seek the water;",
+     "indent": false
+    },
+    {
+     "text": "Sport with maidens at dusk, for day's eyes are many;",
+     "indent": false
+    },
+    {
+     "text": "From the ship seek swiftness, from the shield protection,",
+     "indent": false
+    },
+    {
+     "text": "Cuts from the sword, from the maiden kisses.",
+     "indent": false
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 83,
+   "lines": [
+    {
+     "text": "By the fire drink ale, over ice go on skates;",
+     "indent": false
+    },
+    {
+     "text": "Buy a steed that is lean, and a sword when tarnished,",
+     "indent": false
+    },
+    {
+     "text": "The horse at home fatten, the hound in thy dwelling.",
+     "indent": false
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 84,
+   "lines": [
+    {
+     "text": "A man shall trust not the oath of a maid,",
+     "indent": false
+    },
+    {
+     "text": "Nor the word a woman speaks;",
+     "indent": true
+    },
+    {
+     "text": "For their hearts on a whirling wheel were fashioned,",
+     "indent": false
+    },
+    {
+     "text": "And fickle their breasts were formed.",
+     "indent": true
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "Lines 3 and 4 are quoted in the Fostbrœthrasaga."
+   ]
+  },
+  {
+   "n": 85,
+   "lines": [
+    {
+     "text": "In a breaking bow or a burning flame,",
+     "indent": false
+    },
+    {
+     "text": "A ravening wolf or a croaking raven,",
+     "indent": false
+    },
+    {
+     "text": "In a grunting boar, a tree with roots broken,",
+     "indent": false
+    },
+    {
+     "text": "In billowy seas or a bubbling kettle,",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "Stanzas 85-88 and 90 are in Fornyrthislag, and clearly come from a different source from the rest of the Hovamol."
+   ]
+  },
+  {
+   "n": 86,
+   "lines": [
+    {
+     "text": "In a flying arrow or falling waters,",
+     "indent": false
+    },
+    {
+     "text": "In ice new formed or the serpent's folds,",
+     "indent": false
+    },
+    {
+     "text": "In a bride's bed-speech or a broken sword,",
+     "indent": false
+    },
+    {
+     "text": "In the sport of bears or in sons of kings,",
+     "indent": false
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 87,
+   "lines": [
+    {
+     "text": "In a calf that is sick or a stubborn thrall,",
+     "indent": false
+    },
+    {
+     "text": "A flattering witch or a foe new slain.",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "The stanza is doubtless incomplete. Some editors add from a late paper manuscript two lines running: \"In a light, clear sky or a laughing throng, In the howl of a dog or a harlot's grief.\""
+   ]
+  },
+  {
+   "n": 88,
+   "lines": [
+    {
+     "text": "In a brother's slayer, if thou meet him abroad,",
+     "indent": false
+    },
+    {
+     "text": "In a half-burned house, in a horse full swift—",
+     "indent": false
+    },
+    {
+     "text": "One leg is hurt and the horse is useless—",
+     "indent": false
+    },
+    {
+     "text": "None had ever such faith as to trust in them all.",
+     "indent": false
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "This stanza follows stanza 89 in the manuscript. Many editors have changed the order, for while stanza 89 is pretty clearly an interpolation wherever it stands, it seriously interferes with the sense if it breaks in between 87 and 88."
+   ]
+  },
+  {
+   "n": 89,
+   "lines": [
+    {
+     "text": "Hope not too surely for early harvest,",
+     "indent": false
+    },
+    {
+     "text": "Nor trust too soon in thy son;",
+     "indent": true
+    },
+    {
+     "text": "The field needs good weather, the son needs wisdom,",
+     "indent": false
+    },
+    {
+     "text": "And oft is either denied.",
+     "indent": true
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 90,
+   "lines": [
+    {
+     "text": "The love of women fickle of will",
+     "indent": false
+    },
+    {
+     "text": "Is like starting o'er ice with a steed unshod,",
+     "indent": false
+    },
+    {
+     "text": "A two-year-old restive and little tamed,",
+     "indent": false
+    },
+    {
+     "text": "Or steering a rudderless ship in a storm,",
+     "indent": false
+    },
+    {
+     "text": "Or, lame, hunting reindeer on slippery rocks.",
+     "indent": false
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 91,
+   "lines": [
+    {
+     "text": "Clear now will I speak, for I know them both,",
+     "indent": false
+    },
+    {
+     "text": "Men false to women are found;",
+     "indent": true
+    },
+    {
+     "text": "When fairest we speak, then falsest we think,",
+     "indent": false
+    },
+    {
+     "text": "Against wisdom we work with deceit.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 92,
+   "lines": [
+    {
+     "text": "Soft words shall he speak and wealth shall he offer",
+     "indent": false
+    },
+    {
+     "text": "Who longs for a maiden's love,",
+     "indent": true
+    },
+    {
+     "text": "And the beauty praise of the maiden bright;",
+     "indent": false
+    },
+    {
+     "text": "He wins whose wooing is best.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 93,
+   "lines": [
+    {
+     "text": "Fault for loving let no man find",
+     "indent": false
+    },
+    {
+     "text": "Ever with any other;",
+     "indent": true
+    },
+    {
+     "text": "Oft the wise are fettered, where fools go free,",
+     "indent": false
+    },
+    {
+     "text": "By beauty that breeds desire.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 94,
+   "lines": [
+    {
+     "text": "Fault with another let no man find",
+     "indent": false
+    },
+    {
+     "text": "For what touches many a man;",
+     "indent": true
+    },
+    {
+     "text": "Wise men oft into witless fools",
+     "indent": false
+    },
+    {
+     "text": "Are made by mighty love.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 95,
+   "lines": [
+    {
+     "text": "The head alone knows what dwells near the heart,",
+     "indent": false
+    },
+    {
+     "text": "A man knows his mind alone;",
+     "indent": true
+    },
+    {
+     "text": "No sickness is worse to one who is wise",
+     "indent": false
+    },
+    {
+     "text": "Than to lack the longed-for joy.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 96,
+   "lines": [
+    {
+     "text": "This found I myself, when I sat in the reeds,",
+     "indent": false
+    },
+    {
+     "text": "And long my love awaited;",
+     "indent": true
+    },
+    {
+     "text": "As my life the maiden wise I loved,",
+     "indent": false
+    },
+    {
+     "text": "Yet her I never had.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Here begins the passage (stanzas 96-102) illustrating the falseness of woman by the story of Othin's unsuccessful love-affair with Billing's daughter. Of this person we know nothing beyond what is here told, but the story needs little comment."
+   ]
+  },
+  {
+   "n": 97,
+   "lines": [
+    {
+     "text": "Billing's daughter I found on her bed,",
+     "indent": false
+    },
+    {
+     "text": "In slumber bright as the sun;",
+     "indent": true
+    },
+    {
+     "text": "Empty appeared an earl's estate",
+     "indent": false
+    },
+    {
+     "text": "Without that form so fair.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 98,
+   "lines": [
+    {
+     "text": "\"Othin, again at evening come,",
+     "indent": false
+    },
+    {
+     "text": "If a woman thou wouldst win;",
+     "indent": true
+    },
+    {
+     "text": "Evil it were if others than we",
+     "indent": false
+    },
+    {
+     "text": "Should know of such a sin.\"",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 99,
+   "lines": [
+    {
+     "text": "Away I hastened, hoping for joy,",
+     "indent": false
+    },
+    {
+     "text": "And careless of counsel wise;",
+     "indent": true
+    },
+    {
+     "text": "Well I believed that soon I should win",
+     "indent": false
+    },
+    {
+     "text": "Measureless joy with the maid.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 100,
+   "lines": [
+    {
+     "text": "So came I next when night it was,",
+     "indent": false
+    },
+    {
+     "text": "The warriors all were awake;",
+     "indent": true
+    },
+    {
+     "text": "With burning lights and waving brands",
+     "indent": false
+    },
+    {
+     "text": "I learned my luckless way.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 101,
+   "lines": [
+    {
+     "text": "At morning then, when once more I came,",
+     "indent": false
+    },
+    {
+     "text": "And all were sleeping still,",
+     "indent": true
+    },
+    {
+     "text": "A dog I found in the fair one's place,",
+     "indent": false
+    },
+    {
+     "text": "Bound there upon her bed.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 102,
+   "lines": [
+    {
+     "text": "Many fair maids, if a man but tries them,",
+     "indent": false
+    },
+    {
+     "text": "False to a lover are found;",
+     "indent": true
+    },
+    {
+     "text": "That did I learn when I longed to gain",
+     "indent": false
+    },
+    {
+     "text": "With wiles the maiden wise;",
+     "indent": true
+    },
+    {
+     "text": "Foul scorn was my meed from the crafty maid,",
+     "indent": false
+    },
+    {
+     "text": "And nought from the woman I won.",
+     "indent": true
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "Rask adds at the beginning of this stanza two lines from a late paper manuscript, running: \"Few are so good that false they are never To cheat the mind of a man.\" He makes these two lines plus lines 1 and 2 a full stanza, and lines 3, 4, 5, and 6 a second stanza."
+   ]
+  },
+  {
+   "n": 103,
+   "lines": [
+    {
+     "text": "Though glad at home, and merry with guests,",
+     "indent": false
+    },
+    {
+     "text": "A man shall be wary and wise;",
+     "indent": true
+    },
+    {
+     "text": "The sage and shrewd, wide wisdom seeking,",
+     "indent": false
+    },
+    {
+     "text": "Must see that his speech be fair;",
+     "indent": true
+    },
+    {
+     "text": "A fool is he named who nought can say,",
+     "indent": false
+    },
+    {
+     "text": "For such is the way of the witless.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "With this stanza the subject changes abruptly, and apparently the virtues of fair speech, mentioned in the last three lines, account for the introduction, from what source cannot be known, of the story of Othin and the mead of song (stanzas 104-110)."
+   ]
+  },
+  {
+   "n": 104,
+   "lines": [
+    {
+     "text": "I found the old giant, now back have I fared,",
+     "indent": false
+    },
+    {
+     "text": "Small gain from silence I got;",
+     "indent": true
+    },
+    {
+     "text": "Full many a word, my will to get,",
+     "indent": false
+    },
+    {
+     "text": "I spoke in Suttung's hall.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The giant Suttung (\"the old giant\") possessed the magic mead, a draught of which conferred the gift of poetry. Othin, desiring to obtain it, changed himself into a snake, bored his way through a mountain into Suttung's home, made love to the giant's daughter, Gunnloth, and by her connivance drank up all the mead. Then he flew away in the form of an eagle, leaving Gunnloth to her fate. While with Suttung he assumed the name of Bolverk (\"the Evil-Doer\")."
+   ]
+  },
+  {
+   "n": 105,
+   "lines": [
+    {
+     "text": "The mouth of Rati made room for my passage,",
+     "indent": false
+    },
+    {
+     "text": "And space in the stone he gnawed;",
+     "indent": true
+    },
+    {
+     "text": "Above and below the giants' paths lay,",
+     "indent": false
+    },
+    {
+     "text": "So rashly I risked my head.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Rati (\"the Traveller\"): the gimlet with which Othin bored through the mountain to reach Suttung's home."
+   ]
+  },
+  {
+   "n": 106,
+   "lines": [
+    {
+     "text": "Gunnloth gave on a golden stool",
+     "indent": false
+    },
+    {
+     "text": "A drink of the marvelous mead;",
+     "indent": true
+    },
+    {
+     "text": "A harsh reward did I let her have",
+     "indent": false
+    },
+    {
+     "text": "For her heroic heart,",
+     "indent": true
+    },
+    {
+     "text": "And her spirit troubled sore.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Probably either the fourth or the fifth line is a spurious addition."
+   ]
+  },
+  {
+   "n": 107,
+   "lines": [
+    {
+     "text": "The well-earned beauty well I enjoyed,",
+     "indent": false
+    },
+    {
+     "text": "Little the wise man lacks;",
+     "indent": true
+    },
+    {
+     "text": "So Othrörir now has up been brought",
+     "indent": false
+    },
+    {
+     "text": "To the midst of the men of earth.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Othrörir: here the name of the magic mead itself, whereas in stanza 141 it is the name of the vessel containing it. Othin had no intention of bestowing any of the precious mead upon men, but as he was flying over the earth, hotly pursued by Suttung, he spilled some of it out of his mouth, and in this way mankind also won the gift of poetry."
+   ]
+  },
+  {
+   "n": 108,
+   "lines": [
+    {
+     "text": "Hardly, methinks, would I home have come,",
+     "indent": false
+    },
+    {
+     "text": "And left the giants' land,",
+     "indent": true
+    },
+    {
+     "text": "Had not Gunnloth helped me, the maiden good,",
+     "indent": false
+    },
+    {
+     "text": "Whose arms about me had been.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 109,
+   "lines": [
+    {
+     "text": "The day that followed, the frost-giants came,",
+     "indent": false
+    },
+    {
+     "text": "Some word of Hor to win,",
+     "indent": true
+    },
+    {
+     "text": "(And into the hall of Hor;)",
+     "indent": true
+    },
+    {
+     "text": "Of Bolverk they asked, were he back midst the gods,",
+     "indent": false
+    },
+    {
+     "text": "Or had Suttung slain him there?",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Hor: Othin (\"the High One\"). The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza 110 was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods. The giants, of course, fail to get from Othin the information they seek concerning Bolverk, but Othin is keenly conscious of having violated the most sacred of oaths, that sworn on his ring."
+   ]
+  },
+  {
+   "n": 110,
+   "lines": [
+    {
+     "text": "On his ring swore Othin the oath, methinks;",
+     "indent": false
+    },
+    {
+     "text": "Who now his troth shall trust?",
+     "indent": true
+    },
+    {
+     "text": "Suttung's betrayal he sought with drink,",
+     "indent": false
+    },
+    {
+     "text": "And Gunnloth to grief he left.",
+     "indent": true
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 111,
+   "lines": [
+    {
+     "text": "It is time to chant from the chanter's stool;",
+     "indent": false
+    },
+    {
+     "text": "By the wells of Urth I was,",
+     "indent": true
+    },
+    {
+     "text": "I saw and was silent, I saw and thought,",
+     "indent": false
+    },
+    {
+     "text": "And heard the speech of Hor.",
+     "indent": true
+    },
+    {
+     "text": "(Of runes heard I words, nor were counsels wanting,",
+     "indent": false
+    },
+    {
+     "text": "At the hall of Hor,",
+     "indent": true
+    },
+    {
+     "text": "In the hall of Hor;",
+     "indent": true
+    },
+    {
+     "text": "Such was the speech I heard.)",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "With this stanza begins the Loddfafnismol (stanzas 111-138). Loddfafnir is apparently a wandering singer, who, from his \"chanter's stool,\" recites the verses which he claims to have received from Othin. Wells of Urth: cf. Voluspo, 19 and note. Urth (\"the Past\") is one of the three Norns. This stanza is apparently in corrupt form, and editors have tried many experiments with it, both in rejecting lines as spurious and in rearranging the words and punctuation. It looks rather as though the first four lines formed a complete stanza, and the last four had crept in later. The phrase translated \"the speech of Hor\" is \"Hova mol,\" later used as the title for the entire poem."
+   ]
+  },
+  {
+   "n": 112,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Rise not at night, save if news thou seekest,",
+     "indent": false
+    },
+    {
+     "text": "Or fain to the outhouse wouldst fare.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Lines 1-3 are the formula, repeated (abbreviated in the manuscript) in most of the stanzas, with which Othin prefaces his counsels to Loddfafnir, and throughout this section, except in stanzas 111 and 138, Loddfafnir represents himself as simply quoting Othin's words. The material is closely analogous to that contained in the first eighty stanzas of the poem. In some cases (e.g., stanzas 117, 119, 121, 126 and 130) the formula precedes a full four-line stanza instead of two (or three) lines."
+   ]
+  },
+  {
+   "n": 113,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Beware of sleep on a witch's bosom,",
+     "indent": false
+    },
+    {
+     "text": "Nor let her limbs ensnare thee.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 114,
+   "lines": [
+    {
+     "text": "Such is her might that thou hast no mind",
+     "indent": false
+    },
+    {
+     "text": "For the council or meeting of men;",
+     "indent": true
+    },
+    {
+     "text": "Meat thou hatest, joy thou hast not,",
+     "indent": false
+    },
+    {
+     "text": "And sadly to slumber thou farest.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 115,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Seek never to win the wife of another,",
+     "indent": false
+    },
+    {
+     "text": "Or long for her secret love.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 116,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "If o'er mountains or gulfs thou fain wouldst go,",
+     "indent": false
+    },
+    {
+     "text": "Look well to thy food for the way.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 117,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "An evil man thou must not let",
+     "indent": false
+    },
+    {
+     "text": "Bring aught of ill to thee;",
+     "indent": true
+    },
+    {
+     "text": "For an evil man will never make",
+     "indent": false
+    },
+    {
+     "text": "Reward for a worthy thought.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 118,
+   "lines": [
+    {
+     "text": "I saw a man who was wounded sore",
+     "indent": false
+    },
+    {
+     "text": "By an evil woman's word;",
+     "indent": true
+    },
+    {
+     "text": "A lying tongue his death-blow launched,",
+     "indent": false
+    },
+    {
+     "text": "And no word of truth there was.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 119,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "If a friend thou hast whom thou fully wilt trust,",
+     "indent": false
+    },
+    {
+     "text": "Then fare to find him oft;",
+     "indent": true
+    },
+    {
+     "text": "For brambles grow and waving grass",
+     "indent": false
+    },
+    {
+     "text": "On the rarely trodden road.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 120,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "A good man find to hold in friendship,",
+     "indent": false
+    },
+    {
+     "text": "And give heed to his healing charms.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 121,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Be never the first to break with thy friend",
+     "indent": false
+    },
+    {
+     "text": "The bond that holds you both;",
+     "indent": true
+    },
+    {
+     "text": "Care eats the heart if thou canst not speak",
+     "indent": false
+    },
+    {
+     "text": "To another all thy thought.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 122,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Exchange of words with a witless ape",
+     "indent": false
+    },
+    {
+     "text": "Thou must not ever make.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 123,
+   "lines": [
+    {
+     "text": "For never thou mayst from an evil man",
+     "indent": false
+    },
+    {
+     "text": "A good requital get;",
+     "indent": true
+    },
+    {
+     "text": "But a good man oft the greatest love",
+     "indent": false
+    },
+    {
+     "text": "Through words of praise will win thee.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 124,
+   "lines": [
+    {
+     "text": "Mingled is love when a man can speak",
+     "indent": false
+    },
+    {
+     "text": "To another all his thought;",
+     "indent": true
+    },
+    {
+     "text": "Nought is so bad as false to be,",
+     "indent": false
+    },
+    {
+     "text": "No friend speaks only fair.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 125,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "With a worse man speak not three words in dispute,",
+     "indent": false
+    },
+    {
+     "text": "Ill fares the better oft",
+     "indent": true
+    },
+    {
+     "text": "When the worse man wields a sword.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 126,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "A shoemaker be, or a maker of shafts,",
+     "indent": false
+    },
+    {
+     "text": "For only thy single self;",
+     "indent": true
+    },
+    {
+     "text": "If the shoe is ill made, or the shaft prove false,",
+     "indent": false
+    },
+    {
+     "text": "Then evil of thee men think.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 127,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "If evil thou knowest, as evil proclaim it,",
+     "indent": false
+    },
+    {
+     "text": "And make no friendship with foes.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 128,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "In evil never joy shalt thou know,",
+     "indent": false
+    },
+    {
+     "text": "But glad the good shall make thee.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 129,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Look not up when the battle is on,—",
+     "indent": false
+    },
+    {
+     "text": "(Like madmen the sons of men become,—)",
+     "indent": false
+    },
+    {
+     "text": "Lest men bewitch thy wits.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Line 5 is apparently interpolated."
+   ]
+  },
+  {
+   "n": 130,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "If thou fain wouldst win a woman's love,",
+     "indent": false
+    },
+    {
+     "text": "And gladness get from her,",
+     "indent": true
+    },
+    {
+     "text": "Fair be thy promise and well fulfilled;",
+     "indent": false
+    },
+    {
+     "text": "None loathes what good he gets.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 131,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "I bid thee be wary, but be not fearful;",
+     "indent": false
+    },
+    {
+     "text": "(Beware most with ale or another's wife,",
+     "indent": false
+    },
+    {
+     "text": "And third beware lest a thief outwit thee.)",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "Lines 5-6 probably were inserted from a different poem."
+   ]
+  },
+  {
+   "n": 132,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Scorn or mocking ne'er shalt thou make",
+     "indent": false
+    },
+    {
+     "text": "Of a guest or a journey-goer.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 133,
+   "lines": [
+    {
+     "text": "Oft scarcely he knows who sits in the house",
+     "indent": false
+    },
+    {
+     "text": "What kind is the man who comes;",
+     "indent": true
+    },
+    {
+     "text": "None so good is found that faults he has not,",
+     "indent": false
+    },
+    {
+     "text": "Nor so wicked that nought he is worth.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Many editors reject the last two lines of this stanza as spurious, putting the first two lines at the end of the preceding stanza. Others, attaching lines 3 and 4 to stanza 132, insert as the first two lines of stanza 133 two lines from a late paper manuscript, running: \"Evil and good do men's sons ever Mingled bear in their breasts.\""
+   ]
+  },
+  {
+   "n": 134,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Scorn not ever the gray-haired singer,",
+     "indent": false
+    },
+    {
+     "text": "Oft do the old speak good;",
+     "indent": true
+    },
+    {
+     "text": "(Oft from shrivelled skin come skillful counsels,",
+     "indent": false
+    },
+    {
+     "text": "Though it hang with the hides,",
+     "indent": true
+    },
+    {
+     "text": "And flap with the pelts,",
+     "indent": true
+    },
+    {
+     "text": "And is blown with the bellies.)",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Presumably the last four lines have been added to this stanza, for the parallelism in the last three makes it probable that they belong together. The wrinkled skin of the old man is compared with the dried skins and bellies of animals kept for various purposes hanging in an Icelandic house."
+   ]
+  },
+  {
+   "n": 135,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "Curse not thy guest, nor show him thy gate,",
+     "indent": false
+    },
+    {
+     "text": "Deal well with a man in want.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 136,
+   "lines": [
+    {
+     "text": "Strong is the beam that raised must be",
+     "indent": false
+    },
+    {
+     "text": "To give an entrance to all;",
+     "indent": true
+    },
+    {
+     "text": "Give it a ring, or grim will be",
+     "indent": false
+    },
+    {
+     "text": "The wish it would work on thee.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This stanza suggests the dangers of too much hospitality. The beam (bolt) which is ever being raised to admit guests becomes weak thereby. It needs a ring to help it in keeping the door closed, and without the ability at times to ward off guests a man becomes the victim of his own generosity."
+   ]
+  },
+  {
+   "n": 137,
+   "lines": [
+    {
+     "text": "I rede thee, Loddfafnir! and hear thou my rede,—",
+     "indent": false
+    },
+    {
+     "text": "Profit thou hast if thou hearest,",
+     "indent": true
+    },
+    {
+     "text": "Great thy gain if thou learnest:",
+     "indent": true
+    },
+    {
+     "text": "When ale thou drinkest, seek might of earth,",
+     "indent": false
+    },
+    {
+     "text": "(For earth cures drink, and fire cures ills,",
+     "indent": false
+    },
+    {
+     "text": "The oak cures tightness, the ear cures magic,",
+     "indent": false
+    },
+    {
+     "text": "Rye cures rupture, the moon cures rage,",
+     "indent": false
+    },
+    {
+     "text": "Grass cures the scab, and runes the sword-cut;)",
+     "indent": false
+    },
+    {
+     "text": "The field absorbs the flood.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The list of \"household remedies\" in this stanza is doubtless interpolated. Their nature needs no comment here."
+   ]
+  },
+  {
+   "n": 138,
+   "lines": [
+    {
+     "text": "Now are Hor's words spoken in the hall,",
+     "indent": false
+    },
+    {
+     "text": "Kind for the kindred of men,",
+     "indent": true
+    },
+    {
+     "text": "Cursed for the kindred of giants:",
+     "indent": true
+    },
+    {
+     "text": "Hail to the speaker, and to him who learns!",
+     "indent": false
+    },
+    {
+     "text": "Profit be his who has them!",
+     "indent": true
+    },
+    {
+     "text": "Hail to them who hearken!",
+     "indent": true
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "In the manuscript this stanza comes at the end of the entire poem, following stanza 165. Most recent editors have followed Müllenhoff in shifting it to this position, as it appears to conclude the passage introduced by the somewhat similar stanza 111."
+   ]
+  },
+  {
+   "n": 139,
+   "lines": [
+    {
+     "text": "I ween that I hung on the windy tree,",
+     "indent": false
+    },
+    {
+     "text": "Hung there for nights full nine;",
+     "indent": true
+    },
+    {
+     "text": "With the spear I was wounded, and offered I was",
+     "indent": false
+    },
+    {
+     "text": "To Othin, myself to myself,",
+     "indent": true
+    },
+    {
+     "text": "On the tree that none may ever know",
+     "indent": false
+    },
+    {
+     "text": "What root beneath it runs.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "With this stanza begins the most confusing part of the Hovamol: the group of eight stanzas leading up to the Ljothatal, or list of charms. Certain paper manuscripts have before this stanza a title: \"Othin's Tale of the Runes.\" Apparently stanzas 139, 140 and 142 are fragments of an account of how Othin obtained the runes; 141 is erroneously inserted from some version of the magic mead story (cf. stanzas 104-110); and stanzas 143, 144, 145, and 146 are from miscellaneous sources, all, however, dealing with the general subject of runes. With stanza 147 a clearly continuous passage begins once more. The windy tree: the ash Yggdrasil (literally \"the Horse of Othin,\" so called because of this story), on which Othin, in order to win the magic runes, hanged himself as an offering to himself, and wounded himself with his own spear. Lines 5 and 6 have presumably been borrowed from Svipdagsmol, 30."
+   ]
+  },
+  {
+   "n": 140,
+   "lines": [
+    {
+     "text": "None made me happy with loaf or horn,",
+     "indent": false
+    },
+    {
+     "text": "And there below I looked;",
+     "indent": true
+    },
+    {
+     "text": "I took up the runes, shrieking I took them,",
+     "indent": false
+    },
+    {
+     "text": "And forthwith back I fell.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 141,
+   "lines": [
+    {
+     "text": "Nine mighty songs I got from the son",
+     "indent": false
+    },
+    {
+     "text": "Of Bolthorn, Bestla's father;",
+     "indent": true
+    },
+    {
+     "text": "And a drink I got of the goodly mead",
+     "indent": false
+    },
+    {
+     "text": "Poured out from Othrörir.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This stanza, interrupting as it does the account of Othin's winning the runes, appears to be an interpolation. The meaning of the stanza is most obscure. Bolthorn was Othin's grandfather, and Bestla his mother. We do not know the name of the uncle here mentioned, but it has been suggested that this son of Bolthorn was Mimir (cf. Voluspo, 27 and note, and 47 and note). In any case, the nine magic songs which he learned from his uncle seem to have enabled him to win the magic mead (cf. stanzas 104-110). Concerning Othrörnir, here used as the name of the vessel containing the mead, cf. stanza 107 and note."
+   ]
+  },
+  {
+   "n": 142,
+   "lines": [
+    {
+     "text": "Then began I to thrive, and wisdom to get,",
+     "indent": false
+    },
+    {
+     "text": "I grew and well I was;",
+     "indent": true
+    },
+    {
+     "text": "Each word led me on to another word,",
+     "indent": false
+    },
+    {
+     "text": "Each deed to another deed.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 143,
+   "lines": [
+    {
+     "text": "Runes shalt thou find, and fateful signs,",
+     "indent": false
+    },
+    {
+     "text": "That the king of singers colored,",
+     "indent": true
+    },
+    {
+     "text": "And the mighty gods have made;",
+     "indent": true
+    },
+    {
+     "text": "Full strong the signs, full mighty the signs",
+     "indent": false
+    },
+    {
+     "text": "That the ruler of gods doth write.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This and the following stanza belong together, and in many editions appear as a single stanza. They presumably come from some lost poem on the authorship of the runes. Lines 2 and 3 follow line 4 in the manuscript; the transposition was suggested by Bugge. The king of singers: Othin. The magic signs (runes) were commonly carved in wood, then colored red."
+   ]
+  },
+  {
+   "n": 144,
+   "lines": [
+    {
+     "text": "Othin for the gods, Dain for the elves,",
+     "indent": false
+    },
+    {
+     "text": "And Dvalin for the dwarfs,",
+     "indent": true
+    },
+    {
+     "text": "Alsvith for giants and all mankind,",
+     "indent": false
+    },
+    {
+     "text": "And some myself I wrote.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Dain and Dvalin: dwarfs; cf. Voluspo, 14, and note. Dain, however, may here be one of the elves rather than the dwarf of that name. The two names also appear together in Grimnismol, 33, where they are applied to two of the four harts that nibble at the topmost twigs of Yggdrasil. Alsvith (\"the All-Wise\") appears nowhere else as a giant's name. Myself: Othin. We have no further information concerning the list of those who wrote the runes for the various races, and these four lines seem like a confusion of names in the rather hazy mind of some reciter."
+   ]
+  },
+  {
+   "n": 145,
+   "lines": [
+    {
+     "text": "Knowest how one shall write, knowest how one shall rede?",
+     "indent": false
+    },
+    {
+     "text": "Knowest how one shall tint, knowest how one makes trial?",
+     "indent": false
+    },
+    {
+     "text": "Knowest how one shall ask, knowest how one shall offer?",
+     "indent": false
+    },
+    {
+     "text": "Knowest how one shall send, knowest how one shall sacrifice?",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "This Malahattr stanza appears to be a regular religious formula, concerned less with the runes which one \"writes\" and \"tints\" (cf. stanza 79) than with the prayers which one \"asks\" and the sacrifices which one \"offers\" and \"sends.\" Its origin is wholly uncertain, but it is clearly an interpolation here. In the manuscripts the phrase \"knowest?\" is abbreviated after the first line."
+   ]
+  },
+  {
+   "n": 146,
+   "lines": [
+    {
+     "text": "Better no prayer than too big an offering,",
+     "indent": false
+    },
+    {
+     "text": "By thy getting measure thy gift;",
+     "indent": true
+    },
+    {
+     "text": "Better is none than too big a sacrifice,",
+     "indent": false
+    },
+    {
+     "text": "..............",
+     "indent": false
+    },
+    {
+     "text": "So Thund of old wrote ere man's race began,",
+     "indent": false
+    },
+    {
+     "text": "Where he rose on high when home he came.",
+     "indent": false
+    },
+    {
+     "text": "* * *",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "This stanza as translated here follows the manuscript reading, except in assuming a gap between lines 3 and 5. In Vigfusson and Powell's Corpus Poeticum Boreale the first three lines have somehow been expanded into eight. The last two lines are almost certainly misplaced; Bugge suggests that they belong at the end of stanza 144. Thund: another name for Othin. When home he came: presumably after obtaining the runes as described in stanzas 139 and 140."
+   ]
+  },
+  {
+   "n": 147,
+   "lines": [
+    {
+     "text": "The songs I know that king's wives know not,",
+     "indent": false
+    },
+    {
+     "text": "Nor men that are sons of men;",
+     "indent": true
+    },
+    {
+     "text": "The first is called help, and help it can bring thee",
+     "indent": false
+    },
+    {
+     "text": "In sorrow and pain and sickness.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "With this stanza begins the Ljothatal, or list of charms. The magic songs themselves are not given, but in each case the peculiar application of the charm is explained. The passage, which is certainly approximately complete as far as it goes, runs to the end of the poem. In the manuscript and in most editions line 4 falls into two half-lines, running: \"In sickness and pain and every sorrow.\""
+   ]
+  },
+  {
+   "n": 148,
+   "lines": [
+    {
+     "text": "A second I know, that men shall need",
+     "indent": false
+    },
+    {
+     "text": "Who leechcraft long to use;",
+     "indent": true
+    },
+    {
+     "text": "..............",
+     "indent": false
+    },
+    {
+     "text": ".............",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "Second, etc., appear in the manuscript as Roman numerals. The manuscript indicates no gap after line 2."
+   ]
+  },
+  {
+   "n": 149,
+   "lines": [
+    {
+     "text": "A third I know, if great is my need",
+     "indent": false
+    },
+    {
+     "text": "Of fetters to hold my foe;",
+     "indent": true
+    },
+    {
+     "text": "Blunt do I make mine enemy's blade,",
+     "indent": false
+    },
+    {
+     "text": "Nor bites his sword or staff.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 150,
+   "lines": [
+    {
+     "text": "A fourth I know, if men shall fasten",
+     "indent": false
+    },
+    {
+     "text": "Bonds on my bended legs;",
+     "indent": true
+    },
+    {
+     "text": "So great is the charm that forth I may go,",
+     "indent": false
+    },
+    {
+     "text": "The fetters spring from my feet,",
+     "indent": true
+    },
+    {
+     "text": "Broken the bonds from my hands.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 151,
+   "lines": [
+    {
+     "text": "A fifth I know, if I see from afar",
+     "indent": false
+    },
+    {
+     "text": "An arrow fly 'gainst the folk;",
+     "indent": true
+    },
+    {
+     "text": "It flies not so swift that I stop it not,",
+     "indent": false
+    },
+    {
+     "text": "If ever my eyes behold it.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 152,
+   "lines": [
+    {
+     "text": "A sixth I know, if harm one seeks",
+     "indent": false
+    },
+    {
+     "text": "With a sapling's roots to send me;",
+     "indent": true
+    },
+    {
+     "text": "The hero himself who wreaks his hate",
+     "indent": false
+    },
+    {
+     "text": "Shall taste the ill ere I.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The sending of a root with runes written thereon was an excellent way of causing death. So died the Icelandic hero Grettir the Strong."
+   ]
+  },
+  {
+   "n": 153,
+   "lines": [
+    {
+     "text": "A seventh I know, if I see in flames",
+     "indent": false
+    },
+    {
+     "text": "The hall o'er my comrades' heads;",
+     "indent": true
+    },
+    {
+     "text": "It burns not so wide that I will not quench it,",
+     "indent": false
+    },
+    {
+     "text": "I know that song to sing.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 154,
+   "lines": [
+    {
+     "text": "An eighth I know, that is to all",
+     "indent": false
+    },
+    {
+     "text": "Of greatest good to learn;",
+     "indent": true
+    },
+    {
+     "text": "When hatred grows among heroes' sons,",
+     "indent": false
+    },
+    {
+     "text": "I soon can set it right.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 155,
+   "lines": [
+    {
+     "text": "A ninth I know, if need there comes",
+     "indent": false
+    },
+    {
+     "text": "To shelter my ship on the flood;",
+     "indent": true
+    },
+    {
+     "text": "The wind I calm upon the waves,",
+     "indent": false
+    },
+    {
+     "text": "And the sea I put to sleep.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 156,
+   "lines": [
+    {
+     "text": "A tenth I know, what time I see",
+     "indent": false
+    },
+    {
+     "text": "House-riders flying on high;",
+     "indent": true
+    },
+    {
+     "text": "So can I work that wildly they go,",
+     "indent": false
+    },
+    {
+     "text": "Showing their true shapes,",
+     "indent": true
+    },
+    {
+     "text": "Hence to their own homes.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "House-riders: witches, who ride by night on the roofs of houses, generally in the form of wild beasts. Possibly one of the last two lines is spurious."
+   ]
+  },
+  {
+   "n": 157,
+   "lines": [
+    {
+     "text": "An eleventh I know, if needs I must lead",
+     "indent": false
+    },
+    {
+     "text": "To the fight my long-loved friends;",
+     "indent": true
+    },
+    {
+     "text": "I sing in the shields, and in strength they go",
+     "indent": false
+    },
+    {
+     "text": "Whole to the field of fight,",
+     "indent": true
+    },
+    {
+     "text": "Whole from the field of fight,",
+     "indent": true
+    },
+    {
+     "text": "And whole they come thence home.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The last line looks like an unwarranted addition, and line 4 may likewise be spurious."
+   ]
+  },
+  {
+   "n": 158,
+   "lines": [
+    {
+     "text": "A twelfth I know, if high on a tree",
+     "indent": false
+    },
+    {
+     "text": "I see a hanged man swing;",
+     "indent": true
+    },
+    {
+     "text": "So do I write and color the runes",
+     "indent": false
+    },
+    {
+     "text": "That forth he fares,",
+     "indent": true
+    },
+    {
+     "text": "And to me talks.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "Lines 4-5 are probably expanded from a single line."
+   ]
+  },
+  {
+   "n": 159,
+   "lines": [
+    {
+     "text": "A thirteenth I know, if a thane full young",
+     "indent": false
+    },
+    {
+     "text": "With water I sprinkle well;",
+     "indent": true
+    },
+    {
+     "text": "He shall not fall, though he fares mid the host,",
+     "indent": false
+    },
+    {
+     "text": "Nor sink beneath the swords.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "The sprinkling of a child with water was an established custom long before Christianity brought its conception of baptism."
+   ]
+  },
+  {
+   "n": 160,
+   "lines": [
+    {
+     "text": "A fourteenth I know, if fain I would name",
+     "indent": false
+    },
+    {
+     "text": "To men the mighty gods;",
+     "indent": true
+    },
+    {
+     "text": "All know I well of the gods and elves,—",
+     "indent": false
+    },
+    {
+     "text": "Few be the fools know this.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 161,
+   "lines": [
+    {
+     "text": "A fifteenth I know, that before the doors",
+     "indent": false
+    },
+    {
+     "text": "Of Delling sang Thjothrörir the dwarf;",
+     "indent": true
+    },
+    {
+     "text": "Might he sang for the gods, and glory for elves,",
+     "indent": false
+    },
+    {
+     "text": "And wisdom for Hroptatyr wise.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This stanza, according to Müllenhoff, was the original conclusion of the poem, the phrase \"a fifteenth\" being inserted only after stanzas 162-165 had crept in. Delling: a seldom mentioned god who married Not (Night). Their son was Dag (Day). Thjothrörir: not mentioned elsewhere. Hroptatyr: Othin."
+   ]
+  },
+  {
+   "n": 162,
+   "lines": [
+    {
+     "text": "A sixteenth I know, if I seek delight",
+     "indent": false
+    },
+    {
+     "text": "To win from a maiden wise;",
+     "indent": true
+    },
+    {
+     "text": "The mind I turn of the white-armed maid,",
+     "indent": false
+    },
+    {
+     "text": "And thus change all her thoughts.",
+     "indent": true
+    }
+   ],
+   "notes": []
+  },
+  {
+   "n": 163,
+   "lines": [
+    {
+     "text": "A seventeenth I know, so that seldom shall go",
+     "indent": false
+    },
+    {
+     "text": "A maiden young from me;",
+     "indent": true
+    },
+    {
+     "text": "................",
+     "indent": false
+    },
+    {
+     "text": "...............",
+     "indent": false
+    }
+   ],
+   "notes": [
+    "Some editors have combined these two lines with stanza 164. Others have assumed that the gap follows the first half-line, making \"so that—from me\" the end of the stanza."
+   ]
+  },
+  {
+   "n": 164,
+   "lines": [
+    {
+     "text": "Long these songs thou shalt, Loddfafnir,",
+     "indent": false
+    },
+    {
+     "text": "Seek in vain to sing;",
+     "indent": true
+    },
+    {
+     "text": "Yet good it were if thou mightest get them,",
+     "indent": false
+    },
+    {
+     "text": "Well, if thou wouldst them learn,",
+     "indent": true
+    },
+    {
+     "text": "Help, if thou hadst them.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This stanza is almost certainly an interpolation, and seems to have been introduced after the list of charms and the Loddfafnismol (stanzas 111-138) were combined in a single poem, for there is no other apparent excuse for the reference to Loddfafnir at this point. The words \"if thou mightest get them\" are a conjectural emendation."
+   ]
+  },
+  {
+   "n": 165,
+   "lines": [
+    {
+     "text": "An eighteenth I know, that ne'er will I tell",
+     "indent": false
+    },
+    {
+     "text": "To maiden or wife of man,—",
+     "indent": true
+    },
+    {
+     "text": "The best is what none but one's self doth know,",
+     "indent": false
+    },
+    {
+     "text": "So comes the end of the songs,—",
+     "indent": true
+    },
+    {
+     "text": "Save only to her in whose arms I lie,",
+     "indent": false
+    },
+    {
+     "text": "Or who else my sister is.",
+     "indent": true
+    }
+   ],
+   "notes": [
+    "This stanza is almost totally obscure. The third and fourth lines look like interpolations."
+   ]
+  }
+ ]
+}

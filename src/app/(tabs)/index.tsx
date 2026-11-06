@@ -7,6 +7,8 @@ import { Card } from '@/components/Card';
 import { KnotDivider } from '@/components/KnotDivider';
 import { MoonGlyph } from '@/components/MoonGlyph';
 import { Screen } from '@/components/Screen';
+import { DailyStanzaCard } from '@/features/daily/DailyStanzaCard';
+import { usePrep } from '@/features/prep/PrepContext';
 import { useSettings } from '@/features/settings/SettingsContext';
 import { daysBetween, fromDate } from '@/features/wheel/calendarDate';
 import { isOngoing } from '@/features/wheel/reckoning';
@@ -24,6 +26,7 @@ export default function HearthScreen() {
   const today = useToday();
   const upcoming = useUpcomingTides(today);
   const moon = useMoon(today);
+  const prep = usePrep();
 
   const [next, ...rest] = upcoming;
   const ongoing = next ? isOngoing(next, today) : false;
@@ -64,8 +67,15 @@ export default function HearthScreen() {
             {formatDate(next.start, 'weekdayLong')}
           </AppText>
           <AppText variant="callout">{t(`tides.${next.tide.id}.summary`)}</AppText>
+          <AppText variant="caption" color="accent">
+            {prep.doneCount(next) === next.tide.prepKeys.length
+              ? t('tide.prepDone')
+              : t('tide.prepProgress', { done: prep.doneCount(next), total: next.tide.prepKeys.length })}
+          </AppText>
         </Card>
       )}
+
+      <DailyStanzaCard today={today} />
 
       <Card>
         <AppText variant="overline" color="textMuted">

@@ -4,9 +4,11 @@ import { StyleSheet, View } from 'react-native';
 
 import { AppText } from '@/components/AppText';
 import { Card } from '@/components/Card';
+import { CheckboxRow } from '@/components/Checkbox';
 import { KnotDivider } from '@/components/KnotDivider';
 import { Screen } from '@/components/Screen';
 import { TierBadge } from '@/components/TierBadge';
+import { usePrep } from '@/features/prep/PrepContext';
 import { useSettings } from '@/features/settings/SettingsContext';
 import { daysBetween } from '@/features/wheel/calendarDate';
 import { isOngoing, ruleFor } from '@/features/wheel/reckoning';
@@ -23,6 +25,7 @@ export default function TideScreen() {
   const { colors } = useTheme();
   const { settings } = useSettings();
   const today = useToday();
+  const prep = usePrep();
   const tide = getTide(id);
   const [current, after] = useNextOccurrences(tide, today);
 
@@ -102,14 +105,26 @@ export default function TideScreen() {
         <AppText>{t(`${key}.observance`)}</AppText>
       </Section>
 
-      <Section title={t('tide.prepare')}>
-        {tide.prepKeys.map((prep) => (
-          <View key={prep} style={styles.bullet}>
-            <View style={[styles.bulletDot, { backgroundColor: colors.accent }]} />
-            <AppText style={styles.flex}>{t(`${key}.prep.${prep}`)}</AppText>
-          </View>
-        ))}
-      </Section>
+      {current && (
+        <Section title={t('tide.prepare')}>
+          <AppText variant="caption" color="textMuted">
+            {prep.doneCount(current) === tide.prepKeys.length
+              ? t('tide.prepDone')
+              : t('tide.prepProgress', { done: prep.doneCount(current), total: tide.prepKeys.length })}
+          </AppText>
+          {tide.prepKeys.map((item) => (
+            <CheckboxRow
+              key={item}
+              label={t(`${key}.prep.${item}`)}
+              checked={prep.isChecked(current, item)}
+              onToggle={() => prep.toggle(current, item)}
+            />
+          ))}
+          <AppText variant="caption" color="textMuted">
+            {t('tide.prepHelp', { name })}
+          </AppText>
+        </Section>
+      )}
 
       <Section title={t('tide.sources')}>
         {tide.sources.map((source) => (
@@ -144,6 +159,4 @@ const styles = StyleSheet.create({
   flex: { flex: 1 },
   rule: { borderTopWidth: StyleSheet.hairlineWidth, paddingTop: spacing.sm, marginTop: spacing.xs, gap: 2 },
   section: { gap: spacing.sm },
-  bullet: { flexDirection: 'row', alignItems: 'flex-start', gap: spacing.md },
-  bulletDot: { width: 6, height: 6, borderRadius: 3, marginTop: 9 },
 });

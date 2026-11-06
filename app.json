@@ -37,7 +37,14 @@
           "backgroundColor": "#14110F"
         }
       ],
-      "expo-localization"
+      "expo-localization",
+      [
+        "expo-notifications",
+        {
+          "color": "#E0A04B",
+          "enableRemoteNotifications": false
+        }
+      ]
     ]
   }
 }

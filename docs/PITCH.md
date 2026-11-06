@@ -93,7 +93,10 @@ Native **iOS and Android** from day one, built with **React Native + Expo**
 
 ## Funding model: "A gift calls for a gift"
 
-> *"Better not to pray than to over-sacrifice; a gift always looks for a gift."* (Hávamál 145)
+> *"Better no prayer than too big an offering, / By thy getting measure thy gift."*
+> (Hávamál 146, tr. Bellows 1923)
+>
+> *"To his friend a man a friend shall prove, / And gifts with gifts requite."* (Hávamál 42)
 
 **Rule: the gods, the sources and the practice are never behind a paywall.**
 

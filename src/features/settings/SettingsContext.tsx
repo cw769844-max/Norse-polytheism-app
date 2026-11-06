@@ -2,6 +2,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { getLocales } from 'expo-localization';
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 
+import { DEFAULT_REMINDER_PREFS, type ReminderPrefs } from '@/features/reminders/plan';
 import type { Hemisphere, Reckoning } from '@/features/wheel/types';
 
 import { guessHemisphere } from './hemisphere';
@@ -12,6 +13,7 @@ export interface Settings {
   reckoning: Reckoning;
   hemisphere: Hemisphere;
   appearance: Appearance;
+  reminders: ReminderPrefs;
 }
 
 const STORAGE_KEY = 'hearth.settings.v1';
@@ -23,7 +25,12 @@ function defaultSettings(): Settings {
   } catch {
     region = null;
   }
-  return { reckoning: 'solar', hemisphere: guessHemisphere(region), appearance: 'dark' };
+  return {
+    reckoning: 'solar',
+    hemisphere: guessHemisphere(region),
+    appearance: 'dark',
+    reminders: DEFAULT_REMINDER_PREFS,
+  };
 }
 
 interface SettingsValue {
@@ -45,7 +52,11 @@ export function SettingsProvider({ children }: { children: ReactNode }) {
       .then((raw) => {
         if (cancelled || !raw) return;
         const stored = JSON.parse(raw) as Partial<Settings>;
-        setSettings((current) => ({ ...current, ...stored }));
+        setSettings((current) => ({
+          ...current,
+          ...stored,
+          reminders: { ...current.reminders, ...stored.reminders },
+        }));
       })
       .catch(() => {
         // Corrupt or unavailable storage: keep defaults.

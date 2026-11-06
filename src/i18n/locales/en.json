@@ -84,7 +84,10 @@
     "sources": "Sources",
     "sourcesNote": "Every claim is labelled by how well it is supported. Citations are being reviewed by scholars of Old Norse.",
     "lasts_one": "Kept over {{count}} day",
-    "lasts_other": "Kept over {{count}} days"
+    "lasts_other": "Kept over {{count}} days",
+    "prepProgress": "{{done}} of {{total}} ready",
+    "prepDone": "All prepared",
+    "prepHelp": "Your checklist is saved on this device for this year's {{name}}."
   },
   "tier": {
     "attested": "Attested",
@@ -100,9 +103,17 @@
   },
   "well": {
     "title": "The Well",
-    "intro": "The lore library is being filled: the Hávamál and Völuspá first, then the rest of the Poetic and Prose Eddas and the sagas, in public-domain translations with the Old Norse alongside.",
+    "intro": "The primary sources, read in full. More of the Poetic Edda, the Prose Edda and the sagas will follow, with the Old Norse alongside.",
+    "library": "Library",
+    "stanzas_one": "{{count}} stanza",
+    "stanzas_other": "{{count}} stanzas",
+    "translatedBy": "Translated by {{translator}}, {{year}}",
     "tiersTitle": "How we label what we know",
-    "tiersIntro": "Heathenry today draws on surviving sources, scholarship, shared modern custom and personal experience. All of these have a place. We never blur them together."
+    "tiersIntro": "Heathenry today draws on surviving sources, scholarship, shared modern custom and personal experience. All of these have a place. We never blur them together.",
+    "poems": {
+      "havamal": "The sayings of the High One: Óðinn's counsel on hospitality, friendship, wisdom and the runes.",
+      "voluspa": "The seeress's prophecy: the making of the world, the gods' deeds, Ragnarǫk and the world reborn."
+    }
   },
   "settings": {
     "title": "Settings",
@@ -273,5 +284,96 @@
         "stores": "Take stock of what you have for the winter ahead"
       }
     }
+  },
+  "reminders": {
+    "title": "Reminders",
+    "toggle": "Holy tide reminders",
+    "toggleHelp": "A gentle note before each holy tide and on the day. Nothing else, ever.",
+    "unsupported": "Reminders are available in the iOS and Android apps.",
+    "lead": "When",
+    "leadOption": {
+      "0": "On the day only",
+      "1": "The day before, and on the day",
+      "3": "Three days before, and on the day",
+      "7": "A week before, and on the day"
+    },
+    "time": "Time of day",
+    "denied": "Notifications are turned off for Hearth & Well. You can allow them in your device settings.",
+    "openSettings": "Open device settings",
+    "channelName": "Holy tides",
+    "channelDescription": "Reminders before and on each holy tide",
+    "dayTitle": "{{name}} begins today",
+    "leadTitle_one": "{{name}} is tomorrow",
+    "leadTitle_other": "{{name}} is in {{count}} days",
+    "leadBody": "Open your checklist to prepare."
+  },
+  "daily": {
+    "title": "Stanza of the day",
+    "reflect": "Reflect",
+    "readInContext": "Read in context",
+    "prompts": {
+      "havamal-1": "Where in your life are you walking through a new door? What would it mean to enter it with open eyes?",
+      "havamal-3": "Who in your life has come in from the cold lately? What could you offer them?",
+      "havamal-4": "How do you welcome people into your home or your day? What would make that welcome warmer?",
+      "havamal-6": "When did you last keep your cleverness to yourself, and what did you learn by listening instead?",
+      "havamal-7": "In your next conversation, try simply to listen and watch. What do you notice that you usually miss?",
+      "havamal-10": "What wisdom do you carry that has helped you through hard times? Where did it come from?",
+      "havamal-15": "What would it look like to meet today bravely and gladly, whatever it brings?",
+      "havamal-19": "Where could more measure (in drink, in words, in effort) serve you well today?",
+      "havamal-22": "What fault in yourself have you been slow to see? How might you begin to mend it?",
+      "havamal-23": "What worry has kept you awake? Does the morning change it, or only your mood?",
+      "havamal-28": "What question could you ask someone today that would teach you something real?",
+      "havamal-34": "Which friend is far away but close in heart? How could you reach them this week?",
+      "havamal-36": "What do you have, however small, that is truly your own? How can you give thanks for it?",
+      "havamal-41": "What gift, of time, help or a thing made by hand, could you give a friend this week?",
+      "havamal-42": "Is there a gift you have received but not yet answered? How might you return it?",
+      "havamal-44": "Who do you trust fully? When did you last go to see them?",
+      "havamal-47": "Think of a time a companion made a lonely road easier. Who might need that from you now?",
+      "havamal-50": "Who around you may feel unloved or alone? What small thing could you do for them?",
+      "havamal-52": "Small kindnesses make lasting friends. What half-loaf could you share today?",
+      "havamal-53": "Where are you tempted to think you have the whole truth? What might you still not know?",
+      "havamal-56": "What would change if you stopped trying to see what is coming, and lived today well?",
+      "havamal-57": "Whose words have kindled something in you? What fire could your words light for someone else?",
+      "havamal-59": "What task have you been putting off that would be half done if you simply began?",
+      "havamal-61": "Where are you holding back for fear of not looking good enough? What if you went anyway?",
+      "havamal-63": "Who is the one person you can tell your thoughts to? What would you like to tell them?",
+      "havamal-68": "Fire, sunlight, health and a clean life: which of these gifts are you most thankful for today?",
+      "havamal-69": "On a hard day, where do you still find joy: in kin, in work, in what you have?",
+      "havamal-72": "Who among your ancestors deserves remembering? How could you honour them?",
+      "havamal-75": "Who have you been quick to look down on? What would it take to set that scorn aside?",
+      "havamal-77": "What do you want to be remembered for? What did you do today toward it?",
+      "havamal-81": "What are you judging too early? What would it mean to wait and see how it turns out?",
+      "havamal-89": "Where are you counting on a harvest before the season has turned? How can you tend it patiently?",
+      "havamal-95": "What is close to your heart that no one else knows? How are you caring for it?",
+      "havamal-103": "How can you be both joyful and wise in company today?",
+      "havamal-111": "Óðinn saw, was silent, and thought. Spend a few minutes in silence today. What comes to you?",
+      "havamal-119": "Which friendship is becoming an overgrown path? What could you do to walk it again?",
+      "havamal-121": "Is there something you have been carrying alone that you could share with a friend?",
+      "havamal-124": "Who can you speak to honestly, without pretending? How do you keep that friendship true?",
+      "havamal-131": "Where is caution serving you, and where has it turned into fear?",
+      "havamal-133": "Think of someone you find difficult. What good can you see in them?",
+      "havamal-134": "What has an older person taught you that you still carry? Who could you ask for counsel now?",
+      "havamal-135": "Who in your community is in want? What could you do for them this week?",
+      "havamal-139": "Óðinn gave himself to himself to win the runes. What would you be willing to give for wisdom?",
+      "havamal-142": "What small deed today could lead to another good deed, and another?",
+      "havamal-146": "What offering is right for you to give, not too great and not too small? How does a gift call for a gift?",
+      "voluspa-18": "Breath, sense, warmth and colour were gifts of the gods. How can you honour the life you were given?",
+      "voluspa-19": "Yggdrasil is kept green by the well at its root. What keeps you green and growing?",
+      "voluspa-20": "The Norns shape what is. What in your life is already laid down, and what is still being shaped by you?",
+      "voluspa-59": "After the end, the earth rises green again. What in your life is ready to begin anew?"
+    }
+  },
+  "reader": {
+    "translatorIntro": "Translator's introduction",
+    "showIntro": "Show introduction",
+    "hideIntro": "Hide introduction",
+    "numbering": "Stanza numbers follow Bellows' edition and differ slightly from some others.",
+    "tierNote": "A primary source in translation. The translator's notes are early 20th-century scholarship; some of their views are now dated.",
+    "stanza": "Stanza {{n}}",
+    "note_one": "Translator's note",
+    "note_other": "Translator's notes",
+    "hideNote": "Hide note",
+    "gap": "Lines lost or omitted",
+    "source": "Public-domain text from Wikisource"
   }
 }

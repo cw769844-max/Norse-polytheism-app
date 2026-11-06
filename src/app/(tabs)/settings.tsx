@@ -6,6 +6,7 @@ import { AppText } from '@/components/AppText';
 import { Card } from '@/components/Card';
 import { OptionGroup } from '@/components/OptionGroup';
 import { Screen } from '@/components/Screen';
+import { ReminderSettings } from '@/features/reminders/ReminderSettings';
 import { useSettings, type Appearance } from '@/features/settings/SettingsContext';
 import type { Hemisphere, Reckoning } from '@/features/wheel/types';
 import { spacing } from '@/theme/tokens';
@@ -43,6 +44,8 @@ export default function SettingsScreen() {
         onChange={(hemisphere) => update({ hemisphere })}
         options={HEMISPHERES.map((value) => ({ value, label: t(`settings.hemisphereOption.${value}`) }))}
       />
+
+      <ReminderSettings />
 
       <OptionGroup
         title={t('settings.appearance')}

@@ -40,7 +40,7 @@ export function OptionGroup<T extends string>({ title, help, options, value, onC
               key={option.value}
               onPress={() => onChange(option.value)}
               accessibilityRole="radio"
-              accessibilityState={{ checked: selected }}
+              aria-checked={selected}
               accessibilityLabel={option.label}
               accessibilityHint={option.description}
               style={({ pressed }) => [
