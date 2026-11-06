@@ -21,6 +21,10 @@ and the funding model.
   translation, with his introductions and notes, and the Old Norse text he
   translated (Hildebrand–Gering, 1904) alongside. Readers choose English, Old
   Norse, or both. All public domain.
+- **Runes**: the sixteen Younger Futhark runes (long-branch or short-twig forms)
+  with their verses from the Norwegian and Icelandic rune poems in Old Norse and
+  English (Dickins, 1915), the Elder Futhark with reconstructed names clearly
+  marked, and a once-a-day draw-and-reflect.
 - **The Hearth** home screen: the next holy tide and its prep progress, a stanza of
   the day with a reflection prompt, today's moon phase, and what's coming up.
 - **Settings**: reckoning, hemisphere, reminders and appearance, saved on the device.
@@ -50,21 +54,25 @@ The `ios/` and `android/` folders are generated; don't edit them by hand.
 ```
 src/
   app/                  Expo Router screens (every file is a route)
-    (tabs)/             Hearth, Wheel, Well, Settings
+    (tabs)/             Hearth, Wheel, Well, Runes, Settings
     tide/[id].tsx       Holy tide detail
+    rune/[id].tsx       Rune detail (Younger and Elder)
+    well/[poem].tsx     Edda reader
   components/           Shared UI (AppText, Card, TierBadge, MoonGlyph, …)
   content/poems/        Imported Eddic poems (JSON) and their types
+  content/runes/        Futhark data and the rune poems
   features/
     daily/              Stanza of the day
     prep/               Saved prep checklists
     reminders/          Holy-tide notifications (planning is pure and tested)
+    runes/              Rune grid, glyphs, daily draw
     settings/           Settings context (AsyncStorage)
     well/               Stanza layout for the reader
     wheel/              Calendar engine, tide definitions, dial
   i18n/                 i18next setup, date formatting, locale files
   theme/                Design tokens and theme provider
 docs/                   Pitch and content guidelines
-content-sources/        Transcribed source texts (Old Norse)
+content-sources/        Transcribed source texts (Old Norse, rune poems)
 scripts/                Content import tools
 ```
 
@@ -97,6 +105,7 @@ our transcription of the Old Norse in
 ```bash
 pip install beautifulsoup4
 python3 -I scripts/import_bellows.py --cache /tmp/bellows-cache
+python3 -I scripts/import_rune_poems.py
 ```
 
 ## Testing reminders

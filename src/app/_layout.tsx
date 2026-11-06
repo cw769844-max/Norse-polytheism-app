@@ -6,6 +6,7 @@ import {
   EBGaramond_600SemiBold,
 } from '@expo-google-fonts/eb-garamond';
 import { Inter_400Regular, Inter_500Medium, Inter_600SemiBold } from '@expo-google-fonts/inter';
+import { NotoSansRunic_400Regular } from '@expo-google-fonts/noto-sans-runic';
 import { useFonts } from 'expo-font';
 import {
   DarkTheme,
@@ -36,6 +37,7 @@ export default function RootLayout() {
     Inter_400Regular,
     Inter_500Medium,
     Inter_600SemiBold,
+    NotoSansRunic_400Regular,
   });
 
   return (
@@ -113,6 +115,7 @@ function ReadyNavigator({
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
         <Stack.Screen name="tide/[id]" options={{ title: '' }} />
         <Stack.Screen name="well/[poem]" options={{ title: '' }} />
+        <Stack.Screen name="rune/[id]" options={{ title: '' }} />
       </Stack>
     </NavigationThemeProvider>
   );

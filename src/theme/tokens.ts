@@ -111,6 +111,7 @@ export const fonts = {
   body: 'Inter_400Regular',
   bodyMedium: 'Inter_500Medium',
   bodySemiBold: 'Inter_600SemiBold',
+  runic: 'NotoSansRunic_400Regular',
 } as const;
 
 export const spacing = {

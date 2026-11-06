@@ -2,6 +2,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { getLocales } from 'expo-localization';
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 
+import type { RuneStyle } from '@/content/runes/futhark';
 import { DEFAULT_REMINDER_PREFS, type ReminderPrefs } from '@/features/reminders/plan';
 import type { ReaderLanguage } from '@/features/well/StanzaView';
 import type { Hemisphere, Reckoning } from '@/features/wheel/types';
@@ -17,6 +18,8 @@ export interface Settings {
   reminders: ReminderPrefs;
   /** Which text the Edda reader shows. */
   readerLanguage: ReaderLanguage;
+  /** Long-branch or short-twig forms of the Younger Futhark. */
+  runeStyle: RuneStyle;
 }
 
 const STORAGE_KEY = 'hearth.settings.v1';
@@ -34,6 +37,7 @@ function defaultSettings(): Settings {
     appearance: 'dark',
     reminders: DEFAULT_REMINDER_PREFS,
     readerLanguage: 'both',
+    runeStyle: 'longBranch',
   };
 }
 

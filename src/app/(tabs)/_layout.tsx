@@ -9,6 +9,7 @@ const TABS: { name: string; icon: TabIconName; titleKey: string }[] = [
   { name: 'index', icon: 'hearth', titleKey: 'tabs.hearth' },
   { name: 'wheel', icon: 'wheel', titleKey: 'tabs.wheel' },
   { name: 'well', icon: 'well', titleKey: 'tabs.well' },
+  { name: 'runes', icon: 'runes', titleKey: 'tabs.runes' },
   { name: 'settings', icon: 'settings', titleKey: 'tabs.settings' },
 ];
 

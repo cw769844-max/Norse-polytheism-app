@@ -69,8 +69,9 @@ Native **iOS and Android** from day one, built with **React Native + Expo**
 ### 4. Runes
 - **Younger Futhark is the primary reference.** It was the script of the Viking
   Age (in use from roughly the 8th century), the period whose religion the Eddas
-  remember, and it is the only futhark with Norse rune poems: the Norwegian
-  (*Rúnakvæði*) and Icelandic (*Rúnaþulur*) rune poems both describe its 16 runes.
+  remember, and it is the only futhark with Norse rune poems: the Norwegian rune
+  poem (13th century) and the Icelandic rune poem (15th century) both describe
+  its 16 runes. *(Built: Runes tab with both poems from Dickins' 1915 edition.)*
 - The Eddic poems themselves were never written in runes: they survive in Latin
   script in 13th-century Icelandic manuscripts such as the Codex Regius.
 - **Elder Futhark** (24 runes, c. 2nd–8th centuries) is included as the historical

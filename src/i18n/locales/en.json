@@ -6,7 +6,8 @@
     "hearth": "Hearth",
     "wheel": "Wheel",
     "well": "Well",
-    "settings": "Settings"
+    "settings": "Settings",
+    "runes": "Runes"
   },
   "common": {
     "today": "Today",
@@ -386,5 +387,186 @@
     "originalEdition": "Old Norse text: {{editors}}, {{year}} (the edition Bellows translated). Public domain.",
     "originalNumber": "Stanza {{n}} in the Old Norse edition",
     "editorialMarks": "In the Old Norse, [brackets] mark lines the editors thought were later additions, † marks a corrupt word, and dots mark lost lines."
+  },
+  "runes": {
+    "title": "Runes",
+    "intro": "The Younger Futhark was the runic script of the Viking Age, the world the Eddas remember. Its sixteen runes are the only ones the Norse rune poems describe. The Eddas themselves were never written in runes: they survive in the Latin alphabet, in Icelandic manuscripts of the 13th century.",
+    "younger": "Younger Futhark",
+    "elder": "Elder Futhark",
+    "youngerCount": "16 runes · Viking Age, c. 8th–12th centuries",
+    "elderCount": "24 runes · earliest inscriptions, c. 2nd–8th centuries",
+    "youngerAbout": "The meanings come from the Norwegian rune poem (13th century) and the Icelandic rune poem (15th century), both written down in Christian times.",
+    "elderAbout": "No Norse poem describes these runes. Their names are reconstructed from the later Norse, Anglo-Saxon and Gothic rune names, so they are marked with an asterisk.",
+    "style": "Rune forms",
+    "styleOption": {
+      "longBranch": "Long-branch",
+      "shortTwig": "Short-twig"
+    },
+    "styleHelp": "Long-branch runes were usual in Denmark; short-twig runes, quicker to carve, in Sweden and Norway.",
+    "sound": "Sound: {{sound}}",
+    "meaning": "Meaning",
+    "nameMeaning": "The name means",
+    "meaningUncertain": "The meaning of this name is uncertain.",
+    "forms": "Long-branch {{long}} · Short-twig {{short}}",
+    "norwegianPoem": "The Norwegian rune poem",
+    "icelandicPoem": "The Icelandic rune poem",
+    "gloss": "Latin gloss “{{latin}}” · word for “king” “{{king}}”",
+    "glossHelp": "Each Icelandic stanza ends with a Latin translation of the rune’s name and an alliterating word for “king”.",
+    "ancestor": "Descends from the Elder Futhark rune {{name}}",
+    "descendant": "Continues in the Younger Futhark as {{name}}",
+    "writtenWith": "Dropped from the Younger Futhark. Its sound was then written with {{name}}.",
+    "noDescendant": "Dropped from the Younger Futhark.",
+    "reflect": "A question to sit with",
+    "reflectNote": "Our own words, inspired by the poems. Not a traditional meaning.",
+    "modernNote": "Modern esoteric and divinatory meanings are not ancient; when we add them they will be clearly labelled.",
+    "sourceNote": "Rune poems: {{editor}}, {{title}} ({{year}}). Public domain.",
+    "draw": {
+      "title": "Today’s rune",
+      "prompt": "Draw one rune to reflect on today. This is for contemplation, not fortune-telling.",
+      "button": "Draw a rune",
+      "again": "A new rune can be drawn tomorrow.",
+      "open": "Read and reflect"
+    },
+    "tile": "{{name}}, sound {{sound}}",
+    "youngerRunes": {
+      "fe": {
+        "meaning": "wealth, cattle",
+        "prompt": "Both poems call wealth a source of strife among kin. Where does what you have draw people together, and where does it set them apart?"
+      },
+      "ur": {
+        "meaning": "slag (Norwegian poem); drizzle, shower (Icelandic poem)",
+        "prompt": "Dross comes from bad iron, yet the reindeer runs over the frozen snow. What hardship has shown you what you are made of?"
+      },
+      "thurs": {
+        "meaning": "giant",
+        "prompt": "The giant brings torment, and misfortune cheers few. What overwhelming force are you facing, and who could stand beside you?"
+      },
+      "oss": {
+        "meaning": "god (Icelandic poem); river-mouth (Norwegian poem)",
+        "prompt": "The god is aged Gautr: Óðinn, lord of Valhalla, who gave much for wisdom. What are you willing to give to understand more?"
+      },
+      "reid": {
+        "meaning": "riding, journey",
+        "prompt": "Riding is joy for the rider and toil for the horse. Whose effort carries you forward, and how do you repay it?"
+      },
+      "kaun": {
+        "meaning": "sore, ulcer",
+        "prompt": "A sore drains the colour from a face. What wound, in body or heart, needs your care instead of your neglect?"
+      },
+      "hagall": {
+        "meaning": "hail",
+        "prompt": "Hail is the coldest of grain, yet it falls on the growing fields. What has come to you hard that may still feed you?"
+      },
+      "naudr": {
+        "meaning": "need, constraint",
+        "prompt": "Need leaves little choice. When your options are few, what do you choose to hold on to?"
+      },
+      "iss": {
+        "meaning": "ice",
+        "prompt": "Ice is a broad bridge, but the blind must be led across. Where are you standing on something that may not hold, and who could guide you?"
+      },
+      "ar": {
+        "meaning": "year, plenty, harvest",
+        "prompt": "Plenty is a boon to all, and Fróði was generous. How could you share the good your year has brought?"
+      },
+      "sol": {
+        "meaning": "sun",
+        "prompt": "The sun is the light of the lands and the destroyer of ice. What warms you, and whom could you warm today?"
+      },
+      "tyr": {
+        "meaning": "the god Týr",
+        "prompt": "Týr gave his hand so the wolf could be bound. What have you given up, or would you give up, to keep faith with others?"
+      },
+      "bjarkan": {
+        "meaning": "birch",
+        "prompt": "The birch is small, leafy and young. What is new and growing in your life that needs tending?"
+      },
+      "madr": {
+        "meaning": "man, human being",
+        "prompt": "\"Man is the delight of man,\" as the Hávamál also says. Whose company delights you, and do they know it?"
+      },
+      "logr": {
+        "meaning": "water, sea",
+        "prompt": "Water falls from the mountain and the cauldron boils over. What is moving in you that needs an outlet?"
+      },
+      "yr": {
+        "meaning": "yew; a bow of yew",
+        "prompt": "The yew stays green in winter and bends into a bow. Where do you need to bend without breaking?"
+      }
+    },
+    "elderRunes": {
+      "fehu": {
+        "meaning": "cattle, wealth"
+      },
+      "uruz": {
+        "meaning": "aurochs (wild ox)"
+      },
+      "thurisaz": {
+        "meaning": "giant"
+      },
+      "ansuz": {
+        "meaning": "a god, one of the Æsir"
+      },
+      "raido": {
+        "meaning": "riding, journey"
+      },
+      "kaunan": {
+        "meaning": "sore, ulcer; some scholars prefer \"torch\""
+      },
+      "gebo": {
+        "meaning": "gift"
+      },
+      "wunjo": {
+        "meaning": "joy"
+      },
+      "hagalaz": {
+        "meaning": "hail"
+      },
+      "naudiz": {
+        "meaning": "need, constraint"
+      },
+      "isaz": {
+        "meaning": "ice"
+      },
+      "jera": {
+        "meaning": "year, harvest"
+      },
+      "eihwaz": {
+        "meaning": "yew"
+      },
+      "pertho": {
+        "meaning": "unknown"
+      },
+      "algiz": {
+        "meaning": "uncertain: perhaps \"elk\" or \"protection\""
+      },
+      "sowilo": {
+        "meaning": "sun"
+      },
+      "tiwaz": {
+        "meaning": "the god Týr"
+      },
+      "berkanan": {
+        "meaning": "birch"
+      },
+      "ehwaz": {
+        "meaning": "horse"
+      },
+      "mannaz": {
+        "meaning": "man, human being"
+      },
+      "laguz": {
+        "meaning": "water, lake; some scholars prefer \"leek\""
+      },
+      "ingwaz": {
+        "meaning": "the god Ing (Yngvi-Freyr)"
+      },
+      "dagaz": {
+        "meaning": "day"
+      },
+      "othala": {
+        "meaning": "inherited land, ancestral home"
+      }
+    }
   }
 }

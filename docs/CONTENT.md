@@ -49,8 +49,12 @@ festival itself is modern, say so (see Freyfaxi).
 - Younger Futhark is the primary reference; Elder Futhark is included as its
   historical predecessor and for modern practice.
 - Rune meanings come first from the Norwegian and Icelandic rune poems
-  (📜 Attested), in a public-domain edition such as Bruce Dickins, *Runic and
-  Heroic Poems of the Old Teutonic Peoples* (1915), with the Old Norse alongside.
+  (📜 Attested), transcribed from Bruce Dickins, *Runic and Heroic Poems of the
+  Old Teutonic Peoples* (1915) in `content-sources/dickins-1915/` and generated
+  by `scripts/import_rune_poems.py`. Fix the transcription there, not the JSON.
+- Glyphs are Unicode code points chosen by their Unicode names (long-branch and
+  short-twig forms are named separately); see `src/content/runes/futhark.ts`.
+- Reflection prompts on rune pages are our own words and are labelled that way.
 - Elder Futhark rune names (*fehu*, *ūruz*, …) are reconstructions (🔬 Scholarly).
 - Divinatory and esoteric meanings are modern (🔥 Community or 🌙 UPG) and are
   always labelled as such.

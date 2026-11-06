@@ -1,0 +1,952 @@
+{
+ "edition": {
+  "editor": "Bruce Dickins",
+  "title": "Runic and Heroic Poems of the Old Teutonic Peoples",
+  "publisher": "Cambridge University Press",
+  "year": 1915,
+  "license": "Public domain",
+  "source": "https://en.wikisource.org/wiki/Index:Runic_and_heroic_poems_of_the_old_Teutonic_peoples.djvu"
+ },
+ "poems": {
+  "norwegian": {
+   "id": "norwegian",
+   "title": "The Norwegian Rune Poem",
+   "stanzas": [
+    {
+     "n": 1,
+     "original": [
+      {
+       "text": "Fé vældr frænda róge;",
+       "indent": false
+      },
+      {
+       "text": "føðesk ulfr í skóge.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Wealth is a source of discord among kinsmen;",
+       "indent": false
+      },
+      {
+       "text": "the wolf lives in the forest.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "original": [
+      {
+       "text": "Úr er af illu jarne;",
+       "indent": false
+      },
+      {
+       "text": "opt løypr ræinn á hjarne.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Dross comes from bad iron;",
+       "indent": false
+      },
+      {
+       "text": "the reindeer often races over the frozen snow.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "original": [
+      {
+       "text": "Þurs vældr kvinna kvillu;",
+       "indent": false
+      },
+      {
+       "text": "kátr værðr fár af illu.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Giant causes anguish to women;",
+       "indent": false
+      },
+      {
+       "text": "misfortune makes few men cheerful.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "original": [
+      {
+       "text": "Óss er flæstra færða",
+       "indent": false
+      },
+      {
+       "text": "fǫr; en skalpr er sværða.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Estuary is the way of most journeys;",
+       "indent": false
+      },
+      {
+       "text": "but a scabbard is of swords.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "original": [
+      {
+       "text": "Ræið kveða rossom væsta;",
+       "indent": false
+      },
+      {
+       "text": "Reginn sló sværðet bæzta.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Riding is said to be the worst thing for horses;",
+       "indent": false
+      },
+      {
+       "text": "Reginn forged the finest sword.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "original": [
+      {
+       "text": "Kaun er barna bǫlvan;",
+       "indent": false
+      },
+      {
+       "text": "bǫl gǫrver nán fǫlvan.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Ulcer is fatal to children;",
+       "indent": false
+      },
+      {
+       "text": "death makes a corpse pale.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "original": [
+      {
+       "text": "Hagall er kaldastr korna;",
+       "indent": false
+      },
+      {
+       "text": "Kristr skóp hæimenn forna.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Hail is the coldest of grain;",
+       "indent": false
+      },
+      {
+       "text": "Christ created the world of old.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "original": [
+      {
+       "text": "Nauðr gerer næppa koste;",
+       "indent": false
+      },
+      {
+       "text": "nǫktan kælr í froste.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Constraint gives scant choice;",
+       "indent": false
+      },
+      {
+       "text": "a naked man is chilled by the frost.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "original": [
+      {
+       "text": "Ís kǫllum brú bræiða;",
+       "indent": false
+      },
+      {
+       "text": "blindan þarf at læiða.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Ice we call the broad bridge;",
+       "indent": false
+      },
+      {
+       "text": "the blind man must be led.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "original": [
+      {
+       "text": "Ár er gumna góðe;",
+       "indent": false
+      },
+      {
+       "text": "get ek at ǫrr var Fróðe.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Plenty is a boon to men;",
+       "indent": false
+      },
+      {
+       "text": "I say that Frothi was generous.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "original": [
+      {
+       "text": "Sól er landa ljóme;",
+       "indent": false
+      },
+      {
+       "text": "lúti ek helgum dóme.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Sun is the light of the world;",
+       "indent": false
+      },
+      {
+       "text": "I bow to the divine decree.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "original": [
+      {
+       "text": "Týr er æinendr ása;",
+       "indent": false
+      },
+      {
+       "text": "opt værðr smiðr blása.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Tyr is a one-handed god;",
+       "indent": false
+      },
+      {
+       "text": "often has the smith to blow.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "original": [
+      {
+       "text": "Bjarkan er laufgrønstr líma;",
+       "indent": false
+      },
+      {
+       "text": "Loki bar flærða tíma.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Birch has the greenest leaves of any shrub;",
+       "indent": false
+      },
+      {
+       "text": "Loki was fortunate in his deceit.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "original": [
+      {
+       "text": "Maðr er moldar auki;",
+       "indent": false
+      },
+      {
+       "text": "mikil er græip á hauki.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Man is an augmentation of the dust;",
+       "indent": false
+      },
+      {
+       "text": "great is the claw of the hawk.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "original": [
+      {
+       "text": "Lǫgr er, fællr ór fjalle",
+       "indent": false
+      },
+      {
+       "text": "foss; en gull ero nosser.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "A waterfall is a River which falls from a mountain-side;",
+       "indent": false
+      },
+      {
+       "text": "but ornaments are of gold.",
+       "indent": true
+      }
+     ]
+    },
+    {
+     "n": 16,
+     "original": [
+      {
+       "text": "Ýr er vetrgrønstr viða;",
+       "indent": false
+      },
+      {
+       "text": "vænt er, er brennr, at sviða.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Yew is the greenest of trees in winter;",
+       "indent": false
+      },
+      {
+       "text": "it is wont to crackle when it burns.",
+       "indent": true
+      }
+     ]
+    }
+   ]
+  },
+  "icelandic": {
+   "id": "icelandic",
+   "title": "The Icelandic Rune Poem",
+   "stanzas": [
+    {
+     "n": 1,
+     "original": [
+      {
+       "text": "Fé er frænda róg",
+       "indent": false
+      },
+      {
+       "text": "ok flæðar viti",
+       "indent": true
+      },
+      {
+       "text": "ok grafseiðs gata",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Wealth = source of discord among kinsmen",
+       "indent": false
+      },
+      {
+       "text": "and fire of the sea",
+       "indent": true
+      },
+      {
+       "text": "and path of the serpent.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "aurum",
+      "king": "fylkir"
+     }
+    },
+    {
+     "n": 2,
+     "original": [
+      {
+       "text": "Úr er skýja grátr",
+       "indent": false
+      },
+      {
+       "text": "ok skára þverrir",
+       "indent": true
+      },
+      {
+       "text": "ok hirðis hatr.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Shower = lamentation of the clouds",
+       "indent": false
+      },
+      {
+       "text": "and ruin of the hay-harvest",
+       "indent": true
+      },
+      {
+       "text": "and abomination of the shepherd.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "umbre",
+      "king": "vísi"
+     }
+    },
+    {
+     "n": 3,
+     "original": [
+      {
+       "text": "Þurs er kvenna kvöl",
+       "indent": false
+      },
+      {
+       "text": "ok kletta búi",
+       "indent": true
+      },
+      {
+       "text": "ok varðrúnar verr.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Giant = torture of women",
+       "indent": false
+      },
+      {
+       "text": "and cliff-dweller",
+       "indent": true
+      },
+      {
+       "text": "and husband of a giantess.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "Saturnus",
+      "king": "þengill"
+     }
+    },
+    {
+     "n": 4,
+     "original": [
+      {
+       "text": "Óss er aldingautr",
+       "indent": false
+      },
+      {
+       "text": "ok ásgarðs jǫfurr,",
+       "indent": true
+      },
+      {
+       "text": "ok valhallar vísi.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "God = aged Gautr",
+       "indent": false
+      },
+      {
+       "text": "and prince of Asgard",
+       "indent": true
+      },
+      {
+       "text": "and lord of Valhalla.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "Jupiter",
+      "king": "oddviti"
+     }
+    },
+    {
+     "n": 5,
+     "original": [
+      {
+       "text": "Reið er sitjandi sæla",
+       "indent": false
+      },
+      {
+       "text": "ok snúðig ferð",
+       "indent": true
+      },
+      {
+       "text": "ok jórs erfiði.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Riding = joy of the horseman",
+       "indent": false
+      },
+      {
+       "text": "and speedy journey",
+       "indent": true
+      },
+      {
+       "text": "and toil of the steed.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "iter",
+      "king": "ræsir"
+     }
+    },
+    {
+     "n": 6,
+     "original": [
+      {
+       "text": "Kaun er barna böl",
+       "indent": false
+      },
+      {
+       "text": "ok bardaga [för]",
+       "indent": true
+      },
+      {
+       "text": "ok holdfúa hús",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Ulcer = disease fatal to children",
+       "indent": false
+      },
+      {
+       "text": "and painful spot",
+       "indent": true
+      },
+      {
+       "text": "and abode of mortification.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "flagella",
+      "king": "konungr"
+     }
+    },
+    {
+     "n": 7,
+     "original": [
+      {
+       "text": "Hagall er kaldakorn",
+       "indent": false
+      },
+      {
+       "text": "ok krapadrífa",
+       "indent": true
+      },
+      {
+       "text": "ok snáka sótt",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Hail = cold grain",
+       "indent": false
+      },
+      {
+       "text": "and shower of sleet",
+       "indent": true
+      },
+      {
+       "text": "and sickness of serpents.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "grando",
+      "king": "hildingr"
+     }
+    },
+    {
+     "n": 8,
+     "original": [
+      {
+       "text": "Nauð er þýjar þrá",
+       "indent": false
+      },
+      {
+       "text": "ok þungr kostr",
+       "indent": true
+      },
+      {
+       "text": "ok vássamlig verk.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Constraint = grief of the bond-maid",
+       "indent": false
+      },
+      {
+       "text": "and state of oppression",
+       "indent": true
+      },
+      {
+       "text": "and toilsome work.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "opera",
+      "king": "niflungr"
+     }
+    },
+    {
+     "n": 9,
+     "original": [
+      {
+       "text": "Íss er árbörkr",
+       "indent": false
+      },
+      {
+       "text": "ok unnar þak",
+       "indent": true
+      },
+      {
+       "text": "ok feigra manna fár",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Ice = bark of rivers",
+       "indent": false
+      },
+      {
+       "text": "and roof of the wave",
+       "indent": true
+      },
+      {
+       "text": "and destruction of the doomed.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "glacies",
+      "king": "jöfurr"
+     }
+    },
+    {
+     "n": 10,
+     "original": [
+      {
+       "text": "Ár er gumna góði",
+       "indent": false
+      },
+      {
+       "text": "ok gott sumar",
+       "indent": true
+      },
+      {
+       "text": "ok algróinn akr",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Plenty = boon to men",
+       "indent": false
+      },
+      {
+       "text": "and good summer",
+       "indent": true
+      },
+      {
+       "text": "and thriving crops.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "annus",
+      "king": "allvaldr"
+     }
+    },
+    {
+     "n": 11,
+     "original": [
+      {
+       "text": "Sól er skýja skjöldr",
+       "indent": false
+      },
+      {
+       "text": "ok skínandi röðull",
+       "indent": true
+      },
+      {
+       "text": "ok ísa aldrtregi",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Sun = shield of the clouds",
+       "indent": false
+      },
+      {
+       "text": "and shining ray",
+       "indent": true
+      },
+      {
+       "text": "and destroyer of ice.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "rota",
+      "king": "siklingr"
+     }
+    },
+    {
+     "n": 12,
+     "original": [
+      {
+       "text": "Týr er einhendr áss",
+       "indent": false
+      },
+      {
+       "text": "ok ulfs leifar",
+       "indent": true
+      },
+      {
+       "text": "ok hofa hilmir",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Tyr = god with one hand",
+       "indent": false
+      },
+      {
+       "text": "and leavings of the wolf",
+       "indent": true
+      },
+      {
+       "text": "and prince of temples.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "Mars",
+      "king": "tiggi"
+     }
+    },
+    {
+     "n": 13,
+     "original": [
+      {
+       "text": "Bjarkan er laufgat lim",
+       "indent": false
+      },
+      {
+       "text": "ok lítit tré",
+       "indent": true
+      },
+      {
+       "text": "ok ungsamligr viðr",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Birch = leafy twig",
+       "indent": false
+      },
+      {
+       "text": "and little tree",
+       "indent": true
+      },
+      {
+       "text": "and fresh young shrub.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "abies",
+      "king": "buðlungr"
+     }
+    },
+    {
+     "n": 14,
+     "original": [
+      {
+       "text": "Maðr er manns gaman",
+       "indent": false
+      },
+      {
+       "text": "ok moldar auki",
+       "indent": true
+      },
+      {
+       "text": "ok skipa skreytir",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Man = delight of man",
+       "indent": false
+      },
+      {
+       "text": "and augmentation of the earth",
+       "indent": true
+      },
+      {
+       "text": "and adorner of ships.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "homo",
+      "king": "mildingr"
+     }
+    },
+    {
+     "n": 15,
+     "original": [
+      {
+       "text": "Lögr er vellanda vatn",
+       "indent": false
+      },
+      {
+       "text": "ok víðr ketill",
+       "indent": true
+      },
+      {
+       "text": "ok glömmungr grund.",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Water = eddying stream",
+       "indent": false
+      },
+      {
+       "text": "and broad geysir",
+       "indent": true
+      },
+      {
+       "text": "and land of the fish.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "lacus",
+      "king": "lofðungr"
+     }
+    },
+    {
+     "n": 16,
+     "original": [
+      {
+       "text": "Ýr er bendr bogi",
+       "indent": false
+      },
+      {
+       "text": "ok brotgjarnt járn",
+       "indent": true
+      },
+      {
+       "text": "ok fífu fárbauti",
+       "indent": true
+      }
+     ],
+     "english": [
+      {
+       "text": "Ýr = bent bow",
+       "indent": false
+      },
+      {
+       "text": "and brittle iron",
+       "indent": true
+      },
+      {
+       "text": "and giant of the arrow.",
+       "indent": true
+      }
+     ],
+     "gloss": {
+      "latin": "arcus",
+      "king": "ynglingr"
+     }
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,95 @@
+1
+Fé er frænda róg
+>ok flæðar viti
+>ok grafseiðs gata
+~aurum|fylkir.
+
+2
+Úr er skýja grátr
+>ok skára þverrir
+>ok hirðis hatr.
+~umbre|vísi.
+
+3
+Þurs er kvenna kvöl
+>ok kletta búi
+>ok varðrúnar verr.
+~Saturnus|þengill.
+
+4
+Óss er aldingautr
+>ok ásgarðs jǫfurr,
+>ok valhallar vísi.
+~Jupiter|oddviti.
+
+5
+Reið er sitjandi sæla
+>ok snúðig ferð
+>ok jórs erfiði.
+~iter|ræsir.
+
+6
+Kaun er barna böl
+>ok bardaga [för]
+>ok holdfúa hús
+~flagella|konungr.
+
+7
+Hagall er kaldakorn
+>ok krapadrífa
+>ok snáka sótt
+~grando|hildingr.
+
+8
+Nauð er þýjar þrá
+>ok þungr kostr
+>ok vássamlig verk.
+~opera|niflungr.
+
+9
+Íss er árbörkr
+>ok unnar þak
+>ok feigra manna fár
+~glacies|jöfurr.
+
+10
+Ár er gumna góði
+>ok gott sumar
+>ok algróinn akr
+~annus|allvaldr.
+
+11
+Sól er skýja skjöldr
+>ok skínandi röðull
+>ok ísa aldrtregi
+~rota|siklingr.
+
+12
+Týr er einhendr áss
+>ok ulfs leifar
+>ok hofa hilmir
+~Mars|tiggi.
+
+13
+Bjarkan er laufgat lim
+>ok lítit tré
+>ok ungsamligr viðr
+~abies|buðlungr.
+
+14
+Maðr er manns gaman
+>ok moldar auki
+>ok skipa skreytir
+~homo|mildingr.
+
+15
+Lögr er vellanda vatn
+>ok víðr ketill
+>ok glömmungr grund.
+~lacus|lofðungr.
+
+16
+Ýr er bendr bogi
+>ok brotgjarnt járn
+>ok fífu fárbauti
+~arcus|ynglingr.

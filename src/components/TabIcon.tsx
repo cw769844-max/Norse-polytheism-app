@@ -1,7 +1,7 @@
 import type { ColorValue } from 'react-native';
 import Svg, { Circle, Line, Path } from 'react-native-svg';
 
-export type TabIconName = 'hearth' | 'wheel' | 'well' | 'settings';
+export type TabIconName = 'hearth' | 'wheel' | 'well' | 'runes' | 'settings';
 
 /** Hand-drawn line icons for the tab bar. */
 export function TabIcon({ name, color, size = 26 }: { name: TabIconName; color: ColorValue; size?: number }) {
@@ -39,6 +39,12 @@ export function TabIcon({ name, color, size = 26 }: { name: TabIconName; color: 
           <Path d="M4 10h16v8a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3z" {...common} />
           <Path d="M7 14c1.5 1 3.5 1 5 0s3.5-1 5 0" {...common} />
           <Path d="M12 10V4M8 4h8" {...common} />
+        </>
+      )}
+      {name === 'runes' && (
+        <>
+          <Path d="M5 3h14v18H5z" {...common} strokeWidth={1.2} />
+          <Path d="M10 6v12M10 9l4-3M10 12l4-3" {...common} />
         </>
       )}
       {name === 'settings' && (
