@@ -10,7 +10,8 @@
     "backgroundColor": "#14110F",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "app.hearthandwell"
+      "bundleIdentifier": "app.hearthandwell",
+      "infoPlist": {}
     },
     "android": {
       "package": "app.hearthandwell",
@@ -45,6 +46,17 @@
           "enableRemoteNotifications": false
         }
       ]
-    ]
+    ],
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "476c5a6b-6357-455c-b7da-983880036283"
+      }
+    },
+    "owner": "cw769844"
   }
 }
