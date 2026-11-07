@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024"><defs>
+  <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+    <stop offset="0" stop-color="#2E2621"/><stop offset="1" stop-color="#14110F"/>
+  </radialGradient>
+  <linearGradient id="flame" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F2B85A"/><stop offset="1" stop-color="#D9693D"/>
+  </linearGradient>
+  <linearGradient id="core" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FCE6A8"/><stop offset="1" stop-color="#F6C46A"/>
+  </linearGradient>
+  <mask id="flame-with-core" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+    <path d="M512 196 C 548 286, 668 368, 676 520 C 684 664, 604 760, 512 764 C 420 760, 340 664, 348 548 C 354 462, 400 410, 436 376 C 438 444, 458 486, 492 506 C 474 418, 476 300, 512 196 Z" fill="#fff"/><path d="M512 456 C 540 512, 604 556, 604 638 C 604 702, 562 744, 512 746 C 462 744, 420 702, 420 640 C 420 586, 462 548, 486 520 C 490 560, 500 578, 516 588 C 508 540, 500 496, 512 456 Z" fill="#000"/>
+  </mask></defs><rect width="1024" height="1024" fill="url(#bg)"/></svg>

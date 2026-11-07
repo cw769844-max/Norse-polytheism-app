@@ -73,7 +73,7 @@ src/
   theme/                Design tokens and theme provider
 docs/                   Pitch and content guidelines
 content-sources/        Transcribed source texts (Old Norse, rune poems)
-scripts/                Content import tools
+scripts/                Content import tools and the icon generator
 ```
 
 ## How dates are calculated
@@ -107,6 +107,20 @@ pip install beautifulsoup4
 python3 -I scripts/import_bellows.py --cache /tmp/bellows-cache
 python3 -I scripts/import_rune_poems.py
 ```
+
+## App icon
+
+All icons come from one design (a hearth flame above the well water) defined in
+`scripts/build-icons.mjs`. To change it, edit the mark there and run:
+
+```bash
+npm run icons
+```
+
+This writes the PNGs that `app.json` uses into `assets/` (iOS icon, Android
+adaptive layers and themed monochrome icon, notification icon, splash icon,
+favicon) and viewable SVG sources into `assets/source/`. Icon and splash changes
+only appear after a new native build (`eas build`), not with a JavaScript reload.
 
 ## Testing reminders
 
